@@ -4,54 +4,59 @@
 
 <div class="container" ng-controller="playersListController as ctrl" ng-init="ctrl.init()">
     <div class="row text-center">
-        <span class="glyphicon glyphicon-search" style="font-size: 150px; color: #5fd4cf; margin-bottom: 20px;" aria-hidden="true"></span>
+        <h1>Lista Calciatori</h1>
     </div>
     
     <div class="col-md-12">
-                <div class="col-xs-12 col-md-4">
-                    <div class="input-group">
-                        <span class="input-group-addon">Nome</span>
-                        <input type="text" ng-model="ctrl.playerName" class="form-control" placeholder="Search for player...">
-                        
-                    </div><!-- /input-group -->
+        <div class="col-xs-12 col-md-4">
+            <h3>Filtri</h3>
+            <div class="row" style="margin-bottom: 15px; margin-left: 0px !important">
+                <div class="input-group">
+                    <span class="input-group-addon">Nome</span>
+                    <input type="text" ng-model="ctrl.playerName" class="form-control" placeholder="Cerca giocatore...">
                 </div>
-                <div class="col-xs-12 col-md-4">
-                    <div class="input-group">
-                        @*<span class="input-group-addon">Ruolo</span>*@
-                        @*<input type="text" ng-model="ctrl.roleName" class="form-control" placeholder="Search for role...">*@
-                        <button class="btn btn-info" ng-click="ctrl.roleName = 'P'">P</button>
-                        <button class="btn btn-success" ng-click="ctrl.roleName = 'D'">D</button>
-                        <button class="btn btn-warning" ng-click="ctrl.roleName = 'C'">C</button>
-                        <button class="btn btn-danger" ng-click="ctrl.roleName = 'A'">A</button>
-                        <button class="btn btn-primary" ng-click="ctrl.roleName = ''">Tutti</button>
-                    </div><!-- /input-group -->
+            </div>
+            <div class="row" style="margin-bottom: 15px; margin-left: 0px !important">
+                <div class="input-group">
+                    <span class="input-group-addon">Ruolo</span>
+                    <button class="btn btn-info" ng-click="ctrl.roleName = 'P'">P</button>
+                    <button class="btn btn-success" ng-click="ctrl.roleName = 'D'">D</button>
+                    <button class="btn btn-warning" ng-click="ctrl.roleName = 'C'">C</button>
+                    <button class="btn btn-danger" ng-click="ctrl.roleName = 'A'">A</button>
+                    <button class="btn btn-primary" ng-click="ctrl.roleName = ''">Tutti</button>
                 </div>
-                <div class="col-xs-12 col-md-4">
-                    <div class="input-group">
-                        <span class="input-group-addon">Squadra</span>
-                        
-                        <select class="form-control" ng-options="item.value as item.text for item in ctrl.teamList" ng-model="ctrl.teamName">
-                        </select>
-                    </div><!-- /input-group -->
+            </div>
+            <div class="row" style="margin-left: 0px !important">
+                <div class="input-group">
+                    <span class="input-group-addon">Squadra</span>
+                    <select class="form-control" ng-options="item.value as item.text for item in ctrl.teamList" ng-model="ctrl.teamName"></select>
                 </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-8">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            Nome
+                        </th>
+                        <th>
+                            Ruolo
+                        </th>
+                        <th>Squadra</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="player in ctrl.players | filter: { nominativo: ctrl.playerName, ruolo: ctrl.roleName, squadra: ctrl.teamName }">
+                        <td ng-bind="player.nominativo"></td>
+                        <td ng-bind="player.ruolo" ng-class="[ctrl.roleColor[player.ruolo]]"></td>
+                        <td ng-bind="player.squadra"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
     </div>
-    
-    <table class="table table-striped">
-        <thead>
-            <tr>
-                <th>Nome</th>
-                <th>Ruolo</th>
-                <th>Squadra</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr ng-repeat="player in ctrl.players | filter: { nominativo: ctrl.playerName, ruolo: ctrl.roleName, squadra: ctrl.teamName }">
-                <td ng-bind="player.nominativo"></td>
-                <td ng-bind="player.ruolo"></td>
-                <td ng-bind="player.squadra"></td>
-            </tr>
-        </tbody>
-    </table>
 </div>
 
 

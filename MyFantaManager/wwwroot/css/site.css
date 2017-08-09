@@ -28,6 +28,26 @@ textarea {
     width: 100%;
 }
 
+.red {
+    color: #ac2925;
+    font-weight: bold
+}
+
+.blue {
+    color: #5bc0de;
+    font-weight: bold
+}
+
+.green {
+    color: #398439;
+    font-weight: bold
+}
+
+.yellow {
+    color: #f0ad4e;
+    font-weight: bold
+}
+
 /* Hide/rearrange for smaller screens */
 @media screen and (max-width: 767px) {
     /* Hide captions */

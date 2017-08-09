@@ -28,6 +28,14 @@ module.controller("playersListController", [
             { value: "Torino", text: "Torino" },
             { value: "Udinese", text: "Udinese" }
         ];
+
+        self.roleColor = {
+            P: "blue",
+            D: "green",
+            C: "yellow",
+            A: "red"
+        };
+
         self.Title = "Lista Giocatori";
         self.playerName = "";
         self.roleName = "";
