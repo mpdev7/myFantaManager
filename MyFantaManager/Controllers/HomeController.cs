@@ -11,7 +11,12 @@ namespace MyFantaManager.Controllers
         public IActionResult Index()
         {
             return View();
-        }      
+        }
+        
+        public IActionResult Print()
+        {
+            return View();
+        }
 
         public IActionResult Error()
         {

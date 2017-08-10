@@ -1,3693 +1,4295 @@
 {
-    "data": [{
-        
-        "nominativo": "ALISSON Ramses Becker",
-        "ruolo": "P",
-        "squadra": "Roma",
-        "data nascita": "10/2/92"
-    }, {
-        
-        "nominativo": "BELEC Vid",
-        "ruolo": "P",
-        "squadra": "Benevento",
-        "data nascita": "6/6/90"
-    }, {
-        
-        "nominativo": "BERISHA Etrit",
-        "ruolo": "P",
-        "squadra": "Atalanta",
-        "data nascita": "3/10/89"
-    }, {
-        
-        "nominativo": "BERNI Tommaso",
-        "ruolo": "P",
-        "squadra": "Inter",
-        "data nascita": "3/6/83"
-    }, {
-        
-        "nominativo": "BIZZARRI Albano Benjamin",
-        "ruolo": "P",
-        "squadra": "Udinese",
-        "data nascita": "11/9/77"
-    }, {
-        
-        "nominativo": "BRANDUANI Paolo",
-        "ruolo": "P",
-        "squadra": "Spal",
-        "data nascita": "3/9/89"
-    }, {
-        
-        "nominativo": "BRIGNOLI Alberto",
-        "ruolo": "P",
-        "squadra": "Juventus",
-        "data nascita": "8/19/91"
-    }, {
-        
-        "nominativo": "BUFFON Gianluigi",
-        "ruolo": "P",
-        "squadra": "Juventus",
-        "data nascita": "1/28/78"
-    }, {
-        
-        "nominativo": "CONSIGLI Andrea",
-        "ruolo": "P",
-        "squadra": "Sassuolo",
-        "data nascita": "1/27/87"
-    }, {
-        
-        "nominativo": "COPPOLA Ferdinando",
-        "ruolo": "P",
-        "squadra": "Verona",
-        "data nascita": "6/10/78"
-    }, {
-        
-        "nominativo": "CORDAZ Alex",
-        "ruolo": "P",
-        "squadra": "Crotone",
-        "data nascita": "1/1/83"
-    }, {
-        
-        "nominativo": "CRAGNO Alessio",
-        "ruolo": "P",
-        "squadra": "Cagliari",
-        "data nascita": "6/28/94"
-    }, {
-        
-        "nominativo": "CROSTA Luca",
-        "ruolo": "P",
-        "squadra": "Cagliari",
-        "data nascita": "2/23/98"
-    }, {
-        
-        "nominativo": "DA COSTA Angelo Junior",
-        "ruolo": "P",
-        "squadra": "Bologna",
-        "data nascita": "11/12/83"
-    }, {
-        
-        "nominativo": "DONNARUMMA Antonio",
-        "ruolo": "P",
-        "squadra": "Milan",
-        "data nascita": "7/6/90"
-    }, {
-        
-        "nominativo": "DONNARUMMA Gianluigi",
-        "ruolo": "P",
-        "squadra": "Milan",
-        "data nascita": "2/25/99"
-    }, {
-        
-        "nominativo": "DRAGOWSKI Bartlomiej",
-        "ruolo": "P",
-        "squadra": "Fiorentina",
-        "data nascita": "8/19/97"
-    }, {
-        
-        "nominativo": "FESTA Marco",
-        "ruolo": "P",
-        "squadra": "Crotone",
-        "data nascita": "6/6/92"
-    }, {
-        
-        "nominativo": "GABRIEL Vasconcelos Ferreira",
-        "ruolo": "P",
-        "squadra": "Milan",
-        "data nascita": "9/27/92"
-    }, {
-        
-        "nominativo": "GOLLINI Pierluigi",
-        "ruolo": "P",
-        "squadra": "Atalanta",
-        "data nascita": "3/18/95"
-    }, {
-        
-        "nominativo": "GOMIS Alfred",
-        "ruolo": "P",
-        "squadra": "Spal",
-        "data nascita": "9/5/93"
-    }, {
-        
-        "nominativo": "GUERRIERI Guido",
-        "ruolo": "P",
-        "squadra": "Lazio",
-        "data nascita": "2/25/96"
-    }, {
-        
-        "nominativo": "HANDANOVIC Samir",
-        "ruolo": "P",
-        "squadra": "Inter",
-        "data nascita": "7/14/84"
-    }, {
-        
-        "nominativo": "ICHAZO Salvador",
-        "ruolo": "P",
-        "squadra": "Torino",
-        "data nascita": "1/26/92"
-    }, {
-        
-        "nominativo": "KARNEZIS Orestis",
-        "ruolo": "P",
-        "squadra": "Udinese",
-        "data nascita": "7/11/85"
-    }, {
-        
-        "nominativo": "KRAPIKAS Titas",
-        "ruolo": "P",
-        "squadra": "Sampdoria",
-        "data nascita": "1/3/99"
-    }, {
-        
-        "nominativo": "LAMANNA Eugenio",
-        "ruolo": "P",
-        "squadra": "Genoa",
-        "data nascita": "8/7/89"
-    }, {
-        
-        "nominativo": "LOBONT Bogdan",
-        "ruolo": "P",
-        "squadra": "Roma",
-        "data nascita": "1/18/78"
-    }, {
-        
-        "nominativo": "MARCHEGIANI Gabriele",
-        "ruolo": "P",
-        "squadra": "Spal",
-        "data nascita": "6/3/96"
-    }, {
-        
-        "nominativo": "MARCHETTI Federico",
-        "ruolo": "P",
-        "squadra": "Lazio",
-        "data nascita": "2/7/83"
-    }, {
-        
-        "nominativo": "MARSON Leonardo",
-        "ruolo": "P",
-        "squadra": "Sassuolo",
-        "data nascita": "1/5/98"
-    }, {
-        
-        "nominativo": "MERET Alex",
-        "ruolo": "P",
-        "squadra": "Spal",
-        "data nascita": "3/22/97"
-    }, {
-        
-        "nominativo": "MILINKOVIC-SAVIC Vanja",
-        "ruolo": "P",
-        "squadra": "Torino",
-        "data nascita": "2/20/97"
-    }, {
-        
-        "nominativo": "MIRANTE Antonio",
-        "ruolo": "P",
-        "squadra": "Bologna",
-        "data nascita": "7/8/83"
-    }, {
-        
-        "nominativo": "NICOLAS Andrade David",
-        "ruolo": "P",
-        "squadra": "Verona",
-        "data nascita": "4/12/88"
-    }, {
-        
-        "nominativo": "PADELLI Daniele",
-        "ruolo": "P",
-        "squadra": "Inter",
-        "data nascita": "10/25/85"
-    }, {
-        
-        "nominativo": "PEGOLO Gianluca",
-        "ruolo": "P",
-        "squadra": "Sassuolo",
-        "data nascita": "3/25/81"
-    }, {
-        
-        "nominativo": "PERIN Mattia",
-        "ruolo": "P",
-        "squadra": "Genoa",
-        "data nascita": "11/10/92"
-    }, {
-        
-        "nominativo": "PINSOGLIO Carlo",
-        "ruolo": "P",
-        "squadra": "Juventus",
-        "data nascita": "3/16/90"
-    }, {
-        
-        "nominativo": "PISCITELLI Riccardo",
-        "ruolo": "P",
-        "squadra": "Benevento",
-        "data nascita": "10/10/93"
-    }, {
-        
-        "nominativo": "POLUZZI Giacomo",
-        "ruolo": "P",
-        "squadra": "Spal",
-        "data nascita": "2/25/88"
-    }, {
-        
-        "nominativo": "POMINI Alberto",
-        "ruolo": "P",
-        "squadra": "Sassuolo",
-        "data nascita": "3/17/81"
-    }, {
-        
-        "nominativo": "PUGGIONI Christian",
-        "ruolo": "P",
-        "squadra": "Sampdoria",
-        "data nascita": "1/17/81"
-    }, {
-        
-        "nominativo": "RADUNOVIC Boris",
-        "ruolo": "P",
-        "squadra": "Atalanta",
-        "data nascita": "5/26/96"
-    }, {
-        
-        "nominativo": "RAFAEL Cabral Barbosa",
-        "ruolo": "P",
-        "squadra": "Napoli",
-        "data nascita": "5/20/90"
-    }, {
-        
-        "nominativo": "RAFAEL De Andrade Bittencourt",
-        "ruolo": "P",
-        "squadra": "Cagliari",
-        "data nascita": "3/3/82"
-    }, {
-        
-        "nominativo": "RAVAGLIA Federico",
-        "ruolo": "P",
-        "squadra": "Bologna",
-        "data nascita": "11/11/99"
-    }, {
-        
-        "nominativo": "REINA Jose Manuel",
-        "ruolo": "P",
-        "squadra": "Napoli",
-        "data nascita": "8/31/82"
-    }, {
-        
-        "nominativo": "ROSSI Francesco",
-        "ruolo": "P",
-        "squadra": "Atalanta",
-        "data nascita": "4/27/91"
-    }, {
-        
-        "nominativo": "SANTURRO Antonio",
-        "ruolo": "P",
-        "squadra": "Bologna",
-        "data nascita": "2/29/92"
-    }, {
-        
-        "nominativo": "SATALINO Giacomo",
-        "ruolo": "P",
-        "squadra": "Fiorentina",
-        "data nascita": "5/20/99"
-    }, {
-        
-        "nominativo": "SCUFFET Simone",
-        "ruolo": "P",
-        "squadra": "Udinese",
-        "data nascita": "5/31/96"
-    }, {
-        
-        "nominativo": "SECULIN Andrea",
-        "ruolo": "P",
-        "squadra": "Chievo",
-        "data nascita": "7/14/90"
-    }, {
-        
-        "nominativo": "SEPE Luigi",
-        "ruolo": "P",
-        "squadra": "Napoli",
-        "data nascita": "5/8/91"
-    }, {
-        
-        "nominativo": "SILVESTRI Marco",
-        "ruolo": "P",
-        "squadra": "Verona",
-        "data nascita": "3/2/91"
-    }, {
-        
-        "nominativo": "SIRIGU Salvatore",
-        "ruolo": "P",
-        "squadra": "Torino",
-        "data nascita": "1/12/87"
-    }, {
-        
-        "nominativo": "SKORUPSKI Lukasz",
-        "ruolo": "P",
-        "squadra": "Roma",
-        "data nascita": "5/5/91"
-    }, {
-        
-        "nominativo": "SORRENTINO Stefano",
-        "ruolo": "P",
-        "squadra": "Chievo",
-        "data nascita": "3/28/79"
-    }, {
-        
-        "nominativo": "SPORTIELLO Marco",
-        "ruolo": "P",
-        "squadra": "Fiorentina",
-        "data nascita": "5/10/92"
-    }, {
-        
-        "nominativo": "STORARI Marco",
-        "ruolo": "P",
-        "squadra": "Milan",
-        "data nascita": "1/7/77"
-    }, {
-        
-        "nominativo": "STRAKOSHA Thomas",
-        "ruolo": "P",
-        "squadra": "Lazio",
-        "data nascita": "3/19/95"
-    }, {
-        
-        "nominativo": "SZCZESNY Wojciech",
-        "ruolo": "P",
-        "squadra": "Juventus",
-        "data nascita": "4/18/90"
-    }, {
-        
-        "nominativo": "TOZZO Andrea",
-        "ruolo": "P",
-        "squadra": "Sampdoria",
-        "data nascita": "8/30/92"
-    }, {
-        
-        "nominativo": "VARGIC Ivan",
-        "ruolo": "P",
-        "squadra": "Lazio",
-        "data nascita": "3/15/87"
-    }, {
-        
-        "nominativo": "VISCOVO Aniello",
-        "ruolo": "P",
-        "squadra": "Crotone",
-        "data nascita": "6/21/99"
-    }, {
-        
-        "nominativo": "VIVIANO Emiliano",
-        "ruolo": "P",
-        "squadra": "Sampdoria",
-        "data nascita": "12/1/85"
-    }, {
-        
-        "nominativo": "ZACCAGNO Andrea",
-        "ruolo": "P",
-        "squadra": "Torino",
-        "data nascita": "5/27/97"
-    }, {
-        
-        "nominativo": "ZIMA Lukas",
-        "ruolo": "P",
-        "squadra": "Genoa",
-        "data nascita": "1/9/94"
-    }, {
-        
-        "nominativo": "ABATE Ignazio",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "11/12/86"
-    }, {
-        
-        "nominativo": "ACERBI Francesco",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "2/10/88"
-    }, {
-        
-        "nominativo": "ADNAN Ali Kadhim",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "12/19/93"
-    }, {
-        
-        "nominativo": "AJETI Arlind",
-        "ruolo": "D",
-        "squadra": "Crotone",
-        "data nascita": "9/25/93"
-    }, {
-        
-        "nominativo": "ALBERTAZZI Michelangelo",
-        "ruolo": "D",
-        "squadra": "Verona",
-        "data nascita": "1/7/91"
-    }, {
-        
-        "nominativo": "ALBIOL Raul",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "9/4/85"
-    }, {
-        
-        "nominativo": "ALEX SANDRO Lobo Silva",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "1/26/91"
-    }, {
-        
-        "nominativo": "AMUZIE Stanley",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "2/28/96"
-    }, {
-        
-        "nominativo": "ANDREOLLI Marco",
-        "ruolo": "D",
-        "squadra": "Cagliari",
-        "data nascita": "6/10/86"
-    }, {
-        
-        "nominativo": "ANGELLA Gabriele",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "4/28/89"
-    }, {
-        
-        "nominativo": "ANSALDI Cristian Daniel",
-        "ruolo": "D",
-        "squadra": "Inter",
-        "data nascita": "9/20/86"
-    }, {
-        
-        "nominativo": "ANTEI Luca",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "4/19/92"
-    }, {
-        
-        "nominativo": "ANTONELLI Luca",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "2/11/87"
-    }, {
-        
-        "nominativo": "ASAMOAH Kwadwo",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "12/9/88"
-    }, {
-        
-        "nominativo": "ASTORI Davide",
-        "ruolo": "D",
-        "squadra": "Fiorentina",
-        "data nascita": "1/7/87"
-    }, {
-        
-        "nominativo": "AVELAR Danilo Fernando",
-        "ruolo": "D",
-        "squadra": "Torino",
-        "data nascita": "6/9/89"
-    }, {
-        
-        "nominativo": "BALZANO Antonio",
-        "ruolo": "D",
-        "squadra": "Cagliari",
-        "data nascita": "6/13/86"
-    }, {
-        
-        "nominativo": "BANI Mattia",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "12/10/93"
-    }, {
-        
-        "nominativo": "BARRECA Antonio",
-        "ruolo": "D",
-        "squadra": "Torino",
-        "data nascita": "3/18/95"
-    }, {
-        
-        "nominativo": "BARZAGLI Andrea",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "5/8/81"
-    }, {
-        
-        "nominativo": "BASTA Dusan",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "8/18/84"
-    }, {
-        
-        "nominativo": "BASTONI Alessandro",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "4/13/99"
-    }, {
-        
-        "nominativo": "BASTOS Bartolomeu Jacinto",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "11/23/91"
-    }, {
-        
-        "nominativo": "BENATIA Mehdi",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "4/17/87"
-    }, {
-        
-        "nominativo": "BERESZYNSKI Bartosz",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "7/12/92"
-    }, {
-        
-        "nominativo": "BIANCHETTI Matteo",
-        "ruolo": "D",
-        "squadra": "Verona",
-        "data nascita": "3/17/93"
-    }, {
-        
-        "nominativo": "BIRASCHI Davide",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "7/2/94"
-    }, {
-        
-        "nominativo": "BOCHNIEWICZ Pawel",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "1/30/96"
-    }, {
-        
-        "nominativo": "BONIFAZI Kevin",
-        "ruolo": "D",
-        "squadra": "Torino",
-        "data nascita": "5/19/96"
-    }, {
-        
-        "nominativo": "BONUCCI Leonardo",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "5/1/87"
-    }, {
-        
-        "nominativo": "BRIGNANI Fabrizio",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "1/13/98"
-    }, {
-        
-        "nominativo": "BRIVIO Davide",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "8/17/88"
-    }, {
-        
-        "nominativo": "BROSCO Riccardo",
-        "ruolo": "D",
-        "squadra": "Verona",
-        "data nascita": "2/3/91"
-    }, {
-        
-        "nominativo": "BRUNO PERES da Silva",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "3/1/90"
-    }, {
-        
-        "nominativo": "BUBNJIC Igor",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "7/17/92"
-    }, {
-        
-        "nominativo": "CABRERA Leandro Daniel",
-        "ruolo": "D",
-        "squadra": "Crotone",
-        "data nascita": "6/17/91"
-    }, {
-        
-        "nominativo": "CACCIATORE Fabrizio",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "10/8/86"
-    }, {
-        
-        "nominativo": "CALABRIA Davide",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "12/6/96"
-    }, {
-        
-        "nominativo": "CALDARA Mattia",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "5/5/94"
-    }, {
-        
-        "nominativo": "CAMPORESE Michele",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "5/19/92"
-    }, {
-        
-        "nominativo": "CANNAVARO Paolo",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "6/26/81"
-    }, {
-        
-        "nominativo": "CAPUANO Marco",
-        "ruolo": "D",
-        "squadra": "Cagliari",
-        "data nascita": "10/14/91"
-    }, {
-        
-        "nominativo": "CARACCIOLO Antonio Aldo",
-        "ruolo": "D",
-        "squadra": "Verona",
-        "data nascita": "6/30/90"
-    }, {
-        
-        "nominativo": "CASTAGNE Timothy",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "12/5/95"
-    }, {
-        
-        "nominativo": "CASTAN Leandro da Silva",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "11/5/86"
-    }, {
-        
-        "nominativo": "CECCHERINI Federico",
-        "ruolo": "D",
-        "squadra": "Crotone",
-        "data nascita": "5/11/92"
-    }, {
-        
-        "nominativo": "CEPPITELLI Luca",
-        "ruolo": "D",
-        "squadra": "Cagliari",
-        "data nascita": "8/11/89"
-    }, {
-        
-        "nominativo": "CESAR Bostjan",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "7/9/82"
-    }, {
-        
-        "nominativo": "CHERUBIN Nicolo'",
-        "ruolo": "D",
-        "squadra": "Verona",
-        "data nascita": "12/2/86"
-    }, {
-        
-        "nominativo": "CHIELLINI Giorgio",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "8/14/84"
-    }, {
-        
-        "nominativo": "CHIRICHES Vlad Iulian",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "11/14/89"
-    }, {
-        
-        "nominativo": "COSTA Andrea",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "2/1/86"
-    }, {
-        
-        "nominativo": "CREMONESI Michele",
-        "ruolo": "D",
-        "squadra": "Spal",
-        "data nascita": "4/15/88"
-    }, {
-        
-        "nominativo": "CUOMO Giuseppe",
-        "ruolo": "D",
-        "squadra": "Crotone",
-        "data nascita": "2/2/98"
-    }, {
-        
-        "nominativo": "DAINELLI Dario",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "6/9/79"
-    }, {
-        
-        "nominativo": "D'AMBROSIO Danilo",
-        "ruolo": "D",
-        "squadra": "Inter",
-        "data nascita": "9/9/88"
-    }, {
-        
-        "nominativo": "DANILO Larangeira",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "5/10/84"
-    }, {
-        
-        "nominativo": "DAPRELA' Fabio",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "2/19/91"
-    }, {
-        
-        "nominativo": "DE MAIO Sebastien",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "3/5/87"
-    }, {
-        
-        "nominativo": "DE SCIGLIO Mattia",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "10/20/92"
-    }, {
-        
-        "nominativo": "DE SILVESTRI Lorenzo",
-        "ruolo": "D",
-        "squadra": "Torino",
-        "data nascita": "5/23/88"
-    }, {
-        
-        "nominativo": "DE VRIJ Stefan",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "2/5/92"
-    }, {
-        
-        "nominativo": "DEL FABRO Dario",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "3/24/95"
-    }, {
-        
-        "nominativo": "DEL GROSSO Cristiano",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "3/24/83"
-    }, {
-        
-        "nominativo": "DELL'ORCO Cristian",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "2/10/94"
-    }, {
-        
-        "nominativo": "DI CHIARA Gianluca",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "12/26/93"
-    }, {
-        
-        "nominativo": "DJIMSITI Berat",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "2/19/93"
-    }, {
-        
-        "nominativo": "DODO' Jose Rodolfo",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "2/6/92"
-    }, {
-        
-        "nominativo": "DRAME' Boukary",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "7/22/85"
-    }, {
-        
-        "nominativo": "DUSSENNE Noe",
-        "ruolo": "D",
-        "squadra": "Crotone",
-        "data nascita": "4/7/92"
-    }, {
-        
-        "nominativo": "EMERSON Palmieri dos Santos",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "8/3/94"
-    }, {
-        
-        "nominativo": "FARAONI Marco Davide",
-        "ruolo": "D",
-        "squadra": "Crotone",
-        "data nascita": "10/25/91"
-    }, {
-        
-        "nominativo": "FAZIO Federico Julian",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "3/17/87"
-    }, {
-        
-        "nominativo": "FELIPE Dal Belo Dias",
-        "ruolo": "D",
-        "squadra": "Spal",
-        "data nascita": "7/31/84"
-    }, {
-        
-        "nominativo": "FERRARI Alex",
-        "ruolo": "D",
-        "squadra": "Verona",
-        "data nascita": "7/1/94"
-    }, {
-        
-        "nominativo": "FERRARI Gianmarco",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "5/15/92"
-    }, {
-        
-        "nominativo": "FIAMOZZI Riccardo",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "5/18/93"
-    }, {
-        
-        "nominativo": "FREY Nicolas Sebastien",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "3/6/84"
-    }, {
-        
-        "nominativo": "GAMBERINI Alessandro",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "8/27/81"
-    }, {
-        
-        "nominativo": "GASPAR Bruno Miguel",
-        "ruolo": "D",
-        "squadra": "Fiorentina",
-        "data nascita": "4/21/93"
-    }, {
-        
-        "nominativo": "GASPARETTO Daniele",
-        "ruolo": "D",
-        "squadra": "Spal",
-        "data nascita": "4/6/88"
-    }, {
-        
-        "nominativo": "GASTALDELLO Daniele",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "6/25/83"
-    }, {
-        
-        "nominativo": "GAZZOLA Marcello",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "4/3/85"
-    }, {
-        
-        "nominativo": "GENTILETTI Santiago Juan",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "1/9/85"
-    }, {
-        
-        "nominativo": "GHOULAM Faouzi",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "2/1/91"
-    }, {
-        
-        "nominativo": "GOBBI Massimo",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "10/31/80"
-    }, {
-        
-        "nominativo": "GOLDANIGA Edoardo",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "11/2/93"
-    }, {
-        
-        "nominativo": "GOMEZ Gustavo Raul",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "6/6/93"
-    }, {
-        
-        "nominativo": "GONZALEZ Giancarlo",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "2/8/88"
-    }, {
-        
-        "nominativo": "GORGA Sebastian",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "4/6/94"
-    }, {
-        
-        "nominativo": "GRAVILLON Andrew Rayan",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "2/8/98"
-    }, {
-        
-        "nominativo": "GYAMFI Bright",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "1/20/96"
-    }, {
-        
-        "nominativo": "GYOMBER Norbert",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "7/3/92"
-    }, {
-        
-        "nominativo": "HATEBOER Hans",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "1/9/94"
-    }, {
-        
-        "nominativo": "HELANDER Filip Viktor",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "4/22/93"
-    }, {
-        
-        "nominativo": "HEURTAUX Thomas",
-        "ruolo": "D",
-        "squadra": "Verona",
-        "data nascita": "7/3/88"
-    }, {
-        
-        "nominativo": "HOEDT Wesley",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "3/6/94"
-    }, {
-        
-        "nominativo": "HYSAJ Elseid",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "2/2/94"
-    }, {
-        
-        "nominativo": "INSUA Emanuel Mariano",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "4/10/91"
-    }, {
-        
-        "nominativo": "IZZO Armando",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "3/2/92"
-    }, {
-        
-        "nominativo": "JAROSZYNSKI Pawel",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "10/2/94"
-    }, {
-        
-        "nominativo": "JUAN JESUS Guilherme Nunes",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "6/10/91"
-    }, {
-        
-        "nominativo": "KARSDORP Rick",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "2/11/95"
-    }, {
-        
-        "nominativo": "KOLAROV Aleksandar",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "11/10/85"
-    }, {
-        
-        "nominativo": "KONATE Pa Momodou",
-        "ruolo": "D",
-        "squadra": "Spal",
-        "data nascita": "4/25/94"
-    }, {
-        
-        "nominativo": "KOULIBALY Kalidou",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "6/20/91"
-    }, {
-        
-        "nominativo": "KRAFTH Emil Henry",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "8/2/94"
-    }, {
-        
-        "nominativo": "LANDRE Loick",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "5/5/92"
-    }, {
-        
-        "nominativo": "LETIZIA Gaetano",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "6/29/90"
-    }, {
-        
-        "nominativo": "LETSCHERT Timo",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "5/25/93"
-    }, {
-        
-        "nominativo": "LEVERBE Maxime",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "2/15/97"
-    }, {
-        
-        "nominativo": "LICHTSTEINER Stephan",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "1/16/84"
-    }, {
-        
-        "nominativo": "LIROLA Pol Mikel",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "8/13/97"
-    }, {
-        
-        "nominativo": "LOPEZ Walter Alberto",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "10/15/85"
-    }, {
-        
-        "nominativo": "LUCIONI Fabio",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "9/25/87"
-    }, {
-        
-        "nominativo": "LUIZ FELIPE Ramos Marchi",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "3/22/97"
-    }, {
-        
-        "nominativo": "LUKAKU Jordan Zacharie",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "7/21/94"
-    }, {
-        
-        "nominativo": "LUPERTO Sebastiano",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "9/6/96"
-    }, {
-        
-        "nominativo": "LYANCO Evangelista Silveira",
-        "ruolo": "D",
-        "squadra": "Torino",
-        "data nascita": "2/1/97"
-    }, {
-        
-        "nominativo": "MAGGIO Christian",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "2/11/82"
-    }, {
-        
-        "nominativo": "MAIETTA Domenico",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "8/3/82"
-    }, {
-        
-        "nominativo": "MAKSIMOVIC Nikola",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "11/25/91"
-    }, {
-        
-        "nominativo": "MANCINI Gianluca",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "4/17/96"
-    }, {
-        
-        "nominativo": "MANOLAS Kostas",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "6/14/91"
-    }, {
-        
-        "nominativo": "MARCHIZZA Riccardo",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "3/26/98"
-    }, {
-        
-        "nominativo": "MARIO RUI Silva Duarte",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "5/27/91"
-    }, {
-        
-        "nominativo": "MARTELLA Bruno",
-        "ruolo": "D",
-        "squadra": "Crotone",
-        "data nascita": "8/14/92"
-    }, {
-        
-        "nominativo": "MASIELLO Andrea",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "2/5/86"
-    }, {
-        
-        "nominativo": "MASINA Adam",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "1/2/94"
-    }, {
-        
-        "nominativo": "MATTIELLO Federico",
-        "ruolo": "D",
-        "squadra": "Spal",
-        "data nascita": "7/14/95"
-    }, {
-        
-        "nominativo": "MAURICIO dos Santos Nascimento",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "9/20/88"
-    }, {
-        
-        "nominativo": "MBAYE Ibrahima",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "11/19/94"
-    }, {
-        
-        "nominativo": "MIANGUE Senna",
-        "ruolo": "D",
-        "squadra": "Cagliari",
-        "data nascita": "2/5/97"
-    }, {
-        
-        "nominativo": "MILENKOVIC Nikola",
-        "ruolo": "D",
-        "squadra": "Fiorentina",
-        "data nascita": "10/12/97"
-    }, {
-        
-        "nominativo": "MIRANDA Joao de Souza",
-        "ruolo": "D",
-        "squadra": "Inter",
-        "data nascita": "9/7/84"
-    }, {
-        
-        "nominativo": "MOLINARO Cristian",
-        "ruolo": "D",
-        "squadra": "Torino",
-        "data nascita": "7/30/83"
-    }, {
-        
-        "nominativo": "MORENO Hector Alfredo",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "1/17/88"
-    }, {
-        
-        "nominativo": "MORETTI Emiliano",
-        "ruolo": "D",
-        "squadra": "Torino",
-        "data nascita": "6/11/81"
-    }, {
-        
-        "nominativo": "MUNOZ Ezequiel Matias",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "10/8/90"
-    }, {
-        
-        "nominativo": "MURILLO Jeison Fabian",
-        "ruolo": "D",
-        "squadra": "Inter",
-        "data nascita": "5/27/92"
-    }, {
-        
-        "nominativo": "MURRU Nicola",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "12/16/94"
-    }, {
-        
-        "nominativo": "MUSACCHIO Mateo Pablo",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "8/26/90"
-    }, {
-        
-        "nominativo": "MUSAVU-KING Yrondu",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "1/8/92"
-    }, {
-        
-        "nominativo": "NAGATOMO Yuto",
-        "ruolo": "D",
-        "squadra": "Inter",
-        "data nascita": "9/12/86"
-    }, {
-        
-        "nominativo": "NICA Constantin",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "3/18/93"
-    }, {
-        
-        "nominativo": "NICOLETTI Manuel",
-        "ruolo": "D",
-        "squadra": "Crotone",
-        "data nascita": "12/9/98"
-    }, {
-        
-        "nominativo": "NURA Abdullahi",
-        "ruolo": "D",
-        "squadra": "Roma",
-        "data nascita": "8/17/97"
-    }, {
-        
-        "nominativo": "NUYTINCK Bram",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "5/4/90"
-    }, {
-        
-        "nominativo": "OIKONOMOU Marios",
-        "ruolo": "D",
-        "squadra": "Spal",
-        "data nascita": "10/6/92"
-    }, {
-        
-        "nominativo": "OLIVERA Maximiliano Martin",
-        "ruolo": "D",
-        "squadra": "Fiorentina",
-        "data nascita": "3/5/92"
-    }, {
-        
-        "nominativo": "PADELLA Emanuele",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "9/24/88"
-    }, {
-        
-        "nominativo": "PALETTA Gabriel Alejandro",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "2/15/86"
-    }, {
-        
-        "nominativo": "PALOMINO Jose Luis",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "1/5/90"
-    }, {
-        
-        "nominativo": "PATRIC Gabarron Gil",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "4/17/93"
-    }, {
-        
-        "nominativo": "PAVLOVIC Daniel",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "4/22/88"
-    }, {
-        
-        "nominativo": "PELUSO Federico",
-        "ruolo": "D",
-        "squadra": "Sassuolo",
-        "data nascita": "1/20/84"
-    }, {
-        
-        "nominativo": "PEZZELLA Giuseppe",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "11/29/97"
-    }, {
-        
-        "nominativo": "PISACANE Fabio",
-        "ruolo": "D",
-        "squadra": "Cagliari",
-        "data nascita": "6/28/86"
-    }, {
-        
-        "nominativo": "POLVANI Lorenzo",
-        "ruolo": "D",
-        "squadra": "Spal",
-        "data nascita": "7/26/94"
-    }, {
-        
-        "nominativo": "RADU Stefan Andrei",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "10/22/86"
-    }, {
-        
-        "nominativo": "RANOCCHIA Andrea",
-        "ruolo": "D",
-        "squadra": "Inter",
-        "data nascita": "2/16/88"
-    }, {
-        
-        "nominativo": "REGINI Vasco",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "9/9/90"
-    }, {
-        
-        "nominativo": "RIGIONE Michele",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "3/7/91"
-    }, {
-        
-        "nominativo": "RODRIGUEZ Ricardo Ivan",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "8/25/92"
-    }, {
-        
-        "nominativo": "ROMAGNA Filippo",
-        "ruolo": "D",
-        "squadra": "Cagliari",
-        "data nascita": "5/26/97"
-    }, {
-        
-        "nominativo": "ROMAGNOLI Alessio",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "1/12/95"
-    }, {
-        
-        "nominativo": "ROSI Aleandro",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "5/17/87"
-    }, {
-        
-        "nominativo": "ROSSETTINI Luca",
-        "ruolo": "D",
-        "squadra": "Torino",
-        "data nascita": "5/9/85"
-    }, {
-        
-        "nominativo": "RUGANI Daniele",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "7/29/94"
-    }, {
-        
-        "nominativo": "SALA Jacopo",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "12/5/91"
-    }, {
-        
-        "nominativo": "SALAMON Bartosz",
-        "ruolo": "D",
-        "squadra": "Cagliari",
-        "data nascita": "5/1/91"
-    }, {
-        
-        "nominativo": "SAMIR Caetano de Souza",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "12/5/94"
-    }, {
-        
-        "nominativo": "SAMPIRISI Mario",
-        "ruolo": "D",
-        "squadra": "Crotone",
-        "data nascita": "10/31/92"
-    }, {
-        
-        "nominativo": "SANTON Davide",
-        "ruolo": "D",
-        "squadra": "Inter",
-        "data nascita": "1/2/91"
-    }, {
-        
-        "nominativo": "SILVESTRE Matias Agustin",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "9/25/84"
-    }, {
-        
-        "nominativo": "SIMIC Lorenco",
-        "ruolo": "D",
-        "squadra": "Sampdoria",
-        "data nascita": "7/15/96"
-    }, {
-        
-        "nominativo": "SIMIC Stefan",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "1/20/95"
-    }, {
-        
-        "nominativo": "SKRINIAR Milan",
-        "ruolo": "D",
-        "squadra": "Inter",
-        "data nascita": "2/11/95"
-    }, {
-        
-        "nominativo": "SOUPRAYEN Samuel",
-        "ruolo": "D",
-        "squadra": "Verona",
-        "data nascita": "2/18/89"
-    }, {
-        
-        "nominativo": "SPOLLI Nicolas Federico",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "2/20/83"
-    }, {
-        
-        "nominativo": "STRINIC Ivan",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "7/17/87"
-    }, {
-        
-        "nominativo": "TOLOI Rafael",
-        "ruolo": "D",
-        "squadra": "Atalanta",
-        "data nascita": "10/10/90"
-    }, {
-        
-        "nominativo": "TOMOVIC Nenad",
-        "ruolo": "D",
-        "squadra": "Fiorentina",
-        "data nascita": "8/30/87"
-    }, {
-        
-        "nominativo": "TONELLI Lorenzo",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "1/17/90"
-    }, {
-        
-        "nominativo": "TOROSIDIS Vasilis",
-        "ruolo": "D",
-        "squadra": "Bologna",
-        "data nascita": "6/10/85"
-    }, {
-        
-        "nominativo": "TROIANI Michele",
-        "ruolo": "D",
-        "squadra": "Chievo",
-        "data nascita": "7/21/96"
-    }, {
-        
-        "nominativo": "UNTERSEE Joel",
-        "ruolo": "D",
-        "squadra": "Juventus",
-        "data nascita": "2/11/94"
-    }, {
-        
-        "nominativo": "VAISANEN Sauli Aapo",
-        "ruolo": "D",
-        "squadra": "Spal",
-        "data nascita": "6/5/94"
-    }, {
-        
-        "nominativo": "VENUTI Lorenzo",
-        "ruolo": "D",
-        "squadra": "Benevento",
-        "data nascita": "4/12/95"
-    }, {
-        
-        "nominativo": "VERGARA Jherson",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "5/26/94"
-    }, {
-        
-        "nominativo": "VICARI Francesco",
-        "ruolo": "D",
-        "squadra": "Spal",
-        "data nascita": "8/3/94"
-    }, {
-        
-        "nominativo": "VITOR HUGO Franchescoli de Souza",
-        "ruolo": "D",
-        "squadra": "Fiorentina",
-        "data nascita": "5/20/91"
-    }, {
-        
-        "nominativo": "WAGUE Molla",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "2/21/91"
-    }, {
-        
-        "nominativo": "WALLACE Fortuna dos Santos",
-        "ruolo": "D",
-        "squadra": "Lazio",
-        "data nascita": "10/14/94"
-    }, {
-        
-        "nominativo": "WIDMER Silvan",
-        "ruolo": "D",
-        "squadra": "Udinese",
-        "data nascita": "3/5/93"
-    }, {
-        
-        "nominativo": "ZAPATA Cristian Eduardo",
-        "ruolo": "D",
-        "squadra": "Milan",
-        "data nascita": "9/30/86"
-    }, {
-        
-        "nominativo": "ZAPPACOSTA Davide",
-        "ruolo": "D",
-        "squadra": "Torino",
-        "data nascita": "6/11/92"
-    }, {
-        
-        "nominativo": "ZUKANOVIC Ervin",
-        "ruolo": "D",
-        "squadra": "Genoa",
-        "data nascita": "2/11/87"
-    }, {
-        
-        "nominativo": "ZUNIGA Juan Camilo",
-        "ruolo": "D",
-        "squadra": "Napoli",
-        "data nascita": "12/14/85"
-    }, {
-        
-        "nominativo": "ACQUAH Afriyie",
-        "ruolo": "C",
-        "squadra": "Torino",
-        "data nascita": "1/5/92"
-    }, {
-        
-        "nominativo": "ADJAPONG Claud",
-        "ruolo": "C",
-        "squadra": "Sassuolo",
-        "data nascita": "5/6/98"
-    }, {
-        
-        "nominativo": "AGYEI Daniel Kofi",
-        "ruolo": "C",
-        "squadra": "Benevento",
-        "data nascita": "1/1/92"
-    }, {
-        
-        "nominativo": "ALLAN Marques Loureiro",
-        "ruolo": "C",
-        "squadra": "Napoli",
-        "data nascita": "1/8/91"
-    }, {
-        
-        "nominativo": "ALVAREZ Ricardo Gabriel",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "4/12/88"
-    }, {
-        
-        "nominativo": "ARAMU Mattia",
-        "ruolo": "C",
-        "squadra": "Torino",
-        "data nascita": "5/14/95"
-    }, {
-        
-        "nominativo": "ARINI Mariano",
-        "ruolo": "C",
-        "squadra": "Spal",
-        "data nascita": "1/17/87"
-    }, {
-        
-        "nominativo": "BADELJ Milan",
-        "ruolo": "C",
-        "squadra": "Fiorentina",
-        "data nascita": "2/25/89"
-    }, {
-        
-        "nominativo": "BALIC Andrija",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "8/11/97"
-    }, {
-        
-        "nominativo": "BARAK Antonin",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "12/3/94"
-    }, {
-        
-        "nominativo": "BARBERIS Andrea",
-        "ruolo": "C",
-        "squadra": "Crotone",
-        "data nascita": "12/11/93"
-    }, {
-        
-        "nominativo": "BARELLA Nicolo'",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "2/7/97"
-    }, {
-        
-        "nominativo": "BARRETO Edgar Osvaldo",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "7/15/84"
-    }, {
-        
-        "nominativo": "BASELLI Daniele",
-        "ruolo": "C",
-        "squadra": "Torino",
-        "data nascita": "3/12/92"
-    }, {
-        
-        "nominativo": "BASTIEN Samuel",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "9/26/96"
-    }, {
-        
-        "nominativo": "BAUMGARTNER Denis",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "2/2/98"
-    }, {
-        
-        "nominativo": "BENASSI Marco",
-        "ruolo": "C",
-        "squadra": "Torino",
-        "data nascita": "9/8/94"
-    }, {
-        
-        "nominativo": "BENTANCUR Rodrigo",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "6/25/97"
-    }, {
-        
-        "nominativo": "BERENGUER Alejandro",
-        "ruolo": "C",
-        "squadra": "Torino",
-        "data nascita": "7/4/95"
-    }, {
-        
-        "nominativo": "BERNARDESCHI Federico",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "2/16/94"
-    }, {
-        
-        "nominativo": "BERTOLACCI Andrea",
-        "ruolo": "C",
-        "squadra": "Genoa",
-        "data nascita": "1/11/91"
-    }, {
-        
-        "nominativo": "BESSA Daniel",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "1/14/93"
-    }, {
-        
-        "nominativo": "BIABIANY Jonathan Ludovic",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "4/28/88"
-    }, {
-        
-        "nominativo": "BIGLIA Lucas Rodrigo",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "1/30/86"
-    }, {
-        
-        "nominativo": "BIONDINI Davide",
-        "ruolo": "C",
-        "squadra": "Sassuolo",
-        "data nascita": "1/24/83"
-    }, {
-        
-        "nominativo": "BONAVENTURA Giacomo",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "8/22/89"
-    }, {
-        
-        "nominativo": "BROZOVIC Marcelo",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "11/16/92"
-    }, {
-        
-        "nominativo": "BUCHEL Marcel",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "3/18/91"
-    }, {
-        
-        "nominativo": "CALHANOGLU Hakan",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "2/8/94"
-    }, {
-        
-        "nominativo": "CANDREVA Antonio",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "2/28/87"
-    }, {
-        
-        "nominativo": "CAPEZZI Leonardo",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "3/29/95"
-    }, {
-        
-        "nominativo": "CASSATA Francesco",
-        "ruolo": "C",
-        "squadra": "Sassuolo",
-        "data nascita": "7/16/97"
-    }, {
-        
-        "nominativo": "CASTRO Lucas Nahuel",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "4/9/89"
-    }, {
-        
-        "nominativo": "CATALDI Danilo",
-        "ruolo": "C",
-        "squadra": "Benevento",
-        "data nascita": "8/6/94"
-    }, {
-        
-        "nominativo": "CHIBSAH Yussif Raman",
-        "ruolo": "C",
-        "squadra": "Benevento",
-        "data nascita": "3/10/93"
-    }, {
-        
-        "nominativo": "CHIESA Federico",
-        "ruolo": "C",
-        "squadra": "Fiorentina",
-        "data nascita": "10/25/97"
-    }, {
-        
-        "nominativo": "CIGARINI Luca",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "6/20/86"
-    }, {
-        
-        "nominativo": "CINELLI Antonio",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "12/8/89"
-    }, {
-        
-        "nominativo": "COFIE Isaac",
-        "ruolo": "C",
-        "squadra": "Genoa",
-        "data nascita": "9/20/91"
-    }, {
-        
-        "nominativo": "COLOMBATTO Santiago",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "1/17/97"
-    }, {
-        
-        "nominativo": "CONTI Andrea",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "3/2/94"
-    }, {
-        
-        "nominativo": "CORLU Rezan",
-        "ruolo": "C",
-        "squadra": "Roma",
-        "data nascita": "8/7/97"
-    }, {
-        
-        "nominativo": "COSSU Andrea",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "5/3/80"
-    }, {
-        
-        "nominativo": "COSTA Filippo",
-        "ruolo": "C",
-        "squadra": "Spal",
-        "data nascita": "5/21/95"
-    }, {
-        
-        "nominativo": "CRECCO Luca",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "9/6/95"
-    }, {
-        
-        "nominativo": "CRISETIG Lorenzo",
-        "ruolo": "C",
-        "squadra": "Bologna",
-        "data nascita": "1/20/93"
-    }, {
-        
-        "nominativo": "CRISTANTE Bryan",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "3/3/95"
-    }, {
-        
-        "nominativo": "CRISTOFORO Sebastian Carlos",
-        "ruolo": "C",
-        "squadra": "Fiorentina",
-        "data nascita": "8/23/93"
-    }, {
-        
-        "nominativo": "CROCIATA Giovanni",
-        "ruolo": "C",
-        "squadra": "Crotone",
-        "data nascita": "8/11/97"
-    }, {
-        
-        "nominativo": "CUADRADO Juan Guillermo",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "5/26/88"
-    }, {
-        
-        "nominativo": "DE FALCO Andrea",
-        "ruolo": "C",
-        "squadra": "Benevento",
-        "data nascita": "6/19/86"
-    }, {
-        
-        "nominativo": "DE PAUL Rodrigo Javier",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "5/24/94"
-    }, {
-        
-        "nominativo": "DE ROSSI Daniele",
-        "ruolo": "C",
-        "squadra": "Roma",
-        "data nascita": "7/24/83"
-    }, {
-        
-        "nominativo": "DE VITIS Alessandro",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "2/15/92"
-    }, {
-        
-        "nominativo": "DEIOLA Alessandro",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "8/1/95"
-    }, {
-        
-        "nominativo": "DEL PINTO Lorenzo",
-        "ruolo": "C",
-        "squadra": "Benevento",
-        "data nascita": "9/17/90"
-    }, {
-        
-        "nominativo": "DEPAOLI Fabio",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "4/24/97"
-    }, {
-        
-        "nominativo": "DESSENA Daniele",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "5/10/87"
-    }, {
-        
-        "nominativo": "DI GENNARO Davide",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "6/16/88"
-    }, {
-        
-        "nominativo": "DIAWARA Amadou",
-        "ruolo": "C",
-        "squadra": "Napoli",
-        "data nascita": "11/17/97"
-    }, {
-        
-        "nominativo": "DONSAH Godfred",
-        "ruolo": "C",
-        "squadra": "Bologna",
-        "data nascita": "6/7/96"
-    }, {
-        
-        "nominativo": "DUNCAN Joseph Alfred",
-        "ruolo": "C",
-        "squadra": "Sassuolo",
-        "data nascita": "3/10/93"
-    }, {
-        
-        "nominativo": "ERAMO Mirko",
-        "ruolo": "C",
-        "squadra": "Benevento",
-        "data nascita": "7/12/89"
-    }, {
-        
-        "nominativo": "FARAGO' Paolo Pancrazio",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "2/12/93"
-    }, {
-        
-        "nominativo": "FELICIOLI Gian Filippo",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "9/30/97"
-    }, {
-        
-        "nominativo": "FERNANDEZ Matias Ariel",
-        "ruolo": "C",
-        "squadra": "Fiorentina",
-        "data nascita": "5/15/86"
-    }, {
-        
-        "nominativo": "FLORENZI Alessandro",
-        "ruolo": "C",
-        "squadra": "Roma",
-        "data nascita": "3/11/91"
-    }, {
-        
-        "nominativo": "FOFANA Seko Mohamed",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "5/7/95"
-    }, {
-        
-        "nominativo": "FOSSATI Marco Ezio",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "10/5/92"
-    }, {
-        
-        "nominativo": "FRATTESI Davide",
-        "ruolo": "C",
-        "squadra": "Sassuolo",
-        "data nascita": "9/22/99"
-    }, {
-        
-        "nominativo": "FREULER Remo",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "4/15/92"
-    }, {
-        
-        "nominativo": "GABRIEL SILVA Moises Antunes",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "5/13/91"
-    }, {
-        
-        "nominativo": "GAGLIARDINI Roberto",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "4/7/94"
-    }, {
-        
-        "nominativo": "GARRITANO Luca",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "2/11/94"
-    }, {
-        
-        "nominativo": "GAUDINO Gianluca",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "11/11/96"
-    }, {
-        
-        "nominativo": "GERSON Santos da Silva",
-        "ruolo": "C",
-        "squadra": "Roma",
-        "data nascita": "5/20/97"
-    }, {
-        
-        "nominativo": "GIACCHERINI Emanuele",
-        "ruolo": "C",
-        "squadra": "Napoli",
-        "data nascita": "5/5/85"
-    }, {
-        
-        "nominativo": "GNOUKOURI Assane Demoya",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "9/28/96"
-    }, {
-        
-        "nominativo": "GONALONS Maxime",
-        "ruolo": "C",
-        "squadra": "Roma",
-        "data nascita": "3/10/89"
-    }, {
-        
-        "nominativo": "GOSENS Robin",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "7/5/94"
-    }, {
-        
-        "nominativo": "GRASSI Alberto",
-        "ruolo": "C",
-        "squadra": "Spal",
-        "data nascita": "3/7/95"
-    }, {
-        
-        "nominativo": "GUSTAFSON Samuel",
-        "ruolo": "C",
-        "squadra": "Torino",
-        "data nascita": "1/11/95"
-    }, {
-        
-        "nominativo": "HAAS Nicolas",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "1/23/96"
-    }, {
-        
-        "nominativo": "HALLFREDSSON Emil",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "6/29/84"
-    }, {
-        
-        "nominativo": "HAMSIK Marek",
-        "ruolo": "C",
-        "squadra": "Napoli",
-        "data nascita": "7/27/87"
-    }, {
-        
-        "nominativo": "HETEMAJ Perparim",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "12/12/86"
-    }, {
-        
-        "nominativo": "HILJEMARK Oscar Karl",
-        "ruolo": "C",
-        "squadra": "Genoa",
-        "data nascita": "6/28/92"
-    }, {
-        
-        "nominativo": "INGELSSON Svante Ulf",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "6/14/98"
-    }, {
-        
-        "nominativo": "IÑIGUEZ Gaspar Emanuel",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "3/26/94"
-    }, {
-        
-        "nominativo": "IONITA Artur",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "8/17/90"
-    }, {
-        
-        "nominativo": "IVAN David",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "2/26/95"
-    }, {
-        
-        "nominativo": "IZCO Mariano Julio",
-        "ruolo": "C",
-        "squadra": "Crotone",
-        "data nascita": "3/13/83"
-    }, {
-        
-        "nominativo": "JAKIMOVSKI Nikola",
-        "ruolo": "C",
-        "squadra": "Benevento",
-        "data nascita": "2/26/90"
-    }, {
-        
-        "nominativo": "JANKTO Jakub",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "1/19/96"
-    }, {
-        
-        "nominativo": "JOAO MARIO Naval da Costa",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "1/19/93"
-    }, {
-        
-        "nominativo": "JOAO PEDRO Geraldino",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "3/9/92"
-    }, {
-        
-        "nominativo": "JORGINHO Luiz Frello",
-        "ruolo": "C",
-        "squadra": "Napoli",
-        "data nascita": "12/20/91"
-    }, {
-        
-        "nominativo": "KASTANOS Grigoris",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "1/31/98"
-    }, {
-        
-        "nominativo": "KESSIE Franck Yannick",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "12/19/96"
-    }, {
-        
-        "nominativo": "KHEDIRA Sami",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "4/4/87"
-    }, {
-        
-        "nominativo": "KIYINE Sofian",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "10/2/97"
-    }, {
-        
-        "nominativo": "KONDOGBIA Geoffrey",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "2/15/93"
-    }, {
-        
-        "nominativo": "KONE Panagiotis Georgios",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "7/26/87"
-    }, {
-        
-        "nominativo": "KRAGL Oliver",
-        "ruolo": "C",
-        "squadra": "Crotone",
-        "data nascita": "5/12/90"
-    }, {
-        
-        "nominativo": "KURTIC Jasmin",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "1/10/89"
-    }, {
-        
-        "nominativo": "LANER Simon",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "1/28/84"
-    }, {
-        
-        "nominativo": "LAXALT Diego Sebastian",
-        "ruolo": "C",
-        "squadra": "Genoa",
-        "data nascita": "2/7/93"
-    }, {
-        
-        "nominativo": "LAZOVIC Darko",
-        "ruolo": "C",
-        "squadra": "Genoa",
-        "data nascita": "9/15/90"
-    }, {
-        
-        "nominativo": "LAZZARI Manuel",
-        "ruolo": "C",
-        "squadra": "Spal",
-        "data nascita": "11/29/93"
-    }, {
-        
-        "nominativo": "LEIVA Lucas Pezzini",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "1/9/87"
-    }, {
-        
-        "nominativo": "LEMINA Mario",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "9/1/93"
-    }, {
-        
-        "nominativo": "LINETTY Karol",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "2/2/95"
-    }, {
-        
-        "nominativo": "LOCATELLI Manuel",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "1/8/98"
-    }, {
-        
-        "nominativo": "LUKIC Sasa",
-        "ruolo": "C",
-        "squadra": "Torino",
-        "data nascita": "8/13/96"
-    }, {
-        
-        "nominativo": "LULIC Senad",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "1/18/86"
-    }, {
-        
-        "nominativo": "MAGNANELLI Francesco",
-        "ruolo": "C",
-        "squadra": "Sassuolo",
-        "data nascita": "11/12/84"
-    }, {
-        
-        "nominativo": "MANDRAGORA Rolando",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "6/29/97"
-    }, {
-        
-        "nominativo": "MARCHISIO Claudio",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "1/19/86"
-    }, {
-        
-        "nominativo": "MARRONE Luca",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "3/28/90"
-    }, {
-        
-        "nominativo": "MARUSIC Adam",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "10/17/92"
-    }, {
-        
-        "nominativo": "MAURI Jose' Agustin",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "5/15/96"
-    }, {
-        
-        "nominativo": "MAZZITELLI Luca",
-        "ruolo": "C",
-        "squadra": "Sassuolo",
-        "data nascita": "11/15/95"
-    }, {
-        
-        "nominativo": "MBAYE Malick",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "11/6/95"
-    }, {
-        
-        "nominativo": "MEDEL Gary Alexis",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "8/3/87"
-    }, {
-        
-        "nominativo": "MELARA Fabrizio",
-        "ruolo": "C",
-        "squadra": "Benevento",
-        "data nascita": "5/6/86"
-    }, {
-        
-        "nominativo": "MELEGONI Filippo",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "2/18/99"
-    }, {
-        
-        "nominativo": "MILINKOVIC-SAVIC Sergej",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "2/27/95"
-    }, {
-        
-        "nominativo": "MINALA Joseph Marie",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "8/24/96"
-    }, {
-        
-        "nominativo": "MINOTTI Nadir",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "5/16/92"
-    }, {
-        
-        "nominativo": "MISSIROLI Simone",
-        "ruolo": "C",
-        "squadra": "Sassuolo",
-        "data nascita": "5/23/86"
-    }, {
-        
-        "nominativo": "MOHAMED Abukar",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "1/1/99"
-    }, {
-        
-        "nominativo": "MONTOLIVO Riccardo",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "1/18/85"
-    }, {
-        
-        "nominativo": "MORA Luca",
-        "ruolo": "C",
-        "squadra": "Spal",
-        "data nascita": "5/10/88"
-    }, {
-        
-        "nominativo": "MORRISON Ravel Ryan",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "2/2/93"
-    }, {
-        
-        "nominativo": "MURGIA Alessandro",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "8/9/96"
-    }, {
-        
-        "nominativo": "NAGY Adam",
-        "ruolo": "C",
-        "squadra": "Bologna",
-        "data nascita": "6/17/95"
-    }, {
-        
-        "nominativo": "NAINGGOLAN Radja",
-        "ruolo": "C",
-        "squadra": "Roma",
-        "data nascita": "5/4/88"
-    }, {
-        
-        "nominativo": "NALINI Andrea",
-        "ruolo": "C",
-        "squadra": "Crotone",
-        "data nascita": "6/20/90"
-    }, {
-        
-        "nominativo": "OBI Joel Chukwuma",
-        "ruolo": "C",
-        "squadra": "Torino",
-        "data nascita": "5/22/91"
-    }, {
-        
-        "nominativo": "OIKONOMIDIS Christopher James",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "5/4/95"
-    }, {
-        
-        "nominativo": "PADOIN Simone",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "3/18/84"
-    }, {
-        
-        "nominativo": "PAJAC Marko",
-        "ruolo": "C",
-        "squadra": "Cagliari",
-        "data nascita": "5/11/93"
-    }, {
-        
-        "nominativo": "PAROLO Marco",
-        "ruolo": "C",
-        "squadra": "Lazio",
-        "data nascita": "1/25/85"
-    }, {
-        
-        "nominativo": "PELLEGRINI Lorenzo",
-        "ruolo": "C",
-        "squadra": "Roma",
-        "data nascita": "6/19/96"
-    }, {
-        
-        "nominativo": "PESSINA Matteo",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "4/21/97"
-    }, {
-        
-        "nominativo": "PJANIC Miralem",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "4/2/90"
-    }, {
-        
-        "nominativo": "POLI Andrea",
-        "ruolo": "C",
-        "squadra": "Bologna",
-        "data nascita": "9/29/89"
-    }, {
-        
-        "nominativo": "PONTISSO Simone",
-        "ruolo": "C",
-        "squadra": "Udinese",
-        "data nascita": "3/20/97"
-    }, {
-        
-        "nominativo": "PRAET Dennis",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "5/14/94"
-    }, {
-        
-        "nominativo": "PULGAR Erick Antonio",
-        "ruolo": "C",
-        "squadra": "Bologna",
-        "data nascita": "1/15/94"
-    }, {
-        
-        "nominativo": "RADOVANOVIC Ivan",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "8/29/88"
-    }, {
-        
-        "nominativo": "RIGONI Luca",
-        "ruolo": "C",
-        "squadra": "Genoa",
-        "data nascita": "12/7/84"
-    }, {
-        
-        "nominativo": "RIGONI Nicola",
-        "ruolo": "C",
-        "squadra": "Chievo",
-        "data nascita": "11/12/90"
-    }, {
-        
-        "nominativo": "RINCON Tomas Eduardo",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "1/13/88"
-    }, {
-        
-        "nominativo": "RIZZO Luca",
-        "ruolo": "C",
-        "squadra": "Spal",
-        "data nascita": "4/24/92"
-    }, {
-        
-        "nominativo": "ROCCA Michele",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "2/6/96"
-    }, {
-        
-        "nominativo": "RODRIGUEZ Thomas",
-        "ruolo": "C",
-        "squadra": "Genoa",
-        "data nascita": "4/5/96"
-    }, {
-        
-        "nominativo": "ROG Marko",
-        "ruolo": "C",
-        "squadra": "Napoli",
-        "data nascita": "7/19/95"
-    }, {
-        
-        "nominativo": "ROHDEN Marcus Christer",
-        "ruolo": "C",
-        "squadra": "Crotone",
-        "data nascita": "5/11/91"
-    }, {
-        
-        "nominativo": "ROMULO Souza Orestes",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "5/22/87"
-    }, {
-        
-        "nominativo": "SANCHEZ Carlos Alberto",
-        "ruolo": "C",
-        "squadra": "Fiorentina",
-        "data nascita": "2/6/86"
-    }, {
-        
-        "nominativo": "SCHETINO Edgardo Andres",
-        "ruolo": "C",
-        "squadra": "Fiorentina",
-        "data nascita": "5/26/94"
-    }, {
-        
-        "nominativo": "SCHIATTARELLA Pasquale",
-        "ruolo": "C",
-        "squadra": "Spal",
-        "data nascita": "5/30/87"
-    }, {
-        
-        "nominativo": "SCHIAVON Eros",
-        "ruolo": "C",
-        "squadra": "Spal",
-        "data nascita": "4/24/83"
-    }, {
-        
-        "nominativo": "SCHMIDT Joao Felipe",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "5/19/93"
-    }, {
-        
-        "nominativo": "SENSI Stefano",
-        "ruolo": "C",
-        "squadra": "Sassuolo",
-        "data nascita": "8/5/95"
-    }, {
-        
-        "nominativo": "SOSA Jose Ernesto",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "6/19/85"
-    }, {
-        
-        "nominativo": "SPINAZZOLA Leonardo",
-        "ruolo": "C",
-        "squadra": "Atalanta",
-        "data nascita": "3/25/93"
-    }, {
-        
-        "nominativo": "STOIAN Adrian",
-        "ruolo": "C",
-        "squadra": "Crotone",
-        "data nascita": "2/11/91"
-    }, {
-        
-        "nominativo": "STRASSER Rodney",
-        "ruolo": "C",
-        "squadra": "Genoa",
-        "data nascita": "3/30/90"
-    }, {
-        
-        "nominativo": "STROOTMAN Kevin",
-        "ruolo": "C",
-        "squadra": "Roma",
-        "data nascita": "2/13/90"
-    }, {
-        
-        "nominativo": "STURARO Stefano",
-        "ruolo": "C",
-        "squadra": "Juventus",
-        "data nascita": "3/9/93"
-    }, {
-        
-        "nominativo": "SULJIC Cazim",
-        "ruolo": "C",
-        "squadra": "Crotone",
-        "data nascita": "10/29/96"
-    }, {
-        
-        "nominativo": "TAIDER Saphir Sliti",
-        "ruolo": "C",
-        "squadra": "Bologna",
-        "data nascita": "2/29/92"
-    }, {
-        
-        "nominativo": "TORREIRA Lucas",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "2/11/96"
-    }, {
-        
-        "nominativo": "VAINQUEUR William-Jacques",
-        "ruolo": "C",
-        "squadra": "Roma",
-        "data nascita": "11/19/88"
-    }, {
-        
-        "nominativo": "VALDIFIORI Mirko",
-        "ruolo": "C",
-        "squadra": "Torino",
-        "data nascita": "4/21/86"
-    }, {
-        
-        "nominativo": "VALENCIA Juan Manuel",
-        "ruolo": "C",
-        "squadra": "Bologna",
-        "data nascita": "10/17/98"
-    }, {
-        
-        "nominativo": "VALERO Borja",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "1/12/85"
-    }, {
-        
-        "nominativo": "VALOTI Mattia",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "9/6/93"
-    }, {
-        
-        "nominativo": "VECINO Matias",
-        "ruolo": "C",
-        "squadra": "Inter",
-        "data nascita": "8/24/91"
-    }, {
-        
-        "nominativo": "VELOSO Miguel Luis",
-        "ruolo": "C",
-        "squadra": "Genoa",
-        "data nascita": "5/11/86"
-    }, {
-        
-        "nominativo": "VERETOUT Jordan Marcel",
-        "ruolo": "C",
-        "squadra": "Fiorentina",
-        "data nascita": "3/1/93"
-    }, {
-        
-        "nominativo": "VERRE Valerio",
-        "ruolo": "C",
-        "squadra": "Sampdoria",
-        "data nascita": "1/11/94"
-    }, {
-        
-        "nominativo": "VIOLA Benito Nicolas",
-        "ruolo": "C",
-        "squadra": "Benevento",
-        "data nascita": "10/12/89"
-    }, {
-        
-        "nominativo": "VIVIANI Federico",
-        "ruolo": "C",
-        "squadra": "Spal",
-        "data nascita": "3/24/92"
-    }, {
-        
-        "nominativo": "ZACCAGNI Mattia",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "6/16/95"
-    }, {
-        
-        "nominativo": "ZANELLATO Niccolo'",
-        "ruolo": "C",
-        "squadra": "Milan",
-        "data nascita": "6/24/98"
-    }, {
-        
-        "nominativo": "ZIELINSKI Piotr Sebastian",
-        "ruolo": "C",
-        "squadra": "Napoli",
-        "data nascita": "5/20/94"
-    }, {
-        
-        "nominativo": "ZUCULINI Bruno",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "4/2/93"
-    }, {
-        
-        "nominativo": "ZUCULINI Franco",
-        "ruolo": "C",
-        "squadra": "Verona",
-        "data nascita": "9/5/90"
-    }, {
-        
-        "nominativo": "ACOSTY Boadu Maxwell",
-        "ruolo": "A",
-        "squadra": "Crotone",
-        "data nascita": "9/10/91"
-    }, {
-        
-        "nominativo": "ANDERSON Felipe",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "4/15/93"
-    }, {
-        
-        "nominativo": "ANDRE' SILVA Miguel Valente",
-        "ruolo": "A",
-        "squadra": "Milan",
-        "data nascita": "11/6/95"
-    }, {
-        
-        "nominativo": "ANTENUCCI Mirco",
-        "ruolo": "A",
-        "squadra": "Spal",
-        "data nascita": "9/8/84"
-    }, {
-        
-        "nominativo": "BABACAR Khouma El Hadji",
-        "ruolo": "A",
-        "squadra": "Fiorentina",
-        "data nascita": "3/17/93"
-    }, {
-        
-        "nominativo": "BACCA Carlos Arturo",
-        "ruolo": "A",
-        "squadra": "Milan",
-        "data nascita": "9/8/86"
-    }, {
-        
-        "nominativo": "BAEZ Jaime",
-        "ruolo": "A",
-        "squadra": "Fiorentina",
-        "data nascita": "4/25/95"
-    }, {
-        
-        "nominativo": "BAJIC Riad",
-        "ruolo": "A",
-        "squadra": "Udinese",
-        "data nascita": "5/6/94"
-    }, {
-        
-        "nominativo": "BALDE Ibourahima",
-        "ruolo": "A",
-        "squadra": "Sampdoria",
-        "data nascita": "9/23/99"
-    }, {
-        
-        "nominativo": "BELOTTI Andrea",
-        "ruolo": "A",
-        "squadra": "Torino",
-        "data nascita": "12/20/93"
-    }, {
-        
-        "nominativo": "BERARDI Domenico",
-        "ruolo": "A",
-        "squadra": "Sassuolo",
-        "data nascita": "8/1/94"
-    }, {
-        
-        "nominativo": "BIRSA Valter",
-        "ruolo": "A",
-        "squadra": "Chievo",
-        "data nascita": "8/7/86"
-    }, {
-        
-        "nominativo": "BONAZZOLI Federico",
-        "ruolo": "A",
-        "squadra": "Sampdoria",
-        "data nascita": "5/21/97"
-    }, {
-        
-        "nominativo": "BORINI Fabio",
-        "ruolo": "A",
-        "squadra": "Milan",
-        "data nascita": "3/29/91"
-    }, {
-        
-        "nominativo": "BORRIELLO Marco",
-        "ruolo": "A",
-        "squadra": "Cagliari",
-        "data nascita": "6/18/82"
-    }, {
-        
-        "nominativo": "BOYE' Lucas",
-        "ruolo": "A",
-        "squadra": "Torino",
-        "data nascita": "2/28/96"
-    }, {
-        
-        "nominativo": "BUDIMIR Ante",
-        "ruolo": "A",
-        "squadra": "Crotone",
-        "data nascita": "7/22/91"
-    }, {
-        
-        "nominativo": "CAICEDO Felipe Salvador",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "9/5/88"
-    }, {
-        
-        "nominativo": "CALLEJON Jose Maria",
-        "ruolo": "A",
-        "squadra": "Napoli",
-        "data nascita": "2/11/87"
-    }, {
-        
-        "nominativo": "CAPRARI Gianluca",
-        "ruolo": "A",
-        "squadra": "Sampdoria",
-        "data nascita": "7/30/93"
-    }, {
-        
-        "nominativo": "CERAVOLO Giovanni Fabio",
-        "ruolo": "A",
-        "squadra": "Benevento",
-        "data nascita": "3/5/87"
-    }, {
-        
-        "nominativo": "CERCI Alessio",
-        "ruolo": "A",
-        "squadra": "Verona",
-        "data nascita": "7/23/87"
-    }, {
-        
-        "nominativo": "CICIRETTI Amato",
-        "ruolo": "A",
-        "squadra": "Benevento",
-        "data nascita": "12/31/93"
-    }, {
-        
-        "nominativo": "CISSE' Karamoko",
-        "ruolo": "A",
-        "squadra": "Benevento",
-        "data nascita": "11/14/88"
-    }, {
-        
-        "nominativo": "CLEMENZA Luca",
-        "ruolo": "A",
-        "squadra": "Juventus",
-        "data nascita": "9/9/97"
-    }, {
-        
-        "nominativo": "CODA Massimo",
-        "ruolo": "A",
-        "squadra": "Benevento",
-        "data nascita": "12/10/88"
-    }, {
-        
-        "nominativo": "COP Duje",
-        "ruolo": "A",
-        "squadra": "Cagliari",
-        "data nascita": "2/1/90"
-    }, {
-        
-        "nominativo": "CORNELIUS Andreas",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "3/16/93"
-    }, {
-        
-        "nominativo": "CUTRONE Patrick",
-        "ruolo": "A",
-        "squadra": "Milan",
-        "data nascita": "1/3/98"
-    }, {
-        
-        "nominativo": "D'ALESSANDRO Marco",
-        "ruolo": "A",
-        "squadra": "Benevento",
-        "data nascita": "2/17/91"
-    }, {
-        
-        "nominativo": "DEFREL Gregoire",
-        "ruolo": "A",
-        "squadra": "Roma",
-        "data nascita": "6/17/91"
-    }, {
-        
-        "nominativo": "DESTRO Mattia",
-        "ruolo": "A",
-        "squadra": "Bologna",
-        "data nascita": "3/20/91"
-    }, {
-        
-        "nominativo": "DI FRANCESCO Federico",
-        "ruolo": "A",
-        "squadra": "Bologna",
-        "data nascita": "6/14/94"
-    }, {
-        
-        "nominativo": "DJORDJEVIC Filip",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "9/28/87"
-    }, {
-        
-        "nominativo": "DJURICIC Filip",
-        "ruolo": "A",
-        "squadra": "Sampdoria",
-        "data nascita": "1/30/92"
-    }, {
-        
-        "nominativo": "DOUGLAS COSTA de Souza",
-        "ruolo": "A",
-        "squadra": "Juventus",
-        "data nascita": "9/14/90"
-    }, {
-        
-        "nominativo": "DYBALA Paulo Bruno",
-        "ruolo": "A",
-        "squadra": "Juventus",
-        "data nascita": "11/15/93"
-    }, {
-        
-        "nominativo": "DZEKO Edin",
-        "ruolo": "A",
-        "squadra": "Roma",
-        "data nascita": "3/17/86"
-    }, {
-        
-        "nominativo": "EDER Martins Citadin",
-        "ruolo": "A",
-        "squadra": "Inter",
-        "data nascita": "11/15/86"
-    }, {
-        
-        "nominativo": "EL SHAARAWY Stephan",
-        "ruolo": "A",
-        "squadra": "Roma",
-        "data nascita": "10/27/92"
-    }, {
-        
-        "nominativo": "EWANDRO Felipe de Lima",
-        "ruolo": "A",
-        "squadra": "Udinese",
-        "data nascita": "3/15/96"
-    }, {
-        
-        "nominativo": "FALCINELLI Diego",
-        "ruolo": "A",
-        "squadra": "Sassuolo",
-        "data nascita": "6/26/91"
-    }, {
-        
-        "nominativo": "FALCO Filippo",
-        "ruolo": "A",
-        "squadra": "Bologna",
-        "data nascita": "2/11/92"
-    }, {
-        
-        "nominativo": "FALLETTI Cesar Alejandro",
-        "ruolo": "A",
-        "squadra": "Bologna",
-        "data nascita": "12/20/92"
-    }, {
-        
-        "nominativo": "FARES Mohamed Salim",
-        "ruolo": "A",
-        "squadra": "Verona",
-        "data nascita": "2/15/96"
-    }, {
-        
-        "nominativo": "FARIAS Diego da Silva",
-        "ruolo": "A",
-        "squadra": "Cagliari",
-        "data nascita": "5/10/90"
-    }, {
-        
-        "nominativo": "FINOTTO Mattia",
-        "ruolo": "A",
-        "squadra": "Spal",
-        "data nascita": "12/28/92"
-    }, {
-        
-        "nominativo": "FLOCCARI Sergio",
-        "ruolo": "A",
-        "squadra": "Spal",
-        "data nascita": "11/12/81"
-    }, {
-        
-        "nominativo": "GABIGOL Barbosa Almeida",
-        "ruolo": "A",
-        "squadra": "Inter",
-        "data nascita": "8/30/96"
-    }, {
-        
-        "nominativo": "GAKPE' Serge",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "5/7/87"
-    }, {
-        
-        "nominativo": "GALABINOV Andrey Asenov",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "11/27/88"
-    }, {
-        
-        "nominativo": "GATTO Leonardo",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "4/28/92"
-    }, {
-        
-        "nominativo": "GIANNETTI Niccolo'",
-        "ruolo": "A",
-        "squadra": "Cagliari",
-        "data nascita": "5/12/91"
-    }, {
-        
-        "nominativo": "GOMEZ Alejandro Dario",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "2/15/88"
-    }, {
-        
-        "nominativo": "GOMEZ Juan Ignacio",
-        "ruolo": "A",
-        "squadra": "Verona",
-        "data nascita": "5/20/85"
-    }, {
-        
-        "nominativo": "HAGI Ianis",
-        "ruolo": "A",
-        "squadra": "Fiorentina",
-        "data nascita": "10/22/98"
-    }, {
-        
-        "nominativo": "HAN Kwang-Song",
-        "ruolo": "A",
-        "squadra": "Cagliari",
-        "data nascita": "9/11/98"
-    }, {
-        
-        "nominativo": "HIGUAIN Gonzalo Gerardo",
-        "ruolo": "A",
-        "squadra": "Juventus",
-        "data nascita": "12/10/87"
-    }, {
-        
-        "nominativo": "IAGO FALQUE Silva",
-        "ruolo": "A",
-        "squadra": "Torino",
-        "data nascita": "1/4/90"
-    }, {
-        
-        "nominativo": "ICARDI Mauro Emanuel",
-        "ruolo": "A",
-        "squadra": "Inter",
-        "data nascita": "2/19/93"
-    }, {
-        
-        "nominativo": "IEMMELLO Pietro",
-        "ruolo": "A",
-        "squadra": "Sassuolo",
-        "data nascita": "3/6/92"
-    }, {
-        
-        "nominativo": "ILICIC Josip",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "1/29/88"
-    }, {
-        
-        "nominativo": "IMMOBILE Ciro",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "2/20/90"
-    }, {
-        
-        "nominativo": "INGLESE Roberto",
-        "ruolo": "A",
-        "squadra": "Chievo",
-        "data nascita": "11/12/91"
-    }, {
-        
-        "nominativo": "INSIGNE Lorenzo",
-        "ruolo": "A",
-        "squadra": "Napoli",
-        "data nascita": "6/4/91"
-    }, {
-        
-        "nominativo": "ITURBE Juan Manuel",
-        "ruolo": "A",
-        "squadra": "Roma",
-        "data nascita": "6/4/93"
-    }, {
-        
-        "nominativo": "JOVETIC Stevan",
-        "ruolo": "A",
-        "squadra": "Inter",
-        "data nascita": "11/2/89"
-    }, {
-        
-        "nominativo": "KALINIC Nikola",
-        "ruolo": "A",
-        "squadra": "Fiorentina",
-        "data nascita": "1/5/88"
-    }, {
-        
-        "nominativo": "KEAN Moise Bioty",
-        "ruolo": "A",
-        "squadra": "Juventus",
-        "data nascita": "2/28/00"
-    }, {
-        
-        "nominativo": "KEITA Balde Diao",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "3/8/95"
-    }, {
-        
-        "nominativo": "KISHNA Ricardo",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "1/4/95"
-    }, {
-        
-        "nominativo": "KOTNIK Andrej",
-        "ruolo": "A",
-        "squadra": "Crotone",
-        "data nascita": "8/4/95"
-    }, {
-        
-        "nominativo": "KOWNACKI Dawid",
-        "ruolo": "A",
-        "squadra": "Sampdoria",
-        "data nascita": "3/14/97"
-    }, {
-        
-        "nominativo": "KREJCI Ladislav",
-        "ruolo": "A",
-        "squadra": "Bologna",
-        "data nascita": "7/5/92"
-    }, {
-        
-        "nominativo": "LAPADULA Gianluca",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "2/7/90"
-    }, {
-        
-        "nominativo": "LASAGNA Kevin",
-        "ruolo": "A",
-        "squadra": "Udinese",
-        "data nascita": "8/10/92"
-    }, {
-        
-        "nominativo": "LEANDRINHO Henrique do Nascimento",
-        "ruolo": "A",
-        "squadra": "Napoli",
-        "data nascita": "10/11/98"
-    }, {
-        
-        "nominativo": "LERIS Mehdi",
-        "ruolo": "A",
-        "squadra": "Chievo",
-        "data nascita": "5/23/98"
-    }, {
-        
-        "nominativo": "LJAJIC Adem",
-        "ruolo": "A",
-        "squadra": "Torino",
-        "data nascita": "9/29/91"
-    }, {
-        
-        "nominativo": "LOMBARDI Cristiano",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "8/19/95"
-    }, {
-        
-        "nominativo": "LONGO Samuele",
-        "ruolo": "A",
-        "squadra": "Inter",
-        "data nascita": "1/12/92"
-    }, {
-        
-        "nominativo": "LOPEZ Maximiliano Gaston",
-        "ruolo": "A",
-        "squadra": "Torino",
-        "data nascita": "4/3/84"
-    }, {
-        
-        "nominativo": "LUIS ALBERTO Romero Alconchel",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "9/28/92"
-    }, {
-        
-        "nominativo": "LUPPI Davide",
-        "ruolo": "A",
-        "squadra": "Verona",
-        "data nascita": "7/19/90"
-    }, {
-        
-        "nominativo": "MALLE' Aly",
-        "ruolo": "A",
-        "squadra": "Udinese",
-        "data nascita": "4/3/98"
-    }, {
-        
-        "nominativo": "MANAJ Rey",
-        "ruolo": "A",
-        "squadra": "Inter",
-        "data nascita": "2/24/97"
-    }, {
-        
-        "nominativo": "MANDZUKIC Mario",
-        "ruolo": "A",
-        "squadra": "Juventus",
-        "data nascita": "5/21/86"
-    }, {
-        
-        "nominativo": "MANGNI Doudou Ursul",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "3/29/93"
-    }, {
-        
-        "nominativo": "MARILUNGO Guido",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "8/9/89"
-    }, {
-        
-        "nominativo": "MATOS Ryder",
-        "ruolo": "A",
-        "squadra": "Udinese",
-        "data nascita": "2/27/93"
-    }, {
-        
-        "nominativo": "MATRI Alessandro",
-        "ruolo": "A",
-        "squadra": "Sassuolo",
-        "data nascita": "8/19/84"
-    }, {
-        
-        "nominativo": "MEGGIORINI Riccardo",
-        "ruolo": "A",
-        "squadra": "Chievo",
-        "data nascita": "9/4/85"
-    }, {
-        
-        "nominativo": "MELCHIORRI Federico",
-        "ruolo": "A",
-        "squadra": "Cagliari",
-        "data nascita": "1/6/87"
-    }, {
-        
-        "nominativo": "MENDEZ Alan Kevin",
-        "ruolo": "A",
-        "squadra": "Roma",
-        "data nascita": "1/10/96"
-    }, {
-        
-        "nominativo": "MERTENS Dries",
-        "ruolo": "A",
-        "squadra": "Napoli",
-        "data nascita": "5/6/87"
-    }, {
-        
-        "nominativo": "MILIK Arkadiusz",
-        "ruolo": "A",
-        "squadra": "Napoli",
-        "data nascita": "2/28/94"
-    }, {
-        
-        "nominativo": "MONACHELLO Gaetano",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "3/3/94"
-    }, {
-        
-        "nominativo": "MOROSINI Leonardo",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "10/13/95"
-    }, {
-        
-        "nominativo": "MOUNIER Anthony",
-        "ruolo": "A",
-        "squadra": "Bologna",
-        "data nascita": "9/27/87"
-    }, {
-        
-        "nominativo": "NIANG M'baye",
-        "ruolo": "A",
-        "squadra": "Milan",
-        "data nascita": "12/19/94"
-    }, {
-        
-        "nominativo": "NINKOVIC Nikola",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "12/19/94"
-    }, {
-        
-        "nominativo": "OKWONKWO Orji",
-        "ruolo": "A",
-        "squadra": "Bologna",
-        "data nascita": "1/19/98"
-    }, {
-        
-        "nominativo": "ORSOLINI Riccardo",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "1/24/97"
-    }, {
-        
-        "nominativo": "OUNAS Adam",
-        "ruolo": "A",
-        "squadra": "Napoli",
-        "data nascita": "11/11/96"
-    }, {
-        
-        "nominativo": "PALLADINO Raffaele",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "4/17/84"
-    }, {
-        
-        "nominativo": "PALOMBI Simone",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "4/23/96"
-    }, {
-        
-        "nominativo": "PALOSCHI Alberto",
-        "ruolo": "A",
-        "squadra": "Spal",
-        "data nascita": "1/4/90"
-    }, {
-        
-        "nominativo": "PANDEV Goran",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "7/27/83"
-    }, {
-        
-        "nominativo": "PARIGINI Vittorio",
-        "ruolo": "A",
-        "squadra": "Torino",
-        "data nascita": "3/25/96"
-    }, {
-        
-        "nominativo": "PAVOLETTI Leonardo",
-        "ruolo": "A",
-        "squadra": "Napoli",
-        "data nascita": "11/26/88"
-    }, {
-        
-        "nominativo": "PAZZINI Giampaolo",
-        "ruolo": "A",
-        "squadra": "Verona",
-        "data nascita": "8/2/84"
-    }, {
-        
-        "nominativo": "PELLEGRI Pietro",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "3/17/01"
-    }, {
-        
-        "nominativo": "PELLISSIER Sergio",
-        "ruolo": "A",
-        "squadra": "Chievo",
-        "data nascita": "4/12/79"
-    }, {
-        
-        "nominativo": "PEREA Brayan Andres",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "2/25/93"
-    }, {
-        
-        "nominativo": "PEREZ Joshua",
-        "ruolo": "A",
-        "squadra": "Fiorentina",
-        "data nascita": "1/21/98"
-    }, {
-        
-        "nominativo": "PERICA Stipe",
-        "ruolo": "A",
-        "squadra": "Udinese",
-        "data nascita": "7/7/95"
-    }, {
-        
-        "nominativo": "PERISIC Ivan",
-        "ruolo": "A",
-        "squadra": "Inter",
-        "data nascita": "2/2/89"
-    }, {
-        
-        "nominativo": "PEROTTI Diego",
-        "ruolo": "A",
-        "squadra": "Roma",
-        "data nascita": "7/26/88"
-    }, {
-        
-        "nominativo": "PETAGNA Andrea",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "6/30/95"
-    }, {
-        
-        "nominativo": "PETKOVIC Bruno",
-        "ruolo": "A",
-        "squadra": "Bologna",
-        "data nascita": "9/16/94"
-    }, {
-        
-        "nominativo": "PINAMONTI Andrea",
-        "ruolo": "A",
-        "squadra": "Inter",
-        "data nascita": "5/19/99"
-    }, {
-        
-        "nominativo": "PJACA Marko",
-        "ruolo": "A",
-        "squadra": "Juventus",
-        "data nascita": "5/6/95"
-    }, {
-        
-        "nominativo": "POLITANO Matteo",
-        "ruolo": "A",
-        "squadra": "Sassuolo",
-        "data nascita": "8/3/93"
-    }, {
-        
-        "nominativo": "PUCCIARELLI Manuel",
-        "ruolo": "A",
-        "squadra": "Chievo",
-        "data nascita": "6/17/91"
-    }, {
-        
-        "nominativo": "PUSCAS George Alexandru",
-        "ruolo": "A",
-        "squadra": "Benevento",
-        "data nascita": "4/8/96"
-    }, {
-        
-        "nominativo": "QUAGLIARELLA Fabio",
-        "ruolo": "A",
-        "squadra": "Sampdoria",
-        "data nascita": "1/31/83"
-    }, {
-        
-        "nominativo": "RAGUSA Antonino",
-        "ruolo": "A",
-        "squadra": "Sassuolo",
-        "data nascita": "3/27/90"
-    }, {
-        
-        "nominativo": "REBIC Ante",
-        "ruolo": "A",
-        "squadra": "Fiorentina",
-        "data nascita": "9/21/93"
-    }, {
-        
-        "nominativo": "RICCI Federico",
-        "ruolo": "A",
-        "squadra": "Sassuolo",
-        "data nascita": "5/27/94"
-    }, {
-        
-        "nominativo": "RODRIGUEZ Alejandro",
-        "ruolo": "A",
-        "squadra": "Chievo",
-        "data nascita": "7/3/91"
-    }, {
-        
-        "nominativo": "ROSSETI Lorenzo",
-        "ruolo": "A",
-        "squadra": "Juventus",
-        "data nascita": "8/5/94"
-    }, {
-        
-        "nominativo": "ROSSI Alessandro",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "1/3/97"
-    }, {
-        
-        "nominativo": "SADIQ Umar",
-        "ruolo": "A",
-        "squadra": "Roma",
-        "data nascita": "2/2/97"
-    }, {
-        
-        "nominativo": "SAPONARA Riccardo",
-        "ruolo": "A",
-        "squadra": "Fiorentina",
-        "data nascita": "12/21/91"
-    }, {
-        
-        "nominativo": "SAU Marco",
-        "ruolo": "A",
-        "squadra": "Cagliari",
-        "data nascita": "11/3/87"
-    }, {
-        
-        "nominativo": "SCHICK Patrik",
-        "ruolo": "A",
-        "squadra": "Sampdoria",
-        "data nascita": "1/24/96"
-    }, {
-        
-        "nominativo": "SIMEONE Giovanni Pablo",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "7/5/95"
-    }, {
-        
-        "nominativo": "SIMY Tochukwu Nwankwo",
-        "ruolo": "A",
-        "squadra": "Crotone",
-        "data nascita": "5/7/92"
-    }, {
-        
-        "nominativo": "STEFANEC Simon",
-        "ruolo": "A",
-        "squadra": "Verona",
-        "data nascita": "9/5/98"
-    }, {
-        
-        "nominativo": "SUSO Jesus Fernandez",
-        "ruolo": "A",
-        "squadra": "Milan",
-        "data nascita": "11/19/93"
-    }, {
-        
-        "nominativo": "TAARABT Adel",
-        "ruolo": "A",
-        "squadra": "Genoa",
-        "data nascita": "5/24/89"
-    }, {
-        
-        "nominativo": "THEREAU Cyril",
-        "ruolo": "A",
-        "squadra": "Udinese",
-        "data nascita": "4/24/83"
-    }, {
-        
-        "nominativo": "THIAM Mame Baba",
-        "ruolo": "A",
-        "squadra": "Juventus",
-        "data nascita": "10/9/92"
-    }, {
-        
-        "nominativo": "TONEV Aleksandar",
-        "ruolo": "A",
-        "squadra": "Crotone",
-        "data nascita": "2/3/90"
-    }, {
-        
-        "nominativo": "TOUNKARA Mamadou",
-        "ruolo": "A",
-        "squadra": "Lazio",
-        "data nascita": "1/19/96"
-    }, {
-        
-        "nominativo": "TROTTA Marcello",
-        "ruolo": "A",
-        "squadra": "Crotone",
-        "data nascita": "9/29/92"
-    }, {
-        
-        "nominativo": "TUPTA Lubomir",
-        "ruolo": "A",
-        "squadra": "Verona",
-        "data nascita": "3/27/98"
-    }, {
-        
-        "nominativo": "UNDER Cengiz",
-        "ruolo": "A",
-        "squadra": "Roma",
-        "data nascita": "7/14/97"
-    }, {
-        
-        "nominativo": "VERDE Daniele",
-        "ruolo": "A",
-        "squadra": "Verona",
-        "data nascita": "6/20/96"
-    }, {
-        
-        "nominativo": "VERDI Simone",
-        "ruolo": "A",
-        "squadra": "Bologna",
-        "data nascita": "7/12/92"
-    }, {
-        
-        "nominativo": "VIDO Luca",
-        "ruolo": "A",
-        "squadra": "Atalanta",
-        "data nascita": "2/3/97"
-    }, {
-        
-        "nominativo": "VIGNATO Emanuel",
-        "ruolo": "A",
-        "squadra": "Chievo",
-        "data nascita": "4/28/00"
-    }, {
-        
-        "nominativo": "ZAPATA Alexis",
-        "ruolo": "A",
-        "squadra": "Udinese",
-        "data nascita": "5/10/95"
-    }, {
-        
-        "nominativo": "ZAPATA Duvan Esteban",
-        "ruolo": "A",
-        "squadra": "Napoli",
-        "data nascita": "4/1/91"
-    }, {
-        
-        "nominativo": "ZEKHNINI Rafik",
-        "ruolo": "A",
-        "squadra": "Fiorentina",
-        "data nascita": "1/12/98"
-    }, {
-        
-        "nominativo": "ZERBIN Alessio",
-        "ruolo": "A",
-        "squadra": "Napoli",
-        "data nascita": "3/3/99"
-    }, {
-        
-        "nominativo": "ZIGONI Gianmarco",
-        "ruolo": "A",
-        "squadra": "Milan",
-        "data nascita": "5/10/91"
-    }]
+  "data": [
+    {
+
+      "nominativo": "ALISSON Ramses Becker",
+      "ruolo": "P",
+      "squadra": "Roma",
+      "data nascita": "10/2/92"
+    },
+    {
+
+      "nominativo": "BELEC Vid",
+      "ruolo": "P",
+      "squadra": "Benevento",
+      "data nascita": "6/6/90"
+    },
+    {
+
+      "nominativo": "BERISHA Etrit",
+      "ruolo": "P",
+      "squadra": "Atalanta",
+      "data nascita": "3/10/89"
+    },
+    {
+
+      "nominativo": "BERNI Tommaso",
+      "ruolo": "P",
+      "squadra": "Inter",
+      "data nascita": "3/6/83"
+    },
+    {
+
+      "nominativo": "BIZZARRI Albano Benjamin",
+      "ruolo": "P",
+      "squadra": "Udinese",
+      "data nascita": "11/9/77"
+    },
+    {
+
+      "nominativo": "BRANDUANI Paolo",
+      "ruolo": "P",
+      "squadra": "Spal",
+      "data nascita": "3/9/89"
+    },
+    {
+
+      "nominativo": "BRIGNOLI Alberto",
+      "ruolo": "P",
+      "squadra": "Benevento",
+      "data nascita": "8/19/91"
+    },
+    {
+
+      "nominativo": "BUFFON Gianluigi",
+      "ruolo": "P",
+      "squadra": "Juventus",
+      "data nascita": "1/28/78"
+    },
+    {
+
+      "nominativo": "CONSIGLI Andrea",
+      "ruolo": "P",
+      "squadra": "Sassuolo",
+      "data nascita": "1/27/87"
+    },
+    {
+
+      "nominativo": "COPPOLA Ferdinando",
+      "ruolo": "P",
+      "squadra": "Verona",
+      "data nascita": "6/10/78"
+    },
+    {
+
+      "nominativo": "CORDAZ Alex",
+      "ruolo": "P",
+      "squadra": "Crotone",
+      "data nascita": "1/1/83"
+    },
+    {
+
+      "nominativo": "CRAGNO Alessio",
+      "ruolo": "P",
+      "squadra": "Cagliari",
+      "data nascita": "6/28/94"
+    },
+    {
+
+      "nominativo": "CROSTA Luca",
+      "ruolo": "P",
+      "squadra": "Cagliari",
+      "data nascita": "2/23/98"
+    },
+    {
+
+      "nominativo": "DA COSTA Angelo Junior",
+      "ruolo": "P",
+      "squadra": "Bologna",
+      "data nascita": "11/12/83"
+    },
+    {
+
+      "nominativo": "DONNARUMMA Antonio",
+      "ruolo": "P",
+      "squadra": "Milan",
+      "data nascita": "7/6/90"
+    },
+    {
+
+      "nominativo": "DONNARUMMA Gianluigi",
+      "ruolo": "P",
+      "squadra": "Milan",
+      "data nascita": "2/25/99"
+    },
+    {
+
+      "nominativo": "DRAGOWSKI Bartlomiej",
+      "ruolo": "P",
+      "squadra": "Fiorentina",
+      "data nascita": "8/19/97"
+    },
+    {
+
+      "nominativo": "FESTA Marco",
+      "ruolo": "P",
+      "squadra": "Crotone",
+      "data nascita": "6/6/92"
+    },
+    {
+
+      "nominativo": "GABRIEL Vasconcelos Ferreira",
+      "ruolo": "P",
+      "squadra": "Milan",
+      "data nascita": "9/27/92"
+    },
+    {
+
+      "nominativo": "GOLLINI Pierluigi",
+      "ruolo": "P",
+      "squadra": "Atalanta",
+      "data nascita": "3/18/95"
+    },
+    {
+
+      "nominativo": "GOMIS Alfred",
+      "ruolo": "P",
+      "squadra": "Spal",
+      "data nascita": "9/5/93"
+    },
+    {
+
+      "nominativo": "GUERRIERI Guido",
+      "ruolo": "P",
+      "squadra": "Lazio",
+      "data nascita": "2/25/96"
+    },
+    {
+
+      "nominativo": "HANDANOVIC Samir",
+      "ruolo": "P",
+      "squadra": "Inter",
+      "data nascita": "7/14/84"
+    },
+    {
+
+      "nominativo": "ICHAZO Salvador",
+      "ruolo": "P",
+      "squadra": "Torino",
+      "data nascita": "1/26/92"
+    },
+    {
+
+      "nominativo": "KARNEZIS Orestis",
+      "ruolo": "P",
+      "squadra": "Udinese",
+      "data nascita": "7/11/85"
+    },
+    {
+
+      "nominativo": "KRAPIKAS Titas",
+      "ruolo": "P",
+      "squadra": "Sampdoria",
+      "data nascita": "1/3/99"
+    },
+    {
+
+      "nominativo": "LAMANNA Eugenio",
+      "ruolo": "P",
+      "squadra": "Genoa",
+      "data nascita": "8/7/89"
+    },
+    {
+
+      "nominativo": "LOBONT Bogdan",
+      "ruolo": "P",
+      "squadra": "Roma",
+      "data nascita": "1/18/78"
+    },
+    {
+
+      "nominativo": "MARCHEGIANI Gabriele",
+      "ruolo": "P",
+      "squadra": "Spal",
+      "data nascita": "6/3/96"
+    },
+    {
+
+      "nominativo": "MARCHETTI Federico",
+      "ruolo": "P",
+      "squadra": "Lazio",
+      "data nascita": "2/7/83"
+    },
+    {
+
+      "nominativo": "MARSON Leonardo",
+      "ruolo": "P",
+      "squadra": "Sassuolo",
+      "data nascita": "1/5/98"
+    },
+    {
+
+      "nominativo": "MERET Alex",
+      "ruolo": "P",
+      "squadra": "Spal",
+      "data nascita": "3/22/97"
+    },
+    {
+
+      "nominativo": "MILINKOVIC-SAVIC Vanja",
+      "ruolo": "P",
+      "squadra": "Torino",
+      "data nascita": "2/20/97"
+    },
+    {
+
+      "nominativo": "MIRANTE Antonio",
+      "ruolo": "P",
+      "squadra": "Bologna",
+      "data nascita": "7/8/83"
+    },
+    {
+
+      "nominativo": "NICOLAS Andrade David",
+      "ruolo": "P",
+      "squadra": "Verona",
+      "data nascita": "4/12/88"
+    },
+    {
+
+      "nominativo": "PADELLI Daniele",
+      "ruolo": "P",
+      "squadra": "Inter",
+      "data nascita": "10/25/85"
+    },
+    {
+
+      "nominativo": "PEGOLO Gianluca",
+      "ruolo": "P",
+      "squadra": "Sassuolo",
+      "data nascita": "3/25/81"
+    },
+    {
+
+      "nominativo": "PERIN Mattia",
+      "ruolo": "P",
+      "squadra": "Genoa",
+      "data nascita": "11/10/92"
+    },
+    {
+
+      "nominativo": "PINSOGLIO Carlo",
+      "ruolo": "P",
+      "squadra": "Juventus",
+      "data nascita": "3/16/90"
+    },
+    {
+
+      "nominativo": "PISCITELLI Riccardo",
+      "ruolo": "P",
+      "squadra": "Benevento",
+      "data nascita": "10/10/93"
+    },
+    {
+
+      "nominativo": "POLUZZI Giacomo",
+      "ruolo": "P",
+      "squadra": "Spal",
+      "data nascita": "2/25/88"
+    },
+    {
+
+      "nominativo": "PUGGIONI Christian",
+      "ruolo": "P",
+      "squadra": "Sampdoria",
+      "data nascita": "1/17/81"
+    },
+    {
+
+      "nominativo": "RADUNOVIC Boris",
+      "ruolo": "P",
+      "squadra": "Atalanta",
+      "data nascita": "5/26/96"
+    },
+    {
+
+      "nominativo": "RAFAEL Cabral Barbosa",
+      "ruolo": "P",
+      "squadra": "Napoli",
+      "data nascita": "5/20/90"
+    },
+    {
+
+      "nominativo": "RAFAEL De Andrade Bittencourt",
+      "ruolo": "P",
+      "squadra": "Cagliari",
+      "data nascita": "3/3/82"
+    },
+    {
+
+      "nominativo": "RAVAGLIA Federico",
+      "ruolo": "P",
+      "squadra": "Bologna",
+      "data nascita": "11/11/99"
+    },
+    {
+
+      "nominativo": "REINA Jose Manuel",
+      "ruolo": "P",
+      "squadra": "Napoli",
+      "data nascita": "8/31/82"
+    },
+    {
+
+      "nominativo": "ROSSI Francesco",
+      "ruolo": "P",
+      "squadra": "Atalanta",
+      "data nascita": "4/27/91"
+    },
+    {
+
+      "nominativo": "SANTURRO Antonio",
+      "ruolo": "P",
+      "squadra": "Bologna",
+      "data nascita": "2/29/92"
+    },
+    {
+
+      "nominativo": "SATALINO Giacomo",
+      "ruolo": "P",
+      "squadra": "Fiorentina",
+      "data nascita": "5/20/99"
+    },
+    {
+
+      "nominativo": "SCUFFET Simone",
+      "ruolo": "P",
+      "squadra": "Udinese",
+      "data nascita": "5/31/96"
+    },
+    {
+
+      "nominativo": "SECULIN Andrea",
+      "ruolo": "P",
+      "squadra": "Chievo",
+      "data nascita": "7/14/90"
+    },
+    {
+
+      "nominativo": "SEPE Luigi",
+      "ruolo": "P",
+      "squadra": "Napoli",
+      "data nascita": "5/8/91"
+    },
+    {
+
+      "nominativo": "SILVESTRI Marco",
+      "ruolo": "P",
+      "squadra": "Verona",
+      "data nascita": "3/2/91"
+    },
+    {
+
+      "nominativo": "SIRIGU Salvatore",
+      "ruolo": "P",
+      "squadra": "Torino",
+      "data nascita": "1/12/87"
+    },
+    {
+
+      "nominativo": "SKORUPSKI Lukasz",
+      "ruolo": "P",
+      "squadra": "Roma",
+      "data nascita": "5/5/91"
+    },
+    {
+
+      "nominativo": "SORRENTINO Stefano",
+      "ruolo": "P",
+      "squadra": "Chievo",
+      "data nascita": "3/28/79"
+    },
+    {
+
+      "nominativo": "SPORTIELLO Marco",
+      "ruolo": "P",
+      "squadra": "Fiorentina",
+      "data nascita": "5/10/92"
+    },
+    {
+
+      "nominativo": "STORARI Marco",
+      "ruolo": "P",
+      "squadra": "Milan",
+      "data nascita": "1/7/77"
+    },
+    {
+
+      "nominativo": "STRAKOSHA Thomas",
+      "ruolo": "P",
+      "squadra": "Lazio",
+      "data nascita": "3/19/95"
+    },
+    {
+
+      "nominativo": "SZCZESNY Wojciech",
+      "ruolo": "P",
+      "squadra": "Juventus",
+      "data nascita": "4/18/90"
+    },
+    {
+
+      "nominativo": "TOZZO Andrea",
+      "ruolo": "P",
+      "squadra": "Sampdoria",
+      "data nascita": "8/30/92"
+    },
+    {
+
+      "nominativo": "VARGIC Ivan",
+      "ruolo": "P",
+      "squadra": "Lazio",
+      "data nascita": "3/15/87"
+    },
+    {
+
+      "nominativo": "VISCOVO Aniello",
+      "ruolo": "P",
+      "squadra": "Crotone",
+      "data nascita": "6/21/99"
+    },
+    {
+
+      "nominativo": "VIVIANO Emiliano",
+      "ruolo": "P",
+      "squadra": "Sampdoria",
+      "data nascita": "12/1/85"
+    },
+    {
+
+      "nominativo": "ZACCAGNO Andrea",
+      "ruolo": "P",
+      "squadra": "Torino",
+      "data nascita": "5/27/97"
+    },
+    {
+
+      "nominativo": "ZIMA Lukas",
+      "ruolo": "P",
+      "squadra": "Genoa",
+      "data nascita": "1/9/94"
+    },
+    {
+
+      "nominativo": "ABATE Ignazio",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "11/12/86"
+    },
+    {
+
+      "nominativo": "ACERBI Francesco",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "2/10/88"
+    },
+    {
+
+      "nominativo": "ADNAN Ali Kadhim",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "12/19/93"
+    },
+    {
+
+      "nominativo": "AJETI Arlind",
+      "ruolo": "D",
+      "squadra": "Crotone",
+      "data nascita": "9/25/93"
+    },
+    {
+
+      "nominativo": "ALBERTAZZI Michelangelo",
+      "ruolo": "D",
+      "squadra": "Verona",
+      "data nascita": "1/7/91"
+    },
+    {
+
+      "nominativo": "ALBIOL Raul",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "9/4/85"
+    },
+    {
+
+      "nominativo": "ALEX SANDRO Lobo Silva",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "1/26/91"
+    },
+    {
+
+      "nominativo": "AMUZIE Stanley",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "2/28/96"
+    },
+    {
+
+      "nominativo": "ANDREOLLI Marco",
+      "ruolo": "D",
+      "squadra": "Cagliari",
+      "data nascita": "6/10/86"
+    },
+    {
+
+      "nominativo": "ANGELLA Gabriele",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "4/28/89"
+    },
+    {
+
+      "nominativo": "ANSALDI Cristian Daniel",
+      "ruolo": "D",
+      "squadra": "Inter",
+      "data nascita": "9/20/86"
+    },
+    {
+
+      "nominativo": "ANTEI Luca",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "4/19/92"
+    },
+    {
+
+      "nominativo": "ANTONELLI Luca",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "2/11/87"
+    },
+    {
+
+      "nominativo": "ASAMOAH Kwadwo",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "12/9/88"
+    },
+    {
+
+      "nominativo": "ASTORI Davide",
+      "ruolo": "D",
+      "squadra": "Fiorentina",
+      "data nascita": "1/7/87"
+    },
+    {
+
+      "nominativo": "AVELAR Danilo Fernando",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "6/9/89"
+    },
+    {
+
+      "nominativo": "BALZANO Antonio",
+      "ruolo": "D",
+      "squadra": "Cagliari",
+      "data nascita": "6/13/86"
+    },
+    {
+
+      "nominativo": "BANI Mattia",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "12/10/93"
+    },
+    {
+
+      "nominativo": "BARRECA Antonio",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "3/18/95"
+    },
+    {
+
+      "nominativo": "BARZAGLI Andrea",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "5/8/81"
+    },
+    {
+
+      "nominativo": "BASTA Dusan",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "8/18/84"
+    },
+    {
+
+      "nominativo": "BASTONI Alessandro",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "4/13/99"
+    },
+    {
+
+      "nominativo": "BASTOS Bartolomeu Jacinto",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "11/23/91"
+    },
+    {
+
+      "nominativo": "BENATIA Mehdi",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "4/17/87"
+    },
+    {
+
+      "nominativo": "BERESZYNSKI Bartosz",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "7/12/92"
+    },
+    {
+
+      "nominativo": "BIANCHETTI Matteo",
+      "ruolo": "D",
+      "squadra": "Verona",
+      "data nascita": "3/17/93"
+    },
+    {
+
+      "nominativo": "BIRASCHI Davide",
+      "ruolo": "D",
+      "squadra": "Genoa",
+      "data nascita": "7/2/94"
+    },
+    {
+
+      "nominativo": "BOCHNIEWICZ Pawel",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "1/30/96"
+    },
+    {
+
+      "nominativo": "BONIFAZI Kevin",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "5/19/96"
+    },
+    {
+
+      "nominativo": "BONUCCI Leonardo",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "5/1/87"
+    },
+    {
+
+      "nominativo": "BRIGNANI Fabrizio",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "1/13/98"
+    },
+    {
+
+      "nominativo": "BRIVIO Davide",
+      "ruolo": "D",
+      "squadra": "Genoa",
+      "data nascita": "8/17/88"
+    },
+    {
+
+      "nominativo": "BROSCO Riccardo",
+      "ruolo": "D",
+      "squadra": "Verona",
+      "data nascita": "2/3/91"
+    },
+    {
+
+      "nominativo": "BRUNO PERES da Silva",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "3/1/90"
+    },
+    {
+
+      "nominativo": "BUBNJIC Igor",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "7/17/92"
+    },
+    {
+
+      "nominativo": "CABRERA Leandro Daniel",
+      "ruolo": "D",
+      "squadra": "Crotone",
+      "data nascita": "6/17/91"
+    },
+    {
+
+      "nominativo": "CACCIATORE Fabrizio",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "10/8/86"
+    },
+    {
+
+      "nominativo": "CACERES Martin José",
+      "ruolo": "D",
+      "squadra": "Verona",
+      "data nascita": "4/7/87"
+    },
+    {
+
+      "nominativo": "CALABRIA Davide",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "12/6/96"
+    },
+    {
+
+      "nominativo": "CALDARA Mattia",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "5/5/94"
+    },
+    {
+
+      "nominativo": "CAMPORESE Michele",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "5/19/92"
+    },
+    {
+
+      "nominativo": "CANNAVARO Paolo",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "6/26/81"
+    },
+    {
+
+      "nominativo": "CAPUANO Marco",
+      "ruolo": "D",
+      "squadra": "Cagliari",
+      "data nascita": "10/14/91"
+    },
+    {
+
+      "nominativo": "CARACCIOLO Antonio Aldo",
+      "ruolo": "D",
+      "squadra": "Verona",
+      "data nascita": "6/30/90"
+    },
+    {
+
+      "nominativo": "CASTAGNE Timothy",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "12/5/95"
+    },
+    {
+
+      "nominativo": "CASTAN Leandro da Silva",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "11/5/86"
+    },
+    {
+
+      "nominativo": "CECCHERINI Federico",
+      "ruolo": "D",
+      "squadra": "Crotone",
+      "data nascita": "5/11/92"
+    },
+    {
+
+      "nominativo": "CEPPITELLI Luca",
+      "ruolo": "D",
+      "squadra": "Cagliari",
+      "data nascita": "8/11/89"
+    },
+    {
+
+      "nominativo": "CESAR Bostjan",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "7/9/82"
+    },
+    {
+
+      "nominativo": "CHERUBIN Nicolo'",
+      "ruolo": "D",
+      "squadra": "Verona",
+      "data nascita": "12/2/86"
+    },
+    {
+
+      "nominativo": "CHIELLINI Giorgio",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "8/14/84"
+    },
+    {
+
+      "nominativo": "CHIRICHES Vlad Iulian",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "11/14/89"
+    },
+    {
+
+      "nominativo": "COSTA Andrea",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "2/1/86"
+    },
+    {
+
+      "nominativo": "CREMONESI Michele",
+      "ruolo": "D",
+      "squadra": "Spal",
+      "data nascita": "4/15/88"
+    },
+    {
+
+      "nominativo": "CUOMO Giuseppe",
+      "ruolo": "D",
+      "squadra": "Crotone",
+      "data nascita": "2/2/98"
+    },
+    {
+
+      "nominativo": "DAINELLI Dario",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "6/9/79"
+    },
+    {
+
+      "nominativo": "DALBERT Henrique Chagas Estevao",
+      "ruolo": "D",
+      "squadra": "Inter",
+      "data nascita": "9/8/93"
+    },
+    {
+
+      "nominativo": "D'AMBROSIO Danilo",
+      "ruolo": "D",
+      "squadra": "Inter",
+      "data nascita": "9/9/88"
+    },
+    {
+
+      "nominativo": "DANILO Larangeira",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "5/10/84"
+    },
+    {
+
+      "nominativo": "DAPRELA' Fabio",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "2/19/91"
+    },
+    {
+
+      "nominativo": "DE MAIO Sebastien",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "3/5/87"
+    },
+    {
+
+      "nominativo": "DE SCIGLIO Mattia",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "10/20/92"
+    },
+    {
+
+      "nominativo": "DE SILVESTRI Lorenzo",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "5/23/88"
+    },
+    {
+
+      "nominativo": "DE VRIJ Stefan",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "2/5/92"
+    },
+    {
+
+      "nominativo": "DEL FABRO Dario",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "3/24/95"
+    },
+    {
+
+      "nominativo": "DEL GROSSO Cristiano",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "3/24/83"
+    },
+    {
+
+      "nominativo": "DELL'ORCO Cristian",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "2/10/94"
+    },
+    {
+
+      "nominativo": "DI CHIARA Gianluca",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "12/26/93"
+    },
+    {
+
+      "nominativo": "DJIMSITI Berat",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "2/19/93"
+    },
+    {
+
+      "nominativo": "DODO' Jose Rodolfo",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "2/6/92"
+    },
+    {
+
+      "nominativo": "DRAME' Boukary",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "7/22/85"
+    },
+    {
+
+      "nominativo": "DUSSENNE Noe",
+      "ruolo": "D",
+      "squadra": "Crotone",
+      "data nascita": "4/7/92"
+    },
+    {
+
+      "nominativo": "EMERSON Palmieri dos Santos",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "8/3/94"
+    },
+    {
+
+      "nominativo": "FARAONI Marco Davide",
+      "ruolo": "D",
+      "squadra": "Crotone",
+      "data nascita": "10/25/91"
+    },
+    {
+
+      "nominativo": "FAZIO Federico Julian",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "3/17/87"
+    },
+    {
+
+      "nominativo": "FELIPE Dal Belo Dias",
+      "ruolo": "D",
+      "squadra": "Spal",
+      "data nascita": "7/31/84"
+    },
+    {
+
+      "nominativo": "FERRARI Alex",
+      "ruolo": "D",
+      "squadra": "Verona",
+      "data nascita": "7/1/94"
+    },
+    {
+
+      "nominativo": "FERRARI Gianmarco",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "5/15/92"
+    },
+    {
+
+      "nominativo": "FREY Nicolas Sebastien",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "3/6/84"
+    },
+    {
+
+      "nominativo": "GAMBERINI Alessandro",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "8/27/81"
+    },
+    {
+
+      "nominativo": "GASPAR Bruno Miguel",
+      "ruolo": "D",
+      "squadra": "Fiorentina",
+      "data nascita": "4/21/93"
+    },
+    {
+
+      "nominativo": "GASPARETTO Daniele",
+      "ruolo": "D",
+      "squadra": "Spal",
+      "data nascita": "4/6/88"
+    },
+    {
+
+      "nominativo": "GASTALDELLO Daniele",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "6/25/83"
+    },
+    {
+
+      "nominativo": "GAZZOLA Marcello",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "4/3/85"
+    },
+    {
+
+      "nominativo": "GENTILETTI Santiago Juan",
+      "ruolo": "D",
+      "squadra": "Genoa",
+      "data nascita": "1/9/85"
+    },
+    {
+
+      "nominativo": "GHOULAM Faouzi",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "2/1/91"
+    },
+    {
+
+      "nominativo": "GOBBI Massimo",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "10/31/80"
+    },
+    {
+
+      "nominativo": "GOLDANIGA Edoardo",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "11/2/93"
+    },
+    {
+
+      "nominativo": "GOMEZ Gustavo Raul",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "6/6/93"
+    },
+    {
+
+      "nominativo": "GONZALEZ Giancarlo",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "2/8/88"
+    },
+    {
+
+      "nominativo": "GORGA Sebastian",
+      "ruolo": "D",
+      "squadra": "Genoa",
+      "data nascita": "4/6/94"
+    },
+    {
+
+      "nominativo": "GRAVILLON Andrew Rayan",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "2/8/98"
+    },
+    {
+
+      "nominativo": "GYAMFI Bright",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "1/20/96"
+    },
+    {
+
+      "nominativo": "GYOMBER Norbert",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "7/3/92"
+    },
+    {
+
+      "nominativo": "HATEBOER Hans",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "1/9/94"
+    },
+    {
+
+      "nominativo": "HELANDER Filip Viktor",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "4/22/93"
+    },
+    {
+
+      "nominativo": "HEURTAUX Thomas",
+      "ruolo": "D",
+      "squadra": "Verona",
+      "data nascita": "7/3/88"
+    },
+    {
+
+      "nominativo": "HOEDT Wesley",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "3/6/94"
+    },
+    {
+
+      "nominativo": "HYSAJ Elseid",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "2/2/94"
+    },
+    {
+
+      "nominativo": "INSUA Emanuel Mariano",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "4/10/91"
+    },
+    {
+
+      "nominativo": "IZZO Armando",
+      "ruolo": "D",
+      "squadra": "Genoa",
+      "data nascita": "3/2/92"
+    },
+    {
+
+      "nominativo": "JAROSZYNSKI Pawel",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "10/2/94"
+    },
+    {
+
+      "nominativo": "JUAN JESUS Guilherme Nunes",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "6/10/91"
+    },
+    {
+
+      "nominativo": "KARSDORP Rick",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "2/11/95"
+    },
+    {
+
+      "nominativo": "KOLAROV Aleksandar",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "11/10/85"
+    },
+    {
+
+      "nominativo": "KONATE Pa Momodou",
+      "ruolo": "D",
+      "squadra": "Spal",
+      "data nascita": "4/25/94"
+    },
+    {
+
+      "nominativo": "KOULIBALY Kalidou",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "6/20/91"
+    },
+    {
+
+      "nominativo": "KRAFTH Emil Henry",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "8/2/94"
+    },
+    {
+
+      "nominativo": "LANDRE Loick",
+      "ruolo": "D",
+      "squadra": "Genoa",
+      "data nascita": "5/5/92"
+    },
+    {
+
+      "nominativo": "LETIZIA Gaetano",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "6/29/90"
+    },
+    {
+
+      "nominativo": "LETSCHERT Timo",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "5/25/93"
+    },
+    {
+
+      "nominativo": "LEVERBE Maxime",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "2/15/97"
+    },
+    {
+
+      "nominativo": "LICHTSTEINER Stephan",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "1/16/84"
+    },
+    {
+
+      "nominativo": "LIROLA Pol Mikel",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "8/13/97"
+    },
+    {
+
+      "nominativo": "LOPEZ Walter Alberto",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "10/15/85"
+    },
+    {
+
+      "nominativo": "LUCIONI Fabio",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "9/25/87"
+    },
+    {
+
+      "nominativo": "LUIZ FELIPE Ramos Marchi",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "3/22/97"
+    },
+    {
+
+      "nominativo": "LUKAKU Jordan Zacharie",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "7/21/94"
+    },
+    {
+
+      "nominativo": "LUPERTO Sebastiano",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "9/6/96"
+    },
+    {
+
+      "nominativo": "LYANCO Evangelista Silveira",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "2/1/97"
+    },
+    {
+
+      "nominativo": "MAGGIO Christian",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "2/11/82"
+    },
+    {
+
+      "nominativo": "MAIETTA Domenico",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "8/3/82"
+    },
+    {
+
+      "nominativo": "MAKSIMOVIC Nikola",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "11/25/91"
+    },
+    {
+
+      "nominativo": "MANCINI Gianluca",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "4/17/96"
+    },
+    {
+
+      "nominativo": "MANOLAS Kostas",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "6/14/91"
+    },
+    {
+
+      "nominativo": "MARCHIZZA Riccardo",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "3/26/98"
+    },
+    {
+
+      "nominativo": "MARIO RUI Silva Duarte",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "5/27/91"
+    },
+    {
+
+      "nominativo": "MARTELLA Bruno",
+      "ruolo": "D",
+      "squadra": "Crotone",
+      "data nascita": "8/14/92"
+    },
+    {
+
+      "nominativo": "MASIELLO Andrea",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "2/5/86"
+    },
+    {
+
+      "nominativo": "MASINA Adam",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "1/2/94"
+    },
+    {
+
+      "nominativo": "MATTIELLO Federico",
+      "ruolo": "D",
+      "squadra": "Spal",
+      "data nascita": "7/14/95"
+    },
+    {
+
+      "nominativo": "MAURICIO dos Santos Nascimento",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "9/20/88"
+    },
+    {
+
+      "nominativo": "MBAYE Ibrahima",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "11/19/94"
+    },
+    {
+
+      "nominativo": "MIANGUE Senna",
+      "ruolo": "D",
+      "squadra": "Cagliari",
+      "data nascita": "2/5/97"
+    },
+    {
+
+      "nominativo": "MILENKOVIC Nikola",
+      "ruolo": "D",
+      "squadra": "Fiorentina",
+      "data nascita": "10/12/97"
+    },
+    {
+
+      "nominativo": "MIRANDA Joao de Souza",
+      "ruolo": "D",
+      "squadra": "Inter",
+      "data nascita": "9/7/84"
+    },
+    {
+
+      "nominativo": "MOLINARO Cristian",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "7/30/83"
+    },
+    {
+
+      "nominativo": "MORENO Hector Alfredo",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "1/17/88"
+    },
+    {
+
+      "nominativo": "MORETTI Emiliano",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "6/11/81"
+    },
+    {
+
+      "nominativo": "MURILLO Jeison Fabian",
+      "ruolo": "D",
+      "squadra": "Inter",
+      "data nascita": "5/27/92"
+    },
+    {
+
+      "nominativo": "MURRU Nicola",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "12/16/94"
+    },
+    {
+
+      "nominativo": "MUSACCHIO Mateo Pablo",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "8/26/90"
+    },
+    {
+
+      "nominativo": "MUSAVU-KING Yrondu",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "1/8/92"
+    },
+    {
+
+      "nominativo": "NAGATOMO Yuto",
+      "ruolo": "D",
+      "squadra": "Inter",
+      "data nascita": "9/12/86"
+    },
+    {
+
+      "nominativo": "NICA Constantin",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "3/18/93"
+    },
+    {
+
+      "nominativo": "NICOLETTI Manuel",
+      "ruolo": "D",
+      "squadra": "Crotone",
+      "data nascita": "12/9/98"
+    },
+    {
+
+      "nominativo": "N'KOULOU Alexis Nicolas",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "27/3/90"
+    },
+    {
+
+      "nominativo": "NURA Abdullahi",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "8/17/97"
+    },
+    {
+
+      "nominativo": "NUYTINCK Bram",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "5/4/90"
+    },
+    {
+
+      "nominativo": "OIKONOMOU Marios",
+      "ruolo": "D",
+      "squadra": "Spal",
+      "data nascita": "10/6/92"
+    },
+    {
+
+      "nominativo": "OLIVERA Maximiliano Martin",
+      "ruolo": "D",
+      "squadra": "Fiorentina",
+      "data nascita": "3/5/92"
+    },
+    {
+
+      "nominativo": "PADELLA Emanuele",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "9/24/88"
+    },
+    {
+
+      "nominativo": "PALETTA Gabriel Alejandro",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "2/15/86"
+    },
+    {
+
+      "nominativo": "PALOMINO Jose Luis",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "1/5/90"
+    },
+    {
+
+      "nominativo": "PATRIC Gabarron Gil",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "4/17/93"
+    },
+    {
+
+      "nominativo": "PAVLOVIC Daniel",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "4/22/88"
+    },
+    {
+
+      "nominativo": "PELUSO Federico",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "1/20/84"
+    },
+    {
+
+      "nominativo": "PEZZELLA Giuseppe",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "11/29/97"
+    },
+    {
+
+      "nominativo": "PISACANE Fabio",
+      "ruolo": "D",
+      "squadra": "Cagliari",
+      "data nascita": "6/28/86"
+    },
+    {
+
+      "nominativo": "POLVANI Lorenzo",
+      "ruolo": "D",
+      "squadra": "Spal",
+      "data nascita": "7/26/94"
+    },
+    {
+
+      "nominativo": "RADU Stefan Andrei",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "10/22/86"
+    },
+    {
+
+      "nominativo": "RANOCCHIA Andrea",
+      "ruolo": "D",
+      "squadra": "Inter",
+      "data nascita": "2/16/88"
+    },
+    {
+
+      "nominativo": "REGINI Vasco",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "9/9/90"
+    },
+    {
+
+      "nominativo": "RIGIONE Michele",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "3/7/91"
+    },
+    {
+
+      "nominativo": "RODRIGUEZ Ricardo Ivan",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "8/25/92"
+    },
+    {
+
+      "nominativo": "ROMAGNA Filippo",
+      "ruolo": "D",
+      "squadra": "Cagliari",
+      "data nascita": "5/26/97"
+    },
+    {
+
+      "nominativo": "ROMAGNOLI Alessio",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "1/12/95"
+    },
+    {
+
+      "nominativo": "ROSI Aleandro",
+      "ruolo": "D",
+      "squadra": "Genoa",
+      "data nascita": "5/17/87"
+    },
+    {
+
+      "nominativo": "ROSSETTINI Luca",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "5/9/85"
+    },
+    {
+
+      "nominativo": "RUGANI Daniele",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "7/29/94"
+    },
+    {
+
+      "nominativo": "SALA Jacopo",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "12/5/91"
+    },
+    {
+
+      "nominativo": "SALAMON Bartosz",
+      "ruolo": "D",
+      "squadra": "Cagliari",
+      "data nascita": "5/1/91"
+    },
+    {
+
+      "nominativo": "SAMIR Caetano de Souza",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "12/5/94"
+    },
+    {
+
+      "nominativo": "SAMPIRISI Mario",
+      "ruolo": "D",
+      "squadra": "Crotone",
+      "data nascita": "10/31/92"
+    },
+    {
+
+      "nominativo": "SANTON Davide",
+      "ruolo": "D",
+      "squadra": "Inter",
+      "data nascita": "1/2/91"
+    },
+    {
+
+      "nominativo": "SILVESTRE Matias Agustin",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "9/25/84"
+    },
+    {
+
+      "nominativo": "SIMIC Lorenco",
+      "ruolo": "D",
+      "squadra": "Sampdoria",
+      "data nascita": "7/15/96"
+    },
+    {
+
+      "nominativo": "SIMIC Stefan",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "1/20/95"
+    },
+    {
+
+      "nominativo": "SKRINIAR Milan",
+      "ruolo": "D",
+      "squadra": "Inter",
+      "data nascita": "2/11/95"
+    },
+    {
+
+      "nominativo": "SOUPRAYEN Samuel",
+      "ruolo": "D",
+      "squadra": "Verona",
+      "data nascita": "2/18/89"
+    },
+    {
+
+      "nominativo": "SPOLLI Nicolas Federico",
+      "ruolo": "D",
+      "squadra": "Genoa",
+      "data nascita": "2/20/83"
+    },
+    {
+
+      "nominativo": "STRINIC Ivan",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "7/17/87"
+    },
+    {
+
+      "nominativo": "TOLOI Rafael",
+      "ruolo": "D",
+      "squadra": "Atalanta",
+      "data nascita": "10/10/90"
+    },
+    {
+
+      "nominativo": "TOMOVIC Nenad",
+      "ruolo": "D",
+      "squadra": "Fiorentina",
+      "data nascita": "8/30/87"
+    },
+    {
+
+      "nominativo": "TONELLI Lorenzo",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "1/17/90"
+    },
+    {
+
+      "nominativo": "TOROSIDIS Vasilis",
+      "ruolo": "D",
+      "squadra": "Bologna",
+      "data nascita": "6/10/85"
+    },
+    {
+
+      "nominativo": "TROIANI Michele",
+      "ruolo": "D",
+      "squadra": "Chievo",
+      "data nascita": "7/21/96"
+    },
+    {
+
+      "nominativo": "UNTERSEE Joel",
+      "ruolo": "D",
+      "squadra": "Juventus",
+      "data nascita": "2/11/94"
+    },
+    {
+
+      "nominativo": "VAISANEN Sauli Aapo",
+      "ruolo": "D",
+      "squadra": "Spal",
+      "data nascita": "6/5/94"
+    },
+    {
+
+      "nominativo": "VENUTI Lorenzo",
+      "ruolo": "D",
+      "squadra": "Benevento",
+      "data nascita": "4/12/95"
+    },
+    {
+
+      "nominativo": "VERGARA Jherson",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "5/26/94"
+    },
+    {
+
+      "nominativo": "VICARI Francesco",
+      "ruolo": "D",
+      "squadra": "Spal",
+      "data nascita": "8/3/94"
+    },
+    {
+
+      "nominativo": "VITOR HUGO Franchescoli de Souza",
+      "ruolo": "D",
+      "squadra": "Fiorentina",
+      "data nascita": "5/20/91"
+    },
+    {
+
+      "nominativo": "WAGUE Molla",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "2/21/91"
+    },
+    {
+
+      "nominativo": "WALLACE Fortuna dos Santos",
+      "ruolo": "D",
+      "squadra": "Lazio",
+      "data nascita": "10/14/94"
+    },
+    {
+
+      "nominativo": "WIDMER Silvan",
+      "ruolo": "D",
+      "squadra": "Udinese",
+      "data nascita": "3/5/93"
+    },
+    {
+
+      "nominativo": "ZAPATA Cristian Eduardo",
+      "ruolo": "D",
+      "squadra": "Milan",
+      "data nascita": "9/30/86"
+    },
+    {
+
+      "nominativo": "ZAPPACOSTA Davide",
+      "ruolo": "D",
+      "squadra": "Torino",
+      "data nascita": "6/11/92"
+    },
+    {
+
+      "nominativo": "ZUKANOVIC Ervin",
+      "ruolo": "D",
+      "squadra": "Genoa",
+      "data nascita": "2/11/87"
+    },
+    {
+
+      "nominativo": "ZUNIGA Juan Camilo",
+      "ruolo": "D",
+      "squadra": "Napoli",
+      "data nascita": "12/14/85"
+    },
+    {
+
+      "nominativo": "ACQUAH Afriyie",
+      "ruolo": "C",
+      "squadra": "Torino",
+      "data nascita": "1/5/92"
+    },
+    {
+
+      "nominativo": "ADJAPONG Claud",
+      "ruolo": "C",
+      "squadra": "Sassuolo",
+      "data nascita": "5/6/98"
+    },
+    {
+
+      "nominativo": "AGYEI Daniel Kofi",
+      "ruolo": "C",
+      "squadra": "Benevento",
+      "data nascita": "1/1/92"
+    },
+    {
+
+      "nominativo": "ALLAN Marques Loureiro",
+      "ruolo": "C",
+      "squadra": "Napoli",
+      "data nascita": "1/8/91"
+    },
+    {
+
+      "nominativo": "ALVAREZ Ricardo Gabriel",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "4/12/88"
+    },
+    {
+
+      "nominativo": "ARAMU Mattia",
+      "ruolo": "C",
+      "squadra": "Torino",
+      "data nascita": "5/14/95"
+    },
+    {
+
+      "nominativo": "BADELJ Milan",
+      "ruolo": "C",
+      "squadra": "Fiorentina",
+      "data nascita": "2/25/89"
+    },
+    {
+
+      "nominativo": "BALIC Andrija",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "8/11/97"
+    },
+    {
+
+      "nominativo": "BARAK Antonin",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "12/3/94"
+    },
+    {
+
+      "nominativo": "BARBERIS Andrea",
+      "ruolo": "C",
+      "squadra": "Crotone",
+      "data nascita": "12/11/93"
+    },
+    {
+
+      "nominativo": "BARELLA Nicolo'",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "2/7/97"
+    },
+    {
+
+      "nominativo": "BARRETO Edgar Osvaldo",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "7/15/84"
+    },
+    {
+
+      "nominativo": "BASELLI Daniele",
+      "ruolo": "C",
+      "squadra": "Torino",
+      "data nascita": "3/12/92"
+    },
+    {
+
+      "nominativo": "BASTIEN Samuel",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "9/26/96"
+    },
+    {
+
+      "nominativo": "BAUMGARTNER Denis",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "2/2/98"
+    },
+    {
+
+      "nominativo": "BENASSI Marco",
+      "ruolo": "C",
+      "squadra": "Fiorentina",
+      "data nascita": "9/8/94"
+    },
+    {
+
+      "nominativo": "BENTANCUR Rodrigo",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "6/25/97"
+    },
+    {
+
+      "nominativo": "BERENGUER Alejandro",
+      "ruolo": "C",
+      "squadra": "Torino",
+      "data nascita": "7/4/95"
+    },
+    {
+
+      "nominativo": "BERNARDESCHI Federico",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "2/16/94"
+    },
+    {
+
+      "nominativo": "BERTOLACCI Andrea",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "1/11/91"
+    },
+    {
+
+      "nominativo": "BESSA Daniel",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "1/14/93"
+    },
+    {
+
+      "nominativo": "BIGLIA Lucas Rodrigo",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "1/30/86"
+    },
+    {
+
+      "nominativo": "BIONDINI Davide",
+      "ruolo": "C",
+      "squadra": "Sassuolo",
+      "data nascita": "1/24/83"
+    },
+    {
+
+      "nominativo": "BONAVENTURA Giacomo",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "8/22/89"
+    },
+    {
+
+      "nominativo": "BROZOVIC Marcelo",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "11/16/92"
+    },
+    {
+
+      "nominativo": "BUCHEL Marcel",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "3/18/91"
+    },
+    {
+
+      "nominativo": "CALHANOGLU Hakan",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "2/8/94"
+    },
+    {
+
+      "nominativo": "CANDREVA Antonio",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "2/28/87"
+    },
+    {
+
+      "nominativo": "CAPEZZI Leonardo",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "3/29/95"
+    },
+    {
+
+      "nominativo": "CASSATA Francesco",
+      "ruolo": "C",
+      "squadra": "Sassuolo",
+      "data nascita": "7/16/97"
+    },
+    {
+
+      "nominativo": "CASTRO Lucas Nahuel",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "4/9/89"
+    },
+    {
+
+      "nominativo": "CATALDI Danilo",
+      "ruolo": "C",
+      "squadra": "Benevento",
+      "data nascita": "8/6/94"
+    },
+    {
+
+      "nominativo": "CHIBSAH Yussif Raman",
+      "ruolo": "C",
+      "squadra": "Benevento",
+      "data nascita": "3/10/93"
+    },
+    {
+
+      "nominativo": "CHIESA Federico",
+      "ruolo": "C",
+      "squadra": "Fiorentina",
+      "data nascita": "10/25/97"
+    },
+    {
+
+      "nominativo": "CIGARINI Luca",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "6/20/86"
+    },
+    {
+
+      "nominativo": "CINELLI Antonio",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "12/8/89"
+    },
+    {
+
+      "nominativo": "COFIE Isaac",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "9/20/91"
+    },
+    {
+
+      "nominativo": "COLOMBATTO Santiago",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "1/17/97"
+    },
+    {
+
+      "nominativo": "CONTI Andrea",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "3/2/94"
+    },
+    {
+
+      "nominativo": "CORLU Rezan",
+      "ruolo": "C",
+      "squadra": "Roma",
+      "data nascita": "8/7/97"
+    },
+    {
+
+      "nominativo": "COSSU Andrea",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "5/3/80"
+    },
+    {
+
+      "nominativo": "COSTA Filippo",
+      "ruolo": "C",
+      "squadra": "Spal",
+      "data nascita": "5/21/95"
+    },
+    {
+
+      "nominativo": "CRECCO Luca",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "9/6/95"
+    },
+    {
+
+      "nominativo": "CRISETIG Lorenzo",
+      "ruolo": "C",
+      "squadra": "Bologna",
+      "data nascita": "1/20/93"
+    },
+    {
+
+      "nominativo": "CRISTANTE Bryan",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "3/3/95"
+    },
+    {
+
+      "nominativo": "CRISTOFORO Sebastian Carlos",
+      "ruolo": "C",
+      "squadra": "Fiorentina",
+      "data nascita": "8/23/93"
+    },
+    {
+
+      "nominativo": "CROCIATA Giovanni",
+      "ruolo": "C",
+      "squadra": "Crotone",
+      "data nascita": "8/11/97"
+    },
+    {
+
+      "nominativo": "CUADRADO Juan Guillermo",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "5/26/88"
+    },
+    {
+
+      "nominativo": "DE FALCO Andrea",
+      "ruolo": "C",
+      "squadra": "Benevento",
+      "data nascita": "6/19/86"
+    },
+    {
+
+      "nominativo": "DE PAUL Rodrigo Javier",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "5/24/94"
+    },
+    {
+
+      "nominativo": "DE ROSSI Daniele",
+      "ruolo": "C",
+      "squadra": "Roma",
+      "data nascita": "7/24/83"
+    },
+    {
+
+      "nominativo": "DE VITIS Alessandro",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "2/15/92"
+    },
+    {
+
+      "nominativo": "DEIOLA Alessandro",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "8/1/95"
+    },
+    {
+
+      "nominativo": "DEL PINTO Lorenzo",
+      "ruolo": "C",
+      "squadra": "Benevento",
+      "data nascita": "9/17/90"
+    },
+    {
+
+      "nominativo": "DEPAOLI Fabio",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "4/24/97"
+    },
+    {
+
+      "nominativo": "DESSENA Daniele",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "5/10/87"
+    },
+    {
+
+      "nominativo": "DI GENNARO Davide",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "6/16/88"
+    },
+    {
+
+      "nominativo": "DIAWARA Amadou",
+      "ruolo": "C",
+      "squadra": "Napoli",
+      "data nascita": "11/17/97"
+    },
+    {
+
+      "nominativo": "DONSAH Godfred",
+      "ruolo": "C",
+      "squadra": "Bologna",
+      "data nascita": "6/7/96"
+    },
+    {
+
+      "nominativo": "DUNCAN Joseph Alfred",
+      "ruolo": "C",
+      "squadra": "Sassuolo",
+      "data nascita": "3/10/93"
+    },
+    {
+
+      "nominativo": "ERAMO Mirko",
+      "ruolo": "C",
+      "squadra": "Benevento",
+      "data nascita": "7/12/89"
+    },
+    {
+
+      "nominativo": "FARAGO' Paolo Pancrazio",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "2/12/93"
+    },
+    {
+
+      "nominativo": "FELICIOLI Gian Filippo",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "9/30/97"
+    },
+    {
+
+      "nominativo": "FERNANDEZ Matias Ariel",
+      "ruolo": "C",
+      "squadra": "Fiorentina",
+      "data nascita": "5/15/86"
+    },
+    {
+
+      "nominativo": "FLORENZI Alessandro",
+      "ruolo": "C",
+      "squadra": "Roma",
+      "data nascita": "3/11/91"
+    },
+    {
+
+      "nominativo": "FOFANA Seko Mohamed",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "5/7/95"
+    },
+    {
+
+      "nominativo": "FOSSATI Marco Ezio",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "10/5/92"
+    },
+    {
+
+      "nominativo": "FRATTESI Davide",
+      "ruolo": "C",
+      "squadra": "Sassuolo",
+      "data nascita": "9/22/99"
+    },
+    {
+
+      "nominativo": "FREULER Remo",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "4/15/92"
+    },
+    {
+
+      "nominativo": "GAGLIARDINI Roberto",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "4/7/94"
+    },
+    {
+
+      "nominativo": "GARRITANO Luca",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "2/11/94"
+    },
+    {
+
+      "nominativo": "GAUDINO Gianluca",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "11/11/96"
+    },
+    {
+
+      "nominativo": "GERSON Santos da Silva",
+      "ruolo": "C",
+      "squadra": "Roma",
+      "data nascita": "5/20/97"
+    },
+    {
+
+      "nominativo": "GIACCHERINI Emanuele",
+      "ruolo": "C",
+      "squadra": "Napoli",
+      "data nascita": "5/5/85"
+    },
+    {
+
+      "nominativo": "GNOUKOURI Assane Demoya",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "9/28/96"
+    },
+    {
+
+      "nominativo": "GONALONS Maxime",
+      "ruolo": "C",
+      "squadra": "Roma",
+      "data nascita": "3/10/89"
+    },
+    {
+
+      "nominativo": "GOSENS Robin",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "7/5/94"
+    },
+    {
+
+      "nominativo": "GRASSI Alberto",
+      "ruolo": "C",
+      "squadra": "Spal",
+      "data nascita": "3/7/95"
+    },
+    {
+
+      "nominativo": "GUSTAFSON Samuel",
+      "ruolo": "C",
+      "squadra": "Torino",
+      "data nascita": "1/11/95"
+    },
+    {
+
+      "nominativo": "HAAS Nicolas",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "1/23/96"
+    },
+    {
+
+      "nominativo": "HALLFREDSSON Emil",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "6/29/84"
+    },
+    {
+
+      "nominativo": "HAMSIK Marek",
+      "ruolo": "C",
+      "squadra": "Napoli",
+      "data nascita": "7/27/87"
+    },
+    {
+
+      "nominativo": "HETEMAJ Perparim",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "12/12/86"
+    },
+    {
+
+      "nominativo": "HILJEMARK Oscar Karl",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "6/28/92"
+    },
+    {
+
+      "nominativo": "INGELSSON Svante Ulf",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "6/14/98"
+    },
+    {
+
+      "nominativo": "IÑIGUEZ Gaspar Emanuel",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "3/26/94"
+    },
+    {
+
+      "nominativo": "IONITA Artur",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "8/17/90"
+    },
+    {
+
+      "nominativo": "IVAN David",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "2/26/95"
+    },
+    {
+
+      "nominativo": "IZCO Mariano Julio",
+      "ruolo": "C",
+      "squadra": "Crotone",
+      "data nascita": "3/13/83"
+    },
+    {
+
+      "nominativo": "JAKIMOVSKI Nikola",
+      "ruolo": "C",
+      "squadra": "Benevento",
+      "data nascita": "2/26/90"
+    },
+    {
+
+      "nominativo": "JANKTO Jakub",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "1/19/96"
+    },
+    {
+
+      "nominativo": "JOAO MARIO Naval da Costa",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "1/19/93"
+    },
+    {
+
+      "nominativo": "JOAO PEDRO Geraldino",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "3/9/92"
+    },
+    {
+
+      "nominativo": "JORGINHO Luiz Frello",
+      "ruolo": "C",
+      "squadra": "Napoli",
+      "data nascita": "12/20/91"
+    },
+    {
+
+      "nominativo": "KASTANOS Grigoris",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "1/31/98"
+    },
+    {
+
+      "nominativo": "KESSIE Franck Yannick",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "12/19/96"
+    },
+    {
+
+      "nominativo": "KHEDIRA Sami",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "4/4/87"
+    },
+    {
+
+      "nominativo": "KIYINE Sofian",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "10/2/97"
+    },
+    {
+
+      "nominativo": "KONDOGBIA Geoffrey",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "2/15/93"
+    },
+    {
+
+      "nominativo": "KONE Panagiotis Georgios",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "7/26/87"
+    },
+    {
+
+      "nominativo": "KRAGL Oliver",
+      "ruolo": "C",
+      "squadra": "Crotone",
+      "data nascita": "5/12/90"
+    },
+    {
+
+      "nominativo": "KURTIC Jasmin",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "1/10/89"
+    },
+    {
+
+      "nominativo": "LANER Simon",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "1/28/84"
+    },
+    {
+
+      "nominativo": "LAXALT Diego Sebastian",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "2/7/93"
+    },
+    {
+
+      "nominativo": "LAZOVIC Darko",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "9/15/90"
+    },
+    {
+
+      "nominativo": "LAZZARI Manuel",
+      "ruolo": "C",
+      "squadra": "Spal",
+      "data nascita": "11/29/93"
+    },
+    {
+
+      "nominativo": "LEIVA Lucas Pezzini",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "1/9/87"
+    },
+    {
+
+      "nominativo": "LINETTY Karol",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "2/2/95"
+    },
+    {
+
+      "nominativo": "LOCATELLI Manuel",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "1/8/98"
+    },
+    {
+
+      "nominativo": "LUKIC Sasa",
+      "ruolo": "C",
+      "squadra": "Torino",
+      "data nascita": "8/13/96"
+    },
+    {
+
+      "nominativo": "LULIC Senad",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "1/18/86"
+    },
+    {
+
+      "nominativo": "MAGNANELLI Francesco",
+      "ruolo": "C",
+      "squadra": "Sassuolo",
+      "data nascita": "11/12/84"
+    },
+    {
+
+      "nominativo": "MANDRAGORA Rolando",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "6/29/97"
+    },
+    {
+
+      "nominativo": "MARCHISIO Claudio",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "1/19/86"
+    },
+    {
+
+      "nominativo": "MARRONE Luca",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "3/28/90"
+    },
+    {
+
+      "nominativo": "MARUSIC Adam",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "10/17/92"
+    },
+    {
+
+      "nominativo": "MAURI Jose' Agustin",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "5/15/96"
+    },
+    {
+
+      "nominativo": "MAZZITELLI Luca",
+      "ruolo": "C",
+      "squadra": "Sassuolo",
+      "data nascita": "11/15/95"
+    },
+    {
+
+      "nominativo": "MBAYE Malick",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "11/6/95"
+    },
+    {
+
+      "nominativo": "MEDEL Gary Alexis",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "8/3/87"
+    },
+    {
+
+      "nominativo": "MELARA Fabrizio",
+      "ruolo": "C",
+      "squadra": "Benevento",
+      "data nascita": "5/6/86"
+    },
+    {
+
+      "nominativo": "MELEGONI Filippo",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "2/18/99"
+    },
+    {
+
+      "nominativo": "MILINKOVIC-SAVIC Sergej",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "2/27/95"
+    },
+    {
+
+      "nominativo": "MINALA Joseph Marie",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "8/24/96"
+    },
+    {
+
+      "nominativo": "MINOTTI Nadir",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "5/16/92"
+    },
+    {
+
+      "nominativo": "MISSIROLI Simone",
+      "ruolo": "C",
+      "squadra": "Sassuolo",
+      "data nascita": "5/23/86"
+    },
+    {
+
+      "nominativo": "MOHAMED Abukar",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "1/1/99"
+    },
+    {
+
+      "nominativo": "MONTOLIVO Riccardo",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "1/18/85"
+    },
+    {
+
+      "nominativo": "MORA Luca",
+      "ruolo": "C",
+      "squadra": "Spal",
+      "data nascita": "5/10/88"
+    },
+    {
+
+      "nominativo": "MORRISON Ravel Ryan",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "2/2/93"
+    },
+    {
+
+      "nominativo": "MURGIA Alessandro",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "8/9/96"
+    },
+    {
+
+      "nominativo": "NAGY Adam",
+      "ruolo": "C",
+      "squadra": "Bologna",
+      "data nascita": "6/17/95"
+    },
+    {
+
+      "nominativo": "NAINGGOLAN Radja",
+      "ruolo": "C",
+      "squadra": "Roma",
+      "data nascita": "5/4/88"
+    },
+    {
+
+      "nominativo": "NALINI Andrea",
+      "ruolo": "C",
+      "squadra": "Crotone",
+      "data nascita": "6/20/90"
+    },
+    {
+
+      "nominativo": "OBI Joel Chukwuma",
+      "ruolo": "C",
+      "squadra": "Torino",
+      "data nascita": "5/22/91"
+    },
+    {
+
+      "nominativo": "OIKONOMIDIS Christopher James",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "5/4/95"
+    },
+    {
+
+      "nominativo": "PADOIN Simone",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "3/18/84"
+    },
+    {
+
+      "nominativo": "PAJAC Marko",
+      "ruolo": "C",
+      "squadra": "Cagliari",
+      "data nascita": "5/11/93"
+    },
+    {
+
+      "nominativo": "PAROLO Marco",
+      "ruolo": "C",
+      "squadra": "Lazio",
+      "data nascita": "1/25/85"
+    },
+    {
+
+      "nominativo": "PELLEGRINI Lorenzo",
+      "ruolo": "C",
+      "squadra": "Roma",
+      "data nascita": "6/19/96"
+    },
+    {
+
+      "nominativo": "PESSINA Matteo",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "4/21/97"
+    },
+    {
+
+      "nominativo": "PJANIC Miralem",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "4/2/90"
+    },
+    {
+
+      "nominativo": "POLI Andrea",
+      "ruolo": "C",
+      "squadra": "Bologna",
+      "data nascita": "9/29/89"
+    },
+    {
+
+      "nominativo": "PONTISSO Simone",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "3/20/97"
+    },
+    {
+
+      "nominativo": "PRAET Dennis",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "5/14/94"
+    },
+    {
+
+      "nominativo": "PULGAR Erick Antonio",
+      "ruolo": "C",
+      "squadra": "Bologna",
+      "data nascita": "1/15/94"
+    },
+    {
+
+      "nominativo": "RADOVANOVIC Ivan",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "8/29/88"
+    },
+    {
+
+      "nominativo": "RIGONI Luca",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "12/7/84"
+    },
+    {
+
+      "nominativo": "RIGONI Nicola",
+      "ruolo": "C",
+      "squadra": "Chievo",
+      "data nascita": "11/12/90"
+    },
+    {
+
+      "nominativo": "RINCON Tomas Eduardo",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "1/13/88"
+    },
+    {
+
+      "nominativo": "RIZZO Luca",
+      "ruolo": "C",
+      "squadra": "Spal",
+      "data nascita": "4/24/92"
+    },
+    {
+
+      "nominativo": "ROCCA Michele",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "2/6/96"
+    },
+    {
+
+      "nominativo": "RODRIGUEZ Thomas",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "4/5/96"
+    },
+    {
+
+      "nominativo": "ROG Marko",
+      "ruolo": "C",
+      "squadra": "Napoli",
+      "data nascita": "7/19/95"
+    },
+    {
+
+      "nominativo": "ROHDEN Marcus Christer",
+      "ruolo": "C",
+      "squadra": "Crotone",
+      "data nascita": "5/11/91"
+    },
+    {
+
+      "nominativo": "ROMULO Souza Orestes",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "5/22/87"
+    },
+    {
+
+      "nominativo": "SANCHEZ Carlos Alberto",
+      "ruolo": "C",
+      "squadra": "Fiorentina",
+      "data nascita": "2/6/86"
+    },
+    {
+
+      "nominativo": "SCHETINO Edgardo Andres",
+      "ruolo": "C",
+      "squadra": "Fiorentina",
+      "data nascita": "5/26/94"
+    },
+    {
+
+      "nominativo": "SCHIATTARELLA Pasquale",
+      "ruolo": "C",
+      "squadra": "Spal",
+      "data nascita": "5/30/87"
+    },
+    {
+
+      "nominativo": "SCHIAVON Eros",
+      "ruolo": "C",
+      "squadra": "Spal",
+      "data nascita": "4/24/83"
+    },
+    {
+
+      "nominativo": "SCHMIDT Joao Felipe",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "5/19/93"
+    },
+    {
+
+      "nominativo": "SENSI Stefano",
+      "ruolo": "C",
+      "squadra": "Sassuolo",
+      "data nascita": "8/5/95"
+    },
+    {
+
+      "nominativo": "SOSA Jose Ernesto",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "6/19/85"
+    },
+    {
+
+      "nominativo": "SPINAZZOLA Leonardo",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "3/25/93"
+    },
+    {
+
+      "nominativo": "STOIAN Adrian",
+      "ruolo": "C",
+      "squadra": "Crotone",
+      "data nascita": "2/11/91"
+    },
+    {
+
+      "nominativo": "STRASSER Rodney",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "3/30/90"
+    },
+    {
+
+      "nominativo": "STROOTMAN Kevin",
+      "ruolo": "C",
+      "squadra": "Roma",
+      "data nascita": "2/13/90"
+    },
+    {
+
+      "nominativo": "STURARO Stefano",
+      "ruolo": "C",
+      "squadra": "Juventus",
+      "data nascita": "3/9/93"
+    },
+    {
+
+      "nominativo": "SULJIC Cazim",
+      "ruolo": "C",
+      "squadra": "Crotone",
+      "data nascita": "10/29/96"
+    },
+    {
+
+      "nominativo": "TAIDER Saphir Sliti",
+      "ruolo": "C",
+      "squadra": "Bologna",
+      "data nascita": "2/29/92"
+    },
+    {
+
+      "nominativo": "TORREIRA Lucas",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "2/11/96"
+    },
+    {
+
+      "nominativo": "VAINQUEUR William-Jacques",
+      "ruolo": "C",
+      "squadra": "Roma",
+      "data nascita": "11/19/88"
+    },
+    {
+
+      "nominativo": "VALDIFIORI Mirko",
+      "ruolo": "C",
+      "squadra": "Torino",
+      "data nascita": "4/21/86"
+    },
+    {
+
+      "nominativo": "VALENCIA Juan Manuel",
+      "ruolo": "C",
+      "squadra": "Bologna",
+      "data nascita": "10/17/98"
+    },
+    {
+
+      "nominativo": "VALERO Borja",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "1/12/85"
+    },
+    {
+
+      "nominativo": "VALOTI Mattia",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "9/6/93"
+    },
+    {
+
+      "nominativo": "VECINO Matias",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "8/24/91"
+    },
+    {
+
+      "nominativo": "VELOSO Miguel Luis",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "5/11/86"
+    },
+    {
+
+      "nominativo": "VERETOUT Jordan Marcel",
+      "ruolo": "C",
+      "squadra": "Fiorentina",
+      "data nascita": "3/1/93"
+    },
+    {
+
+      "nominativo": "VERRE Valerio",
+      "ruolo": "C",
+      "squadra": "Sampdoria",
+      "data nascita": "1/11/94"
+    },
+    {
+
+      "nominativo": "VIOLA Benito Nicolas",
+      "ruolo": "C",
+      "squadra": "Benevento",
+      "data nascita": "10/12/89"
+    },
+    {
+
+      "nominativo": "VIVIANI Federico",
+      "ruolo": "C",
+      "squadra": "Spal",
+      "data nascita": "3/24/92"
+    },
+    {
+
+      "nominativo": "ZACCAGNI Mattia",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "6/16/95"
+    },
+    {
+
+      "nominativo": "ZANELLATO Niccolo'",
+      "ruolo": "C",
+      "squadra": "Milan",
+      "data nascita": "6/24/98"
+    },
+    {
+
+      "nominativo": "ZIELINSKI Piotr Sebastian",
+      "ruolo": "C",
+      "squadra": "Napoli",
+      "data nascita": "5/20/94"
+    },
+    {
+
+      "nominativo": "ZUCULINI Bruno",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "4/2/93"
+    },
+    {
+
+      "nominativo": "ZUCULINI Franco",
+      "ruolo": "C",
+      "squadra": "Verona",
+      "data nascita": "9/5/90"
+    },
+    {
+
+      "nominativo": "ACOSTY Boadu Maxwell",
+      "ruolo": "A",
+      "squadra": "Crotone",
+      "data nascita": "9/10/91"
+    },
+    {
+
+      "nominativo": "ANDERSON Felipe",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "4/15/93"
+    },
+    {
+
+      "nominativo": "ANDRE' SILVA Miguel Valente",
+      "ruolo": "A",
+      "squadra": "Milan",
+      "data nascita": "11/6/95"
+    },
+    {
+
+      "nominativo": "ANTENUCCI Mirco",
+      "ruolo": "A",
+      "squadra": "Spal",
+      "data nascita": "9/8/84"
+    },
+    {
+
+      "nominativo": "BABACAR Khouma El Hadji",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "3/17/93"
+    },
+    {
+
+      "nominativo": "BACCA Carlos Arturo",
+      "ruolo": "A",
+      "squadra": "Milan",
+      "data nascita": "9/8/86"
+    },
+    {
+
+      "nominativo": "BAEZ Jaime",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "4/25/95"
+    },
+    {
+
+      "nominativo": "BAJIC Riad",
+      "ruolo": "A",
+      "squadra": "Udinese",
+      "data nascita": "5/6/94"
+    },
+    {
+
+      "nominativo": "BALDE Ibourahima",
+      "ruolo": "A",
+      "squadra": "Sampdoria",
+      "data nascita": "9/23/99"
+    },
+    {
+
+      "nominativo": "BELOTTI Andrea",
+      "ruolo": "A",
+      "squadra": "Torino",
+      "data nascita": "12/20/93"
+    },
+    {
+
+      "nominativo": "BERARDI Domenico",
+      "ruolo": "A",
+      "squadra": "Sassuolo",
+      "data nascita": "8/1/94"
+    },
+    {
+
+      "nominativo": "BIRSA Valter",
+      "ruolo": "A",
+      "squadra": "Chievo",
+      "data nascita": "8/7/86"
+    },
+    {
+
+      "nominativo": "BONAZZOLI Federico",
+      "ruolo": "A",
+      "squadra": "Sampdoria",
+      "data nascita": "5/21/97"
+    },
+    {
+
+      "nominativo": "BORINI Fabio",
+      "ruolo": "A",
+      "squadra": "Milan",
+      "data nascita": "3/29/91"
+    },
+    {
+
+      "nominativo": "BORRIELLO Marco",
+      "ruolo": "A",
+      "squadra": "Cagliari",
+      "data nascita": "6/18/82"
+    },
+    {
+
+      "nominativo": "BOYE' Lucas",
+      "ruolo": "A",
+      "squadra": "Torino",
+      "data nascita": "2/28/96"
+    },
+    {
+
+      "nominativo": "BUDIMIR Ante",
+      "ruolo": "A",
+      "squadra": "Crotone",
+      "data nascita": "7/22/91"
+    },
+    {
+
+      "nominativo": "CAICEDO Felipe Salvador",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "9/5/88"
+    },
+    {
+
+      "nominativo": "CALLEJON Jose Maria",
+      "ruolo": "A",
+      "squadra": "Napoli",
+      "data nascita": "2/11/87"
+    },
+    {
+
+      "nominativo": "CAPRARI Gianluca",
+      "ruolo": "A",
+      "squadra": "Sampdoria",
+      "data nascita": "7/30/93"
+    },
+    {
+
+      "nominativo": "CENTURION Ricardo Adrian",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "1/19/93"
+    },
+    {
+
+      "nominativo": "CERAVOLO Giovanni Fabio",
+      "ruolo": "A",
+      "squadra": "Benevento",
+      "data nascita": "3/5/87"
+    },
+    {
+
+      "nominativo": "CERCI Alessio",
+      "ruolo": "A",
+      "squadra": "Verona",
+      "data nascita": "7/23/87"
+    },
+    {
+
+      "nominativo": "CICIRETTI Amato",
+      "ruolo": "A",
+      "squadra": "Benevento",
+      "data nascita": "12/31/93"
+    },
+    {
+
+      "nominativo": "CISSE' Karamoko",
+      "ruolo": "A",
+      "squadra": "Benevento",
+      "data nascita": "11/14/88"
+    },
+    {
+
+      "nominativo": "CLEMENZA Luca",
+      "ruolo": "A",
+      "squadra": "Juventus",
+      "data nascita": "9/9/97"
+    },
+    {
+
+      "nominativo": "CODA Massimo",
+      "ruolo": "A",
+      "squadra": "Benevento",
+      "data nascita": "12/10/88"
+    },
+    {
+
+      "nominativo": "COP Duje",
+      "ruolo": "A",
+      "squadra": "Cagliari",
+      "data nascita": "2/1/90"
+    },
+    {
+
+      "nominativo": "CORNELIUS Andreas",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "3/16/93"
+    },
+    {
+
+      "nominativo": "CUTRONE Patrick",
+      "ruolo": "A",
+      "squadra": "Milan",
+      "data nascita": "1/3/98"
+    },
+    {
+
+      "nominativo": "D'ALESSANDRO Marco",
+      "ruolo": "A",
+      "squadra": "Benevento",
+      "data nascita": "2/17/91"
+    },
+    {
+
+      "nominativo": "DEFREL Gregoire",
+      "ruolo": "A",
+      "squadra": "Roma",
+      "data nascita": "6/17/91"
+    },
+    {
+
+      "nominativo": "DESTRO Mattia",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "3/20/91"
+    },
+    {
+
+      "nominativo": "DI FRANCESCO Federico",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "6/14/94"
+    },
+    {
+
+      "nominativo": "DJORDJEVIC Filip",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "9/28/87"
+    },
+    {
+
+      "nominativo": "DJURICIC Filip",
+      "ruolo": "A",
+      "squadra": "Sampdoria",
+      "data nascita": "1/30/92"
+    },
+    {
+
+      "nominativo": "DOUGLAS COSTA de Souza",
+      "ruolo": "A",
+      "squadra": "Juventus",
+      "data nascita": "9/14/90"
+    },
+    {
+
+      "nominativo": "DYBALA Paulo Bruno",
+      "ruolo": "A",
+      "squadra": "Juventus",
+      "data nascita": "11/15/93"
+    },
+    {
+
+      "nominativo": "DZEKO Edin",
+      "ruolo": "A",
+      "squadra": "Roma",
+      "data nascita": "3/17/86"
+    },
+    {
+
+      "nominativo": "EDER Martins Citadin",
+      "ruolo": "A",
+      "squadra": "Inter",
+      "data nascita": "11/15/86"
+    },
+    {
+
+      "nominativo": "EDERA Simone",
+      "ruolo": "A",
+      "squadra": "Torino",
+      "data nascita": "1/9/97"
+    },
+    {
+
+      "nominativo": "EL SHAARAWY Stephan",
+      "ruolo": "A",
+      "squadra": "Roma",
+      "data nascita": "10/27/92"
+    },
+    {
+
+      "nominativo": "EWANDRO Felipe de Lima",
+      "ruolo": "A",
+      "squadra": "Udinese",
+      "data nascita": "3/15/96"
+    },
+    {
+
+      "nominativo": "EYSSERIC Valentin",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "3/25/92"
+    },
+    {
+
+      "nominativo": "FALCINELLI Diego",
+      "ruolo": "A",
+      "squadra": "Sassuolo",
+      "data nascita": "6/26/91"
+    },
+    {
+
+      "nominativo": "FALCO Filippo",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "2/11/92"
+    },
+    {
+
+      "nominativo": "FALLETTI Cesar Alejandro",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "12/20/92"
+    },
+    {
+
+      "nominativo": "FARES Mohamed Salim",
+      "ruolo": "A",
+      "squadra": "Verona",
+      "data nascita": "2/15/96"
+    },
+    {
+
+      "nominativo": "FARIAS Diego da Silva",
+      "ruolo": "A",
+      "squadra": "Cagliari",
+      "data nascita": "5/10/90"
+    },
+    {
+
+      "nominativo": "FLOCCARI Sergio",
+      "ruolo": "A",
+      "squadra": "Spal",
+      "data nascita": "11/12/81"
+    },
+    {
+
+      "nominativo": "GABIGOL Barbosa Almeida",
+      "ruolo": "A",
+      "squadra": "Inter",
+      "data nascita": "8/30/96"
+    },
+    {
+
+      "nominativo": "GAKPE' Serge",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "5/7/87"
+    },
+    {
+
+      "nominativo": "GALABINOV Andrey Asenov",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "11/27/88"
+    },
+    {
+
+      "nominativo": "GATTO Leonardo",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "4/28/92"
+    },
+    {
+
+      "nominativo": "GIANNETTI Niccolo'",
+      "ruolo": "A",
+      "squadra": "Cagliari",
+      "data nascita": "5/12/91"
+    },
+    {
+
+      "nominativo": "GOMEZ Alejandro Dario",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "2/15/88"
+    },
+    {
+
+      "nominativo": "HAGI Ianis",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "10/22/98"
+    },
+    {
+
+      "nominativo": "HIGUAIN Gonzalo Gerardo",
+      "ruolo": "A",
+      "squadra": "Juventus",
+      "data nascita": "12/10/87"
+    },
+    {
+
+      "nominativo": "IAGO FALQUE Silva",
+      "ruolo": "A",
+      "squadra": "Torino",
+      "data nascita": "1/4/90"
+    },
+    {
+
+      "nominativo": "ICARDI Mauro Emanuel",
+      "ruolo": "A",
+      "squadra": "Inter",
+      "data nascita": "2/19/93"
+    },
+    {
+
+      "nominativo": "IEMMELLO Pietro",
+      "ruolo": "A",
+      "squadra": "Sassuolo",
+      "data nascita": "3/6/92"
+    },
+    {
+
+      "nominativo": "ILICIC Josip",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "1/29/88"
+    },
+    {
+
+      "nominativo": "IMMOBILE Ciro",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "2/20/90"
+    },
+    {
+
+      "nominativo": "INGLESE Roberto",
+      "ruolo": "A",
+      "squadra": "Chievo",
+      "data nascita": "11/12/91"
+    },
+    {
+
+      "nominativo": "INSIGNE Lorenzo",
+      "ruolo": "A",
+      "squadra": "Napoli",
+      "data nascita": "6/4/91"
+    },
+    {
+
+      "nominativo": "ITURBE Juan Manuel",
+      "ruolo": "A",
+      "squadra": "Roma",
+      "data nascita": "6/4/93"
+    },
+    {
+
+      "nominativo": "JOVETIC Stevan",
+      "ruolo": "A",
+      "squadra": "Inter",
+      "data nascita": "11/2/89"
+    },
+    {
+
+      "nominativo": "KALINIC Nikola",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "1/5/88"
+    },
+    {
+
+      "nominativo": "KEAN Moise Bioty",
+      "ruolo": "A",
+      "squadra": "Juventus",
+      "data nascita": "2/28/00"
+    },
+    {
+
+      "nominativo": "KEITA Balde Diao",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "3/8/95"
+    },
+    {
+
+      "nominativo": "KISHNA Ricardo",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "1/4/95"
+    },
+    {
+
+      "nominativo": "KOTNIK Andrej",
+      "ruolo": "A",
+      "squadra": "Crotone",
+      "data nascita": "8/4/95"
+    },
+    {
+
+      "nominativo": "KOWNACKI Dawid",
+      "ruolo": "A",
+      "squadra": "Sampdoria",
+      "data nascita": "3/14/97"
+    },
+    {
+
+      "nominativo": "KREJCI Ladislav",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "7/5/92"
+    },
+    {
+
+      "nominativo": "LAPADULA Gianluca",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "2/7/90"
+    },
+    {
+
+      "nominativo": "LASAGNA Kevin",
+      "ruolo": "A",
+      "squadra": "Udinese",
+      "data nascita": "8/10/92"
+    },
+    {
+
+      "nominativo": "LEANDRINHO Henrique do Nascimento",
+      "ruolo": "A",
+      "squadra": "Napoli",
+      "data nascita": "10/11/98"
+    },
+    {
+
+      "nominativo": "LERIS Mehdi",
+      "ruolo": "A",
+      "squadra": "Chievo",
+      "data nascita": "5/23/98"
+    },
+    {
+
+      "nominativo": "LJAJIC Adem",
+      "ruolo": "A",
+      "squadra": "Torino",
+      "data nascita": "9/29/91"
+    },
+    {
+
+      "nominativo": "LOMBARDI Cristiano",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "8/19/95"
+    },
+    {
+
+      "nominativo": "LONGO Samuele",
+      "ruolo": "A",
+      "squadra": "Inter",
+      "data nascita": "1/12/92"
+    },
+    {
+
+      "nominativo": "LOPEZ Maximiliano Gaston",
+      "ruolo": "A",
+      "squadra": "Torino",
+      "data nascita": "4/3/84"
+    },
+    {
+
+      "nominativo": "LUIS ALBERTO Romero Alconchel",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "9/28/92"
+    },
+    {
+
+      "nominativo": "MALLE' Aly",
+      "ruolo": "A",
+      "squadra": "Udinese",
+      "data nascita": "4/3/98"
+    },
+    {
+
+      "nominativo": "MANAJ Rey",
+      "ruolo": "A",
+      "squadra": "Inter",
+      "data nascita": "2/24/97"
+    },
+    {
+
+      "nominativo": "MANDZUKIC Mario",
+      "ruolo": "A",
+      "squadra": "Juventus",
+      "data nascita": "5/21/86"
+    },
+    {
+
+      "nominativo": "MANGNI Doudou Ursul",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "3/29/93"
+    },
+    {
+
+      "nominativo": "MARILUNGO Guido",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "8/9/89"
+    },
+    {
+
+      "nominativo": "MATOS Ryder",
+      "ruolo": "A",
+      "squadra": "Udinese",
+      "data nascita": "2/27/93"
+    },
+    {
+
+      "nominativo": "MATRI Alessandro",
+      "ruolo": "A",
+      "squadra": "Sassuolo",
+      "data nascita": "8/19/84"
+    },
+    {
+
+      "nominativo": "MEGGIORINI Riccardo",
+      "ruolo": "A",
+      "squadra": "Chievo",
+      "data nascita": "9/4/85"
+    },
+    {
+
+      "nominativo": "MELCHIORRI Federico",
+      "ruolo": "A",
+      "squadra": "Cagliari",
+      "data nascita": "1/6/87"
+    },
+    {
+
+      "nominativo": "MENDEZ Alan Kevin",
+      "ruolo": "A",
+      "squadra": "Roma",
+      "data nascita": "1/10/96"
+    },
+    {
+
+      "nominativo": "MERTENS Dries",
+      "ruolo": "A",
+      "squadra": "Napoli",
+      "data nascita": "5/6/87"
+    },
+    {
+
+      "nominativo": "MILIK Arkadiusz",
+      "ruolo": "A",
+      "squadra": "Napoli",
+      "data nascita": "2/28/94"
+    },
+    {
+
+      "nominativo": "MONACHELLO Gaetano",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "3/3/94"
+    },
+    {
+
+      "nominativo": "MOROSINI Leonardo",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "10/13/95"
+    },
+    {
+
+      "nominativo": "MOUNIER Anthony",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "9/27/87"
+    },
+    {
+
+      "nominativo": "NIANG M'baye",
+      "ruolo": "A",
+      "squadra": "Milan",
+      "data nascita": "12/19/94"
+    },
+    {
+
+      "nominativo": "NINKOVIC Nikola",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "12/19/94"
+    },
+    {
+
+      "nominativo": "OKWONKWO Orji",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "1/19/98"
+    },
+    {
+
+      "nominativo": "ORSOLINI Riccardo",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "1/24/97"
+    },
+    {
+
+      "nominativo": "OUNAS Adam",
+      "ruolo": "A",
+      "squadra": "Napoli",
+      "data nascita": "11/11/96"
+    },
+    {
+
+      "nominativo": "PALLADINO Raffaele",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "4/17/84"
+    },
+    {
+
+      "nominativo": "PALOMBI Simone",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "4/23/96"
+    },
+    {
+
+      "nominativo": "PALOSCHI Alberto",
+      "ruolo": "A",
+      "squadra": "Spal",
+      "data nascita": "1/4/90"
+    },
+    {
+
+      "nominativo": "PANDEV Goran",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "7/27/83"
+    },
+    {
+
+      "nominativo": "PARIGINI Vittorio",
+      "ruolo": "A",
+      "squadra": "Torino",
+      "data nascita": "3/25/96"
+    },
+    {
+
+      "nominativo": "PAVOLETTI Leonardo",
+      "ruolo": "A",
+      "squadra": "Napoli",
+      "data nascita": "11/26/88"
+    },
+    {
+
+      "nominativo": "PAZZINI Giampaolo",
+      "ruolo": "A",
+      "squadra": "Verona",
+      "data nascita": "8/2/84"
+    },
+    {
+
+      "nominativo": "PELLEGRI Pietro",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "3/17/01"
+    },
+    {
+
+      "nominativo": "PELLISSIER Sergio",
+      "ruolo": "A",
+      "squadra": "Chievo",
+      "data nascita": "4/12/79"
+    },
+    {
+
+      "nominativo": "PEREA Brayan Andres",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "2/25/93"
+    },
+    {
+
+      "nominativo": "PEREZ Joshua",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "1/21/98"
+    },
+    {
+
+      "nominativo": "PERICA Stipe",
+      "ruolo": "A",
+      "squadra": "Udinese",
+      "data nascita": "7/7/95"
+    },
+    {
+
+      "nominativo": "PERISIC Ivan",
+      "ruolo": "A",
+      "squadra": "Inter",
+      "data nascita": "2/2/89"
+    },
+    {
+
+      "nominativo": "PEROTTI Diego",
+      "ruolo": "A",
+      "squadra": "Roma",
+      "data nascita": "7/26/88"
+    },
+    {
+
+      "nominativo": "PETAGNA Andrea",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "6/30/95"
+    },
+    {
+
+      "nominativo": "PETKOVIC Bruno",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "9/16/94"
+    },
+    {
+
+      "nominativo": "PINAMONTI Andrea",
+      "ruolo": "A",
+      "squadra": "Inter",
+      "data nascita": "5/19/99"
+    },
+    {
+
+      "nominativo": "PJACA Marko",
+      "ruolo": "A",
+      "squadra": "Juventus",
+      "data nascita": "5/6/95"
+    },
+    {
+
+      "nominativo": "POLITANO Matteo",
+      "ruolo": "A",
+      "squadra": "Sassuolo",
+      "data nascita": "8/3/93"
+    },
+    {
+
+      "nominativo": "PUCCIARELLI Manuel",
+      "ruolo": "A",
+      "squadra": "Chievo",
+      "data nascita": "6/17/91"
+    },
+    {
+
+      "nominativo": "PUSCAS George Alexandru",
+      "ruolo": "A",
+      "squadra": "Benevento",
+      "data nascita": "4/8/96"
+    },
+    {
+
+      "nominativo": "QUAGLIARELLA Fabio",
+      "ruolo": "A",
+      "squadra": "Sampdoria",
+      "data nascita": "1/31/83"
+    },
+    {
+
+      "nominativo": "RAGUSA Antonino",
+      "ruolo": "A",
+      "squadra": "Sassuolo",
+      "data nascita": "3/27/90"
+    },
+    {
+
+      "nominativo": "RAMIREZ Exequiel Gaston",
+      "ruolo": "A",
+      "squadra": "Sampdoria",
+      "data nascita": "12/2/90"
+    },
+    {
+
+      "nominativo": "REBIC Ante",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "9/21/93"
+    },
+    {
+
+      "nominativo": "RICCI Federico",
+      "ruolo": "A",
+      "squadra": "Sassuolo",
+      "data nascita": "5/27/94"
+    },
+    {
+
+      "nominativo": "RODRIGUEZ Alejandro",
+      "ruolo": "A",
+      "squadra": "Chievo",
+      "data nascita": "7/3/91"
+    },
+    {
+
+      "nominativo": "ROSSETI Lorenzo",
+      "ruolo": "A",
+      "squadra": "Juventus",
+      "data nascita": "8/5/94"
+    },
+    {
+
+      "nominativo": "ROSSI Alessandro",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "1/3/97"
+    },
+    {
+
+      "nominativo": "SADIQ Umar",
+      "ruolo": "A",
+      "squadra": "Roma",
+      "data nascita": "2/2/97"
+    },
+    {
+
+      "nominativo": "SAPONARA Riccardo",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "12/21/91"
+    },
+    {
+
+      "nominativo": "SAU Marco",
+      "ruolo": "A",
+      "squadra": "Cagliari",
+      "data nascita": "11/3/87"
+    },
+    {
+
+      "nominativo": "SCHICK Patrik",
+      "ruolo": "A",
+      "squadra": "Sampdoria",
+      "data nascita": "1/24/96"
+    },
+    {
+
+      "nominativo": "SIMEONE Giovanni Pablo",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "7/5/95"
+    },
+    {
+
+      "nominativo": "SIMY Tochukwu Nwankwo",
+      "ruolo": "A",
+      "squadra": "Crotone",
+      "data nascita": "5/7/92"
+    },
+    {
+
+      "nominativo": "STEFANEC Simon",
+      "ruolo": "A",
+      "squadra": "Verona",
+      "data nascita": "9/5/98"
+    },
+    {
+
+      "nominativo": "SUSO Jesus Fernandez",
+      "ruolo": "A",
+      "squadra": "Milan",
+      "data nascita": "11/19/93"
+    },
+    {
+
+      "nominativo": "TAARABT Adel",
+      "ruolo": "A",
+      "squadra": "Genoa",
+      "data nascita": "5/24/89"
+    },
+    {
+
+      "nominativo": "THEREAU Cyril",
+      "ruolo": "A",
+      "squadra": "Udinese",
+      "data nascita": "4/24/83"
+    },
+    {
+
+      "nominativo": "THIAM Mame Baba",
+      "ruolo": "A",
+      "squadra": "Juventus",
+      "data nascita": "10/9/92"
+    },
+    {
+
+      "nominativo": "TONEV Aleksandar",
+      "ruolo": "A",
+      "squadra": "Crotone",
+      "data nascita": "2/3/90"
+    },
+    {
+
+      "nominativo": "TOUNKARA Mamadou",
+      "ruolo": "A",
+      "squadra": "Lazio",
+      "data nascita": "1/19/96"
+    },
+    {
+
+      "nominativo": "TROTTA Marcello",
+      "ruolo": "A",
+      "squadra": "Crotone",
+      "data nascita": "9/29/92"
+    },
+    {
+
+      "nominativo": "TUMMINELLO Andrea",
+      "ruolo": "A",
+      "squadra": "Roma",
+      "data nascita": "11/6/98"
+    },
+    {
+
+      "nominativo": "TUPTA Lubomir",
+      "ruolo": "A",
+      "squadra": "Verona",
+      "data nascita": "3/27/98"
+    },
+    {
+
+      "nominativo": "UNDER Cengiz",
+      "ruolo": "A",
+      "squadra": "Roma",
+      "data nascita": "7/14/97"
+    },
+    {
+
+      "nominativo": "VERDE Daniele",
+      "ruolo": "A",
+      "squadra": "Verona",
+      "data nascita": "6/20/96"
+    },
+    {
+
+      "nominativo": "VERDI Simone",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "7/12/92"
+    },
+    {
+
+      "nominativo": "VIDO Luca",
+      "ruolo": "A",
+      "squadra": "Atalanta",
+      "data nascita": "2/3/97"
+    },
+    {
+
+      "nominativo": "VIGNATO Emanuel",
+      "ruolo": "A",
+      "squadra": "Chievo",
+      "data nascita": "4/28/00"
+    },
+    {
+
+      "nominativo": "YAMGA Kevin Arthur",
+      "ruolo": "A",
+      "squadra": "Chievo",
+      "data nascita": "9/7/96"
+    },
+    {
+
+      "nominativo": "ZAPATA Alexis",
+      "ruolo": "A",
+      "squadra": "Udinese",
+      "data nascita": "5/10/95"
+    },
+    {
+
+      "nominativo": "ZAPATA Duvan Esteban",
+      "ruolo": "A",
+      "squadra": "Napoli",
+      "data nascita": "4/1/91"
+    },
+    {
+
+      "nominativo": "ZEKHNINI Rafik",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "1/12/98"
+    },
+    {
+
+      "nominativo": "ZERBIN Alessio",
+      "ruolo": "A",
+      "squadra": "Napoli",
+      "data nascita": "3/3/99"
+    },
+    {
+
+      "nominativo": "ZIGONI Gianmarco",
+      "ruolo": "A",
+      "squadra": "Milan",
+      "data nascita": "5/10/91"
+    }
+  ]
 }

@@ -40,6 +40,7 @@ module.controller("playersListController", [
         self.playerName = "";
         self.roleName = "";
         self.teamName = self.teamList[0].value;
+        self.printEnabled = false;
 
         self.clickFilter = function () {
             $http.get("api/players/GetPlayerByName?playerName=" + self.playerName + "&roleName=" + self.roleName + "&teamName=" + self.teamName)
@@ -52,7 +53,11 @@ module.controller("playersListController", [
         };
 
 
-
+        self.print = function () {
+            //self.printEnabled = true;
+            window.print();
+            //self.printEnabled = false;
+        };
 
         self.init = function () {
             $http.get("api/players/GetAllPlayers")
