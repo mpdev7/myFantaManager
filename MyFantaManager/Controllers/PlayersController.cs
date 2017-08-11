@@ -17,11 +17,23 @@ namespace MyFantaManager.Controllers
     {
         public static PlayerContainer players = new PlayerContainer();
 
+        private FantaDbContext _dbcontext;
+
+        public PlayersController(FantaDbContext dbContext)
+        {
+            _dbcontext = dbContext;
+        }
+
         [HttpGet]
         [Route("GetAllPlayers")]
         public JsonResult GetAllPlayers()
         {
+
+
             GetPlayerJson();
+
+            var playersDb = _dbcontext.Players.FirstOrDefault();
+
 
             return Json(players.Data);
         }
