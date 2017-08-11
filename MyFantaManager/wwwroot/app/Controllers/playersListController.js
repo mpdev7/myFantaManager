@@ -2,7 +2,8 @@
 
 module.controller("playersListController", [
     "$http",
-    function ($http) {
+    "$timeout",
+    function ($http, $timeout) {
         var self = this;
 
         self.teamList = [
@@ -54,9 +55,13 @@ module.controller("playersListController", [
 
 
         self.print = function () {
-            //self.printEnabled = true;
-            window.print();
-            //self.printEnabled = false;
+            self.printEnabled = true;
+            $timeout(function () {
+                window.print();
+                self.printEnabled = false;
+            }, 1);
+            //
+            
         };
 
         self.init = function () {
