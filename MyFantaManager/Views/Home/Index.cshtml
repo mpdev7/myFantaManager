@@ -3,13 +3,69 @@
 }
 
 <div class="container" ng-controller="playersListController as ctrl" ng-init="ctrl.init()">
+
+    @*MENU FILTRI IN CASO DI UTILIZZO TRAMITE SMARTPHONE*@
+    <nav class="visible-xs navbar navbar-default" style="background-color: transparent !important; border: none !important" role="navigation">
+        <div class="container-fluid ng-class: {hidden: ctrl.printEnabled}">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="glyphicon glyphicon-filter" style="font-size: 20px"></span>
+                </button>
+                <p style="float: right;margin-right: 5px;font-weight: bold;margin-top: 21px;font-size: 16px;">Filtra </p>
+            </div>
+            <div class="collapse navbar-collapse" aria-expanded="false" style="border-color: transparent !important; overflow: hidden">
+                <div class="row">
+                    <div class="row" style="margin-bottom: 15px; margin-left: 0px !important">
+                        <div class="input-group">
+                            <span class="input-group-addon">Nome</span>
+                            <input type="text" ng-model="ctrl.playerName" class="form-control" placeholder="Cerca giocatore...">
+                        </div>
+                    </div>
+                    <div class="row" style="margin-bottom: 15px; margin-left: 0px !important">
+                        <div class="input-group">
+                            <span class="input-group-addon">Ruolo</span>
+                            <button class="btn btn-info" ng-click="ctrl.roleName = 'P'">P</button>
+                            <button class="btn btn-success" ng-click="ctrl.roleName = 'D'">D</button>
+                            <button class="btn btn-warning" ng-click="ctrl.roleName = 'C'">C</button>
+                            <button class="btn btn-danger" ng-click="ctrl.roleName = 'A'">A</button>
+                            <button class="btn btn-primary" ng-click="ctrl.roleName = ''">Tutti</button>
+                        </div>
+                    </div>
+                    <div class="row" style="margin-bottom: 15px; margin-left: 0px !important">
+                        <div class="input-group">
+                            <span class="input-group-addon">Squadra</span>
+                            <select class="form-control" ng-options="item.value as item.text for item in ctrl.teamList" ng-model="ctrl.teamName"></select>
+                        </div>
+                    </div>
+                    <div class="row" style="margin-bottom: 15px; margin-left: 0px !important">
+                        <div class="input-group">
+                            <span class="input-group-addon">Vedi giocatori vincolati</span>
+                            <button type="button" class="btn ng-class: {'btn-success': !ctrl.hiddenOwnersColumn, 'btn-danger': ctrl.hiddenOwnersColumn}" ng-click="ctrl.hiddenOwnersColumn = false">Vedi</button>
+                            <button type="button" class="btn ng-class: {'btn-success': ctrl.hiddenOwnersColumn, 'btn-danger': !ctrl.hiddenOwnersColumn}" ng-click="ctrl.hiddenOwnersColumn = true">Non Vedi</button>
+                        </div>
+                    </div>
+                    <div ng-hide="ctrl.hiddenOwnersColumn" class="row" style="margin-bottom: 15px; margin-left: 0px !important">
+                        <div class="input-group">
+                            <span class="input-group-addon">Proprietario</span>
+                            <select class="form-control" ng-options="item.value as item.text for item in ctrl.ownersList" ng-model="ctrl.ownersName"></select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.nav-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    <!-- /.navbar -->
+
     <div class="row text-center">
         <h1>Lista Calciatori</h1>
         <h5>aggiornata al 10/08/2017</h5>
     </div>
     
     <div class="col-md-12">
-        <div class="col-xs-12 col-md-4 ng-class: {hidden: ctrl.printEnabled}">
+        @*MENU IN CASO DI UTILIZZO DI UN PC/TABLET*@
+        <div class="hidden-xs col-xs-12 col-md-4 ng-class: {hidden: ctrl.printEnabled}" style="padding-left: 0px !important">
             <div class="row">
                 <h3>Filtri</h3>
                 <div class="row" style="margin-bottom: 15px; margin-left: 0px !important">
@@ -55,7 +111,8 @@
                 <button class="btn btn-link" type="button" ng-click="ctrl.print()"><span class="glyphicon glyphicon-print"></span> Stampa</button>
             </div>
         </div>
-        <div class="col-xs-12 ng-class: {'col-md-8': !ctrl.printEnabled, 'col-md-12': ctrl.printEnabled}">
+
+        <div class="col-xs-12 ng-class: {'col-md-8': !ctrl.printEnabled, 'col-md-12': ctrl.printEnabled}" style="padding-left: 0px !important; padding-right: 0px !important">
             <table class="table table-striped">
                 <thead>
                     <tr>
