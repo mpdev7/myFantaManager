@@ -13,6 +13,7 @@ namespace MyFantaManager.Models
         public string Cognome { get; set; }
         public string Squadra { get; set; }
         public string Ruolo { get; set; }
+        public string Proprietario { get; set; }
 
     }
 }

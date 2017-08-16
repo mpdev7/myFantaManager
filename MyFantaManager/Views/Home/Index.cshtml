@@ -28,10 +28,23 @@
                         <button class="btn btn-primary" ng-click="ctrl.roleName = ''">Tutti</button>
                     </div>
                 </div>
-                <div class="row" style="margin-left: 0px !important">
+                <div class="row" style="margin-bottom: 15px; margin-left: 0px !important">
                     <div class="input-group">
                         <span class="input-group-addon">Squadra</span>
                         <select class="form-control" ng-options="item.value as item.text for item in ctrl.teamList" ng-model="ctrl.teamName"></select>
+                    </div>
+                </div>
+                <div class="row hidden-xs" style="margin-bottom: 15px; margin-left: 0px !important">
+                    <div class="input-group">
+                        <span class="input-group-addon">Vedi giocatori vincolati</span>
+                        <button type="button" class="btn ng-class: {'btn-success': !ctrl.hiddenOwnersColumn, 'btn-danger': ctrl.hiddenOwnersColumn}" ng-click="ctrl.hiddenOwnersColumn = false">Vedi</button>
+                        <button type="button" class="btn ng-class: {'btn-success': ctrl.hiddenOwnersColumn, 'btn-danger': !ctrl.hiddenOwnersColumn}" ng-click="ctrl.hiddenOwnersColumn = true">Non Vedi</button>
+                    </div>
+                </div>
+                <div ng-hide="ctrl.hiddenOwnersColumn" class="row hidden-xs" style="margin-left: 0px !important">
+                    <div class="input-group">
+                        <span class="input-group-addon">Proprietario</span>
+                        <select class="form-control" ng-options="item.value as item.text for item in ctrl.ownersList" ng-model="ctrl.ownersName"></select>
                     </div>
                 </div>
             </div>
@@ -53,13 +66,15 @@
                             Ruolo
                         </th>
                         <th>Squadra</th>
+                        <th ng-show="!ctrl.hiddenOwnersColumn">Proprietario</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr ng-repeat="player in ctrl.players | filter: { nominativo: ctrl.playerName, ruolo: ctrl.roleName, squadra: ctrl.teamName }">
+                    <tr ng-hide="ctrl.hiddenOwnersColumn ? player.proprietario != '': false" ng-repeat="player in ctrl.players | filter: { nominativo: ctrl.playerName, ruolo: ctrl.roleName, squadra: ctrl.teamName, proprietario: ctrl.ownersName }">
                         <td ng-bind="player.nominativo"></td>
                         <td ng-bind="player.ruolo" ng-class="[ctrl.roleColor[player.ruolo]]"></td>
                         <td ng-bind="player.squadra"></td>
+                        <td ng-show="!ctrl.hiddenOwnersColumn" ng-bind="player.proprietario"></td>
                     </tr>
                 </tbody>
             </table>

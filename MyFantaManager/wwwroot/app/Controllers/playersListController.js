@@ -30,6 +30,18 @@ module.controller("playersListController", [
             { value: "Udinese", text: "Udinese" }
         ];
 
+        self.ownersList = [
+            { value: "", text: "Tutte" },
+            { value: "Lupin", text: "Lupin" },
+            { value: "Brentone", text: "Brentone" },
+            { value: "Polisportiva", text: "Polisportiva" },
+            { value: "Olimpia", text: "Olimpia" },
+            { value: "Inazuma", text: "Inazuma" },
+            { value: "Pippero", text: "Pippero" },
+            { value: "L3", text: "L3" },
+            { value: "ElMorelo", text: "ElMorelo" }
+        ];
+
         self.roleColor = {
             P: "blue",
             D: "green",
@@ -42,6 +54,8 @@ module.controller("playersListController", [
         self.roleName = "";
         self.teamName = self.teamList[0].value;
         self.printEnabled = false;
+        self.hiddenOwnersColumn = false;
+        self.ownersName = self.ownersList[0].value;
 
         self.clickFilter = function () {
             $http.get("api/players/GetPlayerByName?playerName=" + self.playerName + "&roleName=" + self.roleName + "&teamName=" + self.teamName)

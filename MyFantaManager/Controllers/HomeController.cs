@@ -13,11 +13,6 @@ namespace MyFantaManager.Controllers
             return View();
         }
         
-        public IActionResult Print()
-        {
-            return View();
-        }
-
         public IActionResult Error()
         {
             return View();

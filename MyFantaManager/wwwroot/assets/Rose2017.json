@@ -1,4267 +1,4820 @@
 {
   "data": [
     {
-
+      "": "",
       "nominativo": "ALISSON Ramses Becker",
       "ruolo": "P",
       "squadra": "Roma",
-      "data nascita": "10/2/92"
+      "data nascita": "10/2/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BELEC Vid",
       "ruolo": "P",
       "squadra": "Benevento",
-      "data nascita": "6/6/90"
+      "data nascita": "6/6/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BERISHA Etrit",
       "ruolo": "P",
       "squadra": "Atalanta",
-      "data nascita": "3/10/89"
+      "data nascita": "3/10/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BERNI Tommaso",
       "ruolo": "P",
       "squadra": "Inter",
-      "data nascita": "3/6/83"
+      "data nascita": "3/6/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BIZZARRI Albano Benjamin",
       "ruolo": "P",
       "squadra": "Udinese",
-      "data nascita": "11/9/77"
+      "data nascita": "11/9/77",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BRANDUANI Paolo",
       "ruolo": "P",
       "squadra": "Spal",
-      "data nascita": "3/9/89"
+      "data nascita": "3/9/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BRIGNOLI Alberto",
       "ruolo": "P",
       "squadra": "Benevento",
-      "data nascita": "8/19/91"
+      "data nascita": "8/19/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BUFFON Gianluigi",
       "ruolo": "P",
       "squadra": "Juventus",
-      "data nascita": "1/28/78"
+      "data nascita": "1/28/78",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CONSIGLI Andrea",
       "ruolo": "P",
       "squadra": "Sassuolo",
-      "data nascita": "1/27/87"
+      "data nascita": "1/27/87",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "COPPOLA Ferdinando",
       "ruolo": "P",
       "squadra": "Verona",
-      "data nascita": "6/10/78"
+      "data nascita": "6/10/78",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CORDAZ Alex",
       "ruolo": "P",
       "squadra": "Crotone",
-      "data nascita": "1/1/83"
+      "data nascita": "1/1/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CRAGNO Alessio",
       "ruolo": "P",
       "squadra": "Cagliari",
-      "data nascita": "6/28/94"
+      "data nascita": "6/28/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CROSTA Luca",
       "ruolo": "P",
       "squadra": "Cagliari",
-      "data nascita": "2/23/98"
+      "data nascita": "2/23/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DA COSTA Angelo Junior",
       "ruolo": "P",
       "squadra": "Bologna",
-      "data nascita": "11/12/83"
+      "data nascita": "11/12/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DONNARUMMA Antonio",
       "ruolo": "P",
       "squadra": "Milan",
-      "data nascita": "7/6/90"
+      "data nascita": "7/6/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DONNARUMMA Gianluigi",
       "ruolo": "P",
       "squadra": "Milan",
-      "data nascita": "2/25/99"
+      "data nascita": "2/25/99",
+      "proprietario": "ElMorelo"
     },
     {
-
+      "": "",
       "nominativo": "DRAGOWSKI Bartlomiej",
       "ruolo": "P",
       "squadra": "Fiorentina",
-      "data nascita": "8/19/97"
+      "data nascita": "8/19/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FESTA Marco",
       "ruolo": "P",
       "squadra": "Crotone",
-      "data nascita": "6/6/92"
+      "data nascita": "6/6/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GABRIEL Vasconcelos Ferreira",
       "ruolo": "P",
       "squadra": "Milan",
-      "data nascita": "9/27/92"
+      "data nascita": "9/27/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GOLLINI Pierluigi",
       "ruolo": "P",
       "squadra": "Atalanta",
-      "data nascita": "3/18/95"
+      "data nascita": "3/18/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GOMIS Alfred",
       "ruolo": "P",
       "squadra": "Spal",
-      "data nascita": "9/5/93"
+      "data nascita": "9/5/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GUERRIERI Guido",
       "ruolo": "P",
       "squadra": "Lazio",
-      "data nascita": "2/25/96"
+      "data nascita": "2/25/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HANDANOVIC Samir",
       "ruolo": "P",
       "squadra": "Inter",
-      "data nascita": "7/14/84"
+      "data nascita": "7/14/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ICHAZO Salvador",
       "ruolo": "P",
       "squadra": "Torino",
-      "data nascita": "1/26/92"
+      "data nascita": "1/26/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KARNEZIS Orestis",
       "ruolo": "P",
       "squadra": "Udinese",
-      "data nascita": "7/11/85"
+      "data nascita": "7/11/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KRAPIKAS Titas",
       "ruolo": "P",
       "squadra": "Sampdoria",
-      "data nascita": "1/3/99"
+      "data nascita": "1/3/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LAMANNA Eugenio",
       "ruolo": "P",
       "squadra": "Genoa",
-      "data nascita": "8/7/89"
+      "data nascita": "8/7/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LOBONT Bogdan",
       "ruolo": "P",
       "squadra": "Roma",
-      "data nascita": "1/18/78"
+      "data nascita": "1/18/78",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MARCHEGIANI Gabriele",
       "ruolo": "P",
       "squadra": "Spal",
-      "data nascita": "6/3/96"
+      "data nascita": "6/3/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MARCHETTI Federico",
       "ruolo": "P",
       "squadra": "Lazio",
-      "data nascita": "2/7/83"
+      "data nascita": "2/7/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MARSON Leonardo",
       "ruolo": "P",
       "squadra": "Sassuolo",
-      "data nascita": "1/5/98"
+      "data nascita": "1/5/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MERET Alex",
       "ruolo": "P",
       "squadra": "Spal",
-      "data nascita": "3/22/97"
+      "data nascita": "3/22/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MILINKOVIC-SAVIC Vanja",
       "ruolo": "P",
       "squadra": "Torino",
-      "data nascita": "2/20/97"
+      "data nascita": "2/20/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MIRANTE Antonio",
       "ruolo": "P",
       "squadra": "Bologna",
-      "data nascita": "7/8/83"
+      "data nascita": "7/8/83",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "NICOLAS Andrade David",
       "ruolo": "P",
       "squadra": "Verona",
-      "data nascita": "4/12/88"
+      "data nascita": "4/12/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PADELLI Daniele",
       "ruolo": "P",
       "squadra": "Inter",
-      "data nascita": "10/25/85"
+      "data nascita": "10/25/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PEGOLO Gianluca",
       "ruolo": "P",
       "squadra": "Sassuolo",
-      "data nascita": "3/25/81"
+      "data nascita": "3/25/81",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PERIN Mattia",
       "ruolo": "P",
       "squadra": "Genoa",
-      "data nascita": "11/10/92"
+      "data nascita": "11/10/92",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "PINSOGLIO Carlo",
       "ruolo": "P",
       "squadra": "Juventus",
-      "data nascita": "3/16/90"
+      "data nascita": "3/16/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PISCITELLI Riccardo",
       "ruolo": "P",
       "squadra": "Benevento",
-      "data nascita": "10/10/93"
+      "data nascita": "10/10/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "POLUZZI Giacomo",
       "ruolo": "P",
       "squadra": "Spal",
-      "data nascita": "2/25/88"
+      "data nascita": "2/25/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PUGGIONI Christian",
       "ruolo": "P",
       "squadra": "Sampdoria",
-      "data nascita": "1/17/81"
+      "data nascita": "1/17/81",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RADUNOVIC Boris",
       "ruolo": "P",
       "squadra": "Atalanta",
-      "data nascita": "5/26/96"
+      "data nascita": "5/26/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RAFAEL Cabral Barbosa",
       "ruolo": "P",
       "squadra": "Napoli",
-      "data nascita": "5/20/90"
+      "data nascita": "5/20/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RAFAEL De Andrade Bittencourt",
       "ruolo": "P",
       "squadra": "Cagliari",
-      "data nascita": "3/3/82"
+      "data nascita": "3/3/82",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RAVAGLIA Federico",
       "ruolo": "P",
       "squadra": "Bologna",
-      "data nascita": "11/11/99"
+      "data nascita": "11/11/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "REINA Jose Manuel",
       "ruolo": "P",
       "squadra": "Napoli",
-      "data nascita": "8/31/82"
+      "data nascita": "8/31/82",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROSSI Francesco",
       "ruolo": "P",
       "squadra": "Atalanta",
-      "data nascita": "4/27/91"
+      "data nascita": "4/27/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SANTURRO Antonio",
       "ruolo": "P",
       "squadra": "Bologna",
-      "data nascita": "2/29/92"
+      "data nascita": "2/29/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SATALINO Giacomo",
       "ruolo": "P",
       "squadra": "Fiorentina",
-      "data nascita": "5/20/99"
+      "data nascita": "5/20/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SCUFFET Simone",
       "ruolo": "P",
       "squadra": "Udinese",
-      "data nascita": "5/31/96"
+      "data nascita": "5/31/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SECULIN Andrea",
       "ruolo": "P",
       "squadra": "Chievo",
-      "data nascita": "7/14/90"
+      "data nascita": "7/14/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SEPE Luigi",
       "ruolo": "P",
       "squadra": "Napoli",
-      "data nascita": "5/8/91"
+      "data nascita": "5/8/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SILVESTRI Marco",
       "ruolo": "P",
       "squadra": "Verona",
-      "data nascita": "3/2/91"
+      "data nascita": "3/2/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SIRIGU Salvatore",
       "ruolo": "P",
       "squadra": "Torino",
-      "data nascita": "1/12/87"
+      "data nascita": "1/12/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SKORUPSKI Lukasz",
       "ruolo": "P",
       "squadra": "Roma",
-      "data nascita": "5/5/91"
+      "data nascita": "5/5/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SORRENTINO Stefano",
       "ruolo": "P",
       "squadra": "Chievo",
-      "data nascita": "3/28/79"
+      "data nascita": "3/28/79",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SPORTIELLO Marco",
       "ruolo": "P",
       "squadra": "Fiorentina",
-      "data nascita": "5/10/92"
+      "data nascita": "5/10/92",
+      "proprietario": "Inazuma"
     },
     {
-
+      "": "",
       "nominativo": "STORARI Marco",
       "ruolo": "P",
       "squadra": "Milan",
-      "data nascita": "1/7/77"
+      "data nascita": "1/7/77",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "STRAKOSHA Thomas",
       "ruolo": "P",
       "squadra": "Lazio",
-      "data nascita": "3/19/95"
+      "data nascita": "3/19/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SZCZESNY Wojciech",
       "ruolo": "P",
       "squadra": "Juventus",
-      "data nascita": "4/18/90"
+      "data nascita": "4/18/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TOZZO Andrea",
       "ruolo": "P",
       "squadra": "Sampdoria",
-      "data nascita": "8/30/92"
+      "data nascita": "8/30/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VARGIC Ivan",
       "ruolo": "P",
       "squadra": "Lazio",
-      "data nascita": "3/15/87"
+      "data nascita": "3/15/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VISCOVO Aniello",
       "ruolo": "P",
       "squadra": "Crotone",
-      "data nascita": "6/21/99"
+      "data nascita": "6/21/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VIVIANO Emiliano",
       "ruolo": "P",
       "squadra": "Sampdoria",
-      "data nascita": "12/1/85"
+      "data nascita": "12/1/85",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "ZACCAGNO Andrea",
-      "ruolo": "P",
-      "squadra": "Torino",
-      "data nascita": "5/27/97"
-    },
-    {
-
+      "": "",
       "nominativo": "ZIMA Lukas",
       "ruolo": "P",
       "squadra": "Genoa",
-      "data nascita": "1/9/94"
+      "data nascita": "1/9/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ABATE Ignazio",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "11/12/86"
+      "data nascita": "11/12/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ACERBI Francesco",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "2/10/88"
+      "data nascita": "2/10/88",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "ADNAN Ali Kadhim",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "12/19/93"
+      "data nascita": "12/19/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "AJETI Arlind",
       "ruolo": "D",
       "squadra": "Crotone",
-      "data nascita": "9/25/93"
+      "data nascita": "9/25/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ALBERTAZZI Michelangelo",
       "ruolo": "D",
       "squadra": "Verona",
-      "data nascita": "1/7/91"
+      "data nascita": "1/7/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ALBIOL Raul",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "9/4/85"
+      "data nascita": "9/4/85",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "ALEX SANDRO Lobo Silva",
       "ruolo": "D",
       "squadra": "Juventus",
-      "data nascita": "1/26/91"
+      "data nascita": "1/26/91",
+      "proprietario": "Polisportiva"
     },
     {
-
+      "": "",
       "nominativo": "AMUZIE Stanley",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "2/28/96"
+      "data nascita": "2/28/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ANDREOLLI Marco",
       "ruolo": "D",
       "squadra": "Cagliari",
-      "data nascita": "6/10/86"
+      "data nascita": "6/10/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ANGELLA Gabriele",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "4/28/89"
+      "data nascita": "4/28/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ANSALDI Cristian Daniel",
       "ruolo": "D",
       "squadra": "Inter",
-      "data nascita": "9/20/86"
+      "data nascita": "9/20/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ANTEI Luca",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "4/19/92"
+      "data nascita": "4/19/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ANTONELLI Luca",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "2/11/87"
+      "data nascita": "2/11/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ASAMOAH Kwadwo",
       "ruolo": "D",
       "squadra": "Juventus",
-      "data nascita": "12/9/88"
+      "data nascita": "12/9/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ASTORI Davide",
       "ruolo": "D",
       "squadra": "Fiorentina",
-      "data nascita": "1/7/87"
+      "data nascita": "1/7/87",
+      "proprietario": "ElMorelo"
     },
     {
-
+      "": "",
       "nominativo": "AVELAR Danilo Fernando",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "6/9/89"
+      "data nascita": "6/9/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BALZANO Antonio",
       "ruolo": "D",
       "squadra": "Cagliari",
-      "data nascita": "6/13/86"
+      "data nascita": "6/13/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BANI Mattia",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "12/10/93"
+      "data nascita": "12/10/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BARRECA Antonio",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "3/18/95"
+      "data nascita": "3/18/95",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "BARZAGLI Andrea",
       "ruolo": "D",
       "squadra": "Juventus",
-      "data nascita": "5/8/81"
+      "data nascita": "5/8/81",
+      "proprietario": "ElMorelo"
     },
     {
-
+      "": "",
       "nominativo": "BASTA Dusan",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "8/18/84"
+      "data nascita": "8/18/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BASTONI Alessandro",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "4/13/99"
+      "data nascita": "4/13/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BASTOS Bartolomeu Jacinto",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "11/23/91"
+      "data nascita": "11/23/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BENATIA Mehdi",
       "ruolo": "D",
       "squadra": "Juventus",
-      "data nascita": "4/17/87"
+      "data nascita": "4/17/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BERESZYNSKI Bartosz",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "7/12/92"
+      "data nascita": "7/12/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BIANCHETTI Matteo",
       "ruolo": "D",
       "squadra": "Verona",
-      "data nascita": "3/17/93"
+      "data nascita": "3/17/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BIRASCHI Davide",
       "ruolo": "D",
       "squadra": "Genoa",
-      "data nascita": "7/2/94"
+      "data nascita": "7/2/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BOCHNIEWICZ Pawel",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "1/30/96"
+      "data nascita": "1/30/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BONIFAZI Kevin",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "5/19/96"
+      "data nascita": "5/19/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BONUCCI Leonardo",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "5/1/87"
+      "data nascita": "5/1/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BRIGNANI Fabrizio",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "1/13/98"
+      "data nascita": "1/13/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BRIVIO Davide",
       "ruolo": "D",
       "squadra": "Genoa",
-      "data nascita": "8/17/88"
+      "data nascita": "8/17/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BROSCO Riccardo",
       "ruolo": "D",
       "squadra": "Verona",
-      "data nascita": "2/3/91"
+      "data nascita": "2/3/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BRUNO PERES da Silva",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "3/1/90"
+      "data nascita": "3/1/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BUBNJIC Igor",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "7/17/92"
+      "data nascita": "7/17/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CABRERA Leandro Daniel",
       "ruolo": "D",
       "squadra": "Crotone",
-      "data nascita": "6/17/91"
+      "data nascita": "6/17/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CACCIATORE Fabrizio",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "10/8/86"
+      "data nascita": "10/8/86",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "CACERES Martin José",
+      "": "",
+      "nominativo": "CACERES Jose' Martin",
       "ruolo": "D",
       "squadra": "Verona",
-      "data nascita": "4/7/87"
+      "data nascita": "4/7/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CALABRIA Davide",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "12/6/96"
+      "data nascita": "12/6/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CALDARA Mattia",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "5/5/94"
+      "data nascita": "5/5/94",
+      "proprietario": "Olimpia"
     },
     {
-
+      "": "",
       "nominativo": "CAMPORESE Michele",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "5/19/92"
+      "data nascita": "5/19/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CANNAVARO Paolo",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "6/26/81"
+      "data nascita": "6/26/81",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CAPUANO Marco",
       "ruolo": "D",
       "squadra": "Cagliari",
-      "data nascita": "10/14/91"
+      "data nascita": "10/14/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CARACCIOLO Antonio Aldo",
       "ruolo": "D",
       "squadra": "Verona",
-      "data nascita": "6/30/90"
+      "data nascita": "6/30/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CASTAGNE Timothy",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "12/5/95"
+      "data nascita": "12/5/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CASTAN Leandro da Silva",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "11/5/86"
+      "data nascita": "11/5/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CECCHERINI Federico",
       "ruolo": "D",
       "squadra": "Crotone",
-      "data nascita": "5/11/92"
+      "data nascita": "5/11/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CEPPITELLI Luca",
       "ruolo": "D",
       "squadra": "Cagliari",
-      "data nascita": "8/11/89"
+      "data nascita": "8/11/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CESAR Bostjan",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "7/9/82"
+      "data nascita": "7/9/82",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CHERUBIN Nicolo'",
       "ruolo": "D",
       "squadra": "Verona",
-      "data nascita": "12/2/86"
+      "data nascita": "12/2/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CHIELLINI Giorgio",
       "ruolo": "D",
       "squadra": "Juventus",
-      "data nascita": "8/14/84"
+      "data nascita": "8/14/84",
+      "proprietario": "ElMorelo"
     },
     {
-
+      "": "",
       "nominativo": "CHIRICHES Vlad Iulian",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "11/14/89"
+      "data nascita": "11/14/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "COSTA Andrea",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "2/1/86"
+      "data nascita": "2/1/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CREMONESI Michele",
       "ruolo": "D",
       "squadra": "Spal",
-      "data nascita": "4/15/88"
+      "data nascita": "4/15/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CUOMO Giuseppe",
       "ruolo": "D",
       "squadra": "Crotone",
-      "data nascita": "2/2/98"
+      "data nascita": "2/2/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DAINELLI Dario",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "6/9/79"
+      "data nascita": "6/9/79",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DALBERT Henrique Chagas",
       "ruolo": "D",
       "squadra": "Inter",
-      "data nascita": "9/8/93"
+      "data nascita": "9/8/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "D'AMBROSIO Danilo",
       "ruolo": "D",
       "squadra": "Inter",
-      "data nascita": "9/9/88"
+      "data nascita": "9/9/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DANILO Larangeira",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "5/10/84"
+      "data nascita": "5/10/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DAPRELA' Fabio",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "2/19/91"
+      "data nascita": "2/19/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DE MAIO Sebastien",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "3/5/87"
+      "data nascita": "3/5/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DE SCIGLIO Mattia",
       "ruolo": "D",
       "squadra": "Juventus",
-      "data nascita": "10/20/92"
+      "data nascita": "10/20/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DE SILVESTRI Lorenzo",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "5/23/88"
+      "data nascita": "5/23/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DE VRIJ Stefan",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "2/5/92"
+      "data nascita": "2/5/92",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "DEL FABRO Dario",
-      "ruolo": "D",
-      "squadra": "Juventus",
-      "data nascita": "3/24/95"
-    },
-    {
-
+      "": "",
       "nominativo": "DEL GROSSO Cristiano",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "3/24/83"
+      "data nascita": "3/24/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DELL'ORCO Cristian",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "2/10/94"
+      "data nascita": "2/10/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DI CHIARA Gianluca",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "12/26/93"
+      "data nascita": "12/26/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DJIMSITI Berat",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "2/19/93"
+      "data nascita": "2/19/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DODO' Jose Rodolfo",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "2/6/92"
+      "data nascita": "2/6/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DRAME' Boukary",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "7/22/85"
+      "data nascita": "7/22/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DUSSENNE Noe",
       "ruolo": "D",
       "squadra": "Crotone",
-      "data nascita": "4/7/92"
+      "data nascita": "4/7/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "EMERSON Palmieri dos Santos",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "8/3/94"
+      "data nascita": "8/3/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FARAONI Marco Davide",
       "ruolo": "D",
       "squadra": "Crotone",
-      "data nascita": "10/25/91"
+      "data nascita": "10/25/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FAZIO Federico Julian",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "3/17/87"
+      "data nascita": "3/17/87",
+      "proprietario": "Olimpia"
     },
     {
-
+      "": "",
       "nominativo": "FELIPE Dal Belo Dias",
       "ruolo": "D",
       "squadra": "Spal",
-      "data nascita": "7/31/84"
+      "data nascita": "7/31/84",
+      "proprietario": "Inazuma"
     },
     {
-
+      "": "",
       "nominativo": "FERRARI Alex",
       "ruolo": "D",
       "squadra": "Verona",
-      "data nascita": "7/1/94"
+      "data nascita": "7/1/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FERRARI Gianmarco",
       "ruolo": "D",
-      "squadra": "Sassuolo",
-      "data nascita": "5/15/92"
+      "squadra": "Sampdoria",
+      "data nascita": "5/15/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FREY Nicolas Sebastien",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "3/6/84"
+      "data nascita": "3/6/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GAMBERINI Alessandro",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "8/27/81"
+      "data nascita": "8/27/81",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GASPAR Bruno Miguel",
       "ruolo": "D",
       "squadra": "Fiorentina",
-      "data nascita": "4/21/93"
+      "data nascita": "4/21/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GASPARETTO Daniele",
       "ruolo": "D",
       "squadra": "Spal",
-      "data nascita": "4/6/88"
+      "data nascita": "4/6/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GASTALDELLO Daniele",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "6/25/83"
+      "data nascita": "6/25/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GAZZOLA Marcello",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "4/3/85"
+      "data nascita": "4/3/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GENTILETTI Santiago Juan",
       "ruolo": "D",
       "squadra": "Genoa",
-      "data nascita": "1/9/85"
+      "data nascita": "1/9/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GHOULAM Faouzi",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "2/1/91"
+      "data nascita": "2/1/91",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "GOBBI Massimo",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "10/31/80"
+      "data nascita": "10/31/80",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GOLDANIGA Edoardo",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "11/2/93"
+      "data nascita": "11/2/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GOMEZ Gustavo Raul",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "6/6/93"
+      "data nascita": "6/6/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GONZALEZ Giancarlo",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "2/8/88"
+      "data nascita": "2/8/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GORGA Sebastian",
       "ruolo": "D",
       "squadra": "Genoa",
-      "data nascita": "4/6/94"
+      "data nascita": "4/6/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GRAVILLON Andrew Rayan",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "2/8/98"
+      "data nascita": "2/8/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GYAMFI Bright",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "1/20/96"
+      "data nascita": "1/20/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GYOMBER Norbert",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "7/3/92"
+      "data nascita": "7/3/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HATEBOER Hans",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "1/9/94"
+      "data nascita": "1/9/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HELANDER Filip Viktor",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "4/22/93"
+      "data nascita": "4/22/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HEURTAUX Thomas",
       "ruolo": "D",
       "squadra": "Verona",
-      "data nascita": "7/3/88"
+      "data nascita": "7/3/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HOEDT Wesley",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "3/6/94"
+      "data nascita": "3/6/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HYSAJ Elseid",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "2/2/94"
+      "data nascita": "2/2/94",
+      "proprietario": "Inazuma"
     },
     {
-
+      "": "",
       "nominativo": "INSUA Emanuel Mariano",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "4/10/91"
+      "data nascita": "4/10/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "IZZO Armando",
       "ruolo": "D",
       "squadra": "Genoa",
-      "data nascita": "3/2/92"
+      "data nascita": "3/2/92",
+      "proprietario": "L3"
     },
     {
-
+      "": "",
       "nominativo": "JAROSZYNSKI Pawel",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "10/2/94"
+      "data nascita": "10/2/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "JUAN JESUS Guilherme Nunes",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "6/10/91"
+      "data nascita": "6/10/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KARSDORP Rick",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "2/11/95"
+      "data nascita": "2/11/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KOLAROV Aleksandar",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "11/10/85"
+      "data nascita": "11/10/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KONATE Pa Momodou",
       "ruolo": "D",
       "squadra": "Spal",
-      "data nascita": "4/25/94"
+      "data nascita": "4/25/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KOULIBALY Kalidou",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "6/20/91"
+      "data nascita": "6/20/91",
+      "proprietario": "Polisportiva"
     },
     {
-
+      "": "",
       "nominativo": "KRAFTH Emil Henry",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "8/2/94"
+      "data nascita": "8/2/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LANDRE Loick",
       "ruolo": "D",
       "squadra": "Genoa",
-      "data nascita": "5/5/92"
+      "data nascita": "5/5/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LETIZIA Gaetano",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "6/29/90"
+      "data nascita": "6/29/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LETSCHERT Timo",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "5/25/93"
+      "data nascita": "5/25/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LEVERBE Maxime",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "2/15/97"
+      "data nascita": "2/15/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LICHTSTEINER Stephan",
       "ruolo": "D",
       "squadra": "Juventus",
-      "data nascita": "1/16/84"
+      "data nascita": "1/16/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LIROLA Pol Mikel",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "8/13/97"
+      "data nascita": "8/13/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LOPEZ Walter Alberto",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "10/15/85"
+      "data nascita": "10/15/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LUCIONI Fabio",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "9/25/87"
+      "data nascita": "9/25/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LUIZ FELIPE Ramos Marchi",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "3/22/97"
+      "data nascita": "3/22/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LUKAKU Jordan Zacharie",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "7/21/94"
+      "data nascita": "7/21/94",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "LUPERTO Sebastiano",
-      "ruolo": "D",
-      "squadra": "Napoli",
-      "data nascita": "9/6/96"
-    },
-    {
-
+      "": "",
       "nominativo": "LYANCO Evangelista Silveira",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "2/1/97"
+      "data nascita": "2/1/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MAGGIO Christian",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "2/11/82"
+      "data nascita": "2/11/82",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MAIETTA Domenico",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "8/3/82"
+      "data nascita": "8/3/82",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MAKSIMOVIC Nikola",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "11/25/91"
+      "data nascita": "11/25/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MANCINI Gianluca",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "4/17/96"
+      "data nascita": "4/17/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MANOLAS Kostas",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "6/14/91"
+      "data nascita": "6/14/91",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "MARCHIZZA Riccardo",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "3/26/98"
+      "data nascita": "3/26/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MARIO RUI Silva Duarte",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "5/27/91"
+      "data nascita": "5/27/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MARTELLA Bruno",
       "ruolo": "D",
       "squadra": "Crotone",
-      "data nascita": "8/14/92"
+      "data nascita": "8/14/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MASIELLO Andrea",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "2/5/86"
+      "data nascita": "2/5/86",
+      "proprietario": "Polisportiva"
     },
     {
-
+      "": "",
       "nominativo": "MASINA Adam",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "1/2/94"
+      "data nascita": "1/2/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MATTIELLO Federico",
       "ruolo": "D",
       "squadra": "Spal",
-      "data nascita": "7/14/95"
+      "data nascita": "7/14/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MAURICIO dos Santos Nascimento",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "9/20/88"
+      "data nascita": "9/20/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MBAYE Ibrahima",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "11/19/94"
+      "data nascita": "11/19/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MIANGUE Senna",
       "ruolo": "D",
       "squadra": "Cagliari",
-      "data nascita": "2/5/97"
+      "data nascita": "2/5/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MILENKOVIC Nikola",
       "ruolo": "D",
       "squadra": "Fiorentina",
-      "data nascita": "10/12/97"
+      "data nascita": "10/12/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MIRANDA Joao de Souza",
       "ruolo": "D",
       "squadra": "Inter",
-      "data nascita": "9/7/84"
+      "data nascita": "9/7/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MOLINARO Cristian",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "7/30/83"
+      "data nascita": "7/30/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MORENO Hector Alfredo",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "1/17/88"
+      "data nascita": "1/17/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MORETTI Emiliano",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "6/11/81"
+      "data nascita": "6/11/81",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MURILLO Jeison Fabian",
       "ruolo": "D",
       "squadra": "Inter",
-      "data nascita": "5/27/92"
+      "data nascita": "5/27/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MURRU Nicola",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "12/16/94"
+      "data nascita": "12/16/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MUSACCHIO Mateo Pablo",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "8/26/90"
+      "data nascita": "8/26/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "NAGATOMO Yuto",
       "ruolo": "D",
       "squadra": "Inter",
-      "data nascita": "9/12/86"
+      "data nascita": "9/12/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "NICA Constantin",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "3/18/93"
+      "data nascita": "3/18/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "NICOLETTI Manuel",
       "ruolo": "D",
       "squadra": "Crotone",
-      "data nascita": "12/9/98"
+      "data nascita": "12/9/98",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "N'KOULOU Alexis Nicolas",
+      "": "",
+      "nominativo": "N'KOULOU Nicolas Alexis",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "27/3/90"
+      "data nascita": "3/27/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "NURA Abdullahi",
       "ruolo": "D",
       "squadra": "Roma",
-      "data nascita": "8/17/97"
+      "data nascita": "8/17/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "NUYTINCK Bram",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "5/4/90"
+      "data nascita": "5/4/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "OIKONOMOU Marios",
       "ruolo": "D",
       "squadra": "Spal",
-      "data nascita": "10/6/92"
+      "data nascita": "10/6/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "OLIVERA Maximiliano Martin",
       "ruolo": "D",
       "squadra": "Fiorentina",
-      "data nascita": "3/5/92"
+      "data nascita": "3/5/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PADELLA Emanuele",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "9/24/88"
+      "data nascita": "9/24/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PALETTA Gabriel Alejandro",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "2/15/86"
+      "data nascita": "2/15/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PALOMINO Jose Luis",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "1/5/90"
+      "data nascita": "1/5/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PATRIC Gabarron Gil",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "4/17/93"
+      "data nascita": "4/17/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PAVLOVIC Daniel",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "4/22/88"
+      "data nascita": "4/22/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PELUSO Federico",
       "ruolo": "D",
       "squadra": "Sassuolo",
-      "data nascita": "1/20/84"
+      "data nascita": "1/20/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PEZZELLA Giuseppe",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "11/29/97"
+      "data nascita": "11/29/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PISACANE Fabio",
       "ruolo": "D",
       "squadra": "Cagliari",
-      "data nascita": "6/28/86"
+      "data nascita": "6/28/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "POLVANI Lorenzo",
       "ruolo": "D",
       "squadra": "Spal",
-      "data nascita": "7/26/94"
+      "data nascita": "7/26/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RADU Stefan Andrei",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "10/22/86"
+      "data nascita": "10/22/86",
+      "proprietario": "Inazuma"
     },
     {
-
+      "": "",
       "nominativo": "RANOCCHIA Andrea",
       "ruolo": "D",
       "squadra": "Inter",
-      "data nascita": "2/16/88"
+      "data nascita": "2/16/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "REGINI Vasco",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "9/9/90"
+      "data nascita": "9/9/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RIGIONE Michele",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "3/7/91"
+      "data nascita": "3/7/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RODRIGUEZ Ricardo Ivan",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "8/25/92"
+      "data nascita": "8/25/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROMAGNA Filippo",
       "ruolo": "D",
       "squadra": "Cagliari",
-      "data nascita": "5/26/97"
+      "data nascita": "5/26/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROMAGNOLI Alessio",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "1/12/95"
+      "data nascita": "1/12/95",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "ROSI Aleandro",
       "ruolo": "D",
       "squadra": "Genoa",
-      "data nascita": "5/17/87"
+      "data nascita": "5/17/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROSSETTINI Luca",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "5/9/85"
+      "data nascita": "5/9/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RUGANI Daniele",
       "ruolo": "D",
       "squadra": "Juventus",
-      "data nascita": "7/29/94"
+      "data nascita": "7/29/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SALA Jacopo",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "12/5/91"
+      "data nascita": "12/5/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SALAMON Bartosz",
       "ruolo": "D",
       "squadra": "Cagliari",
-      "data nascita": "5/1/91"
+      "data nascita": "5/1/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SAMIR Caetano de Souza",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "12/5/94"
+      "data nascita": "12/5/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SAMPIRISI Mario",
       "ruolo": "D",
       "squadra": "Crotone",
-      "data nascita": "10/31/92"
+      "data nascita": "10/31/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SANTON Davide",
       "ruolo": "D",
       "squadra": "Inter",
-      "data nascita": "1/2/91"
+      "data nascita": "1/2/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SILVESTRE Matias Agustin",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "9/25/84"
+      "data nascita": "9/25/84",
+      "proprietario": "Polisportiva"
     },
     {
-
+      "": "",
       "nominativo": "SIMIC Lorenco",
       "ruolo": "D",
       "squadra": "Sampdoria",
-      "data nascita": "7/15/96"
+      "data nascita": "7/15/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SIMIC Stefan",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "1/20/95"
+      "data nascita": "1/20/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SKRINIAR Milan",
       "ruolo": "D",
       "squadra": "Inter",
-      "data nascita": "2/11/95"
+      "data nascita": "2/11/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SOUPRAYEN Samuel",
       "ruolo": "D",
       "squadra": "Verona",
-      "data nascita": "2/18/89"
+      "data nascita": "2/18/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SPOLLI Nicolas Federico",
       "ruolo": "D",
       "squadra": "Genoa",
-      "data nascita": "2/20/83"
+      "data nascita": "2/20/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "STRINIC Ivan",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "7/17/87"
+      "data nascita": "7/17/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TOLOI Rafael",
       "ruolo": "D",
       "squadra": "Atalanta",
-      "data nascita": "10/10/90"
+      "data nascita": "10/10/90",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "TOMOVIC Nenad",
       "ruolo": "D",
       "squadra": "Fiorentina",
-      "data nascita": "8/30/87"
+      "data nascita": "8/30/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TONELLI Lorenzo",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "1/17/90"
+      "data nascita": "1/17/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TOROSIDIS Vasilis",
       "ruolo": "D",
       "squadra": "Bologna",
-      "data nascita": "6/10/85"
+      "data nascita": "6/10/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TROIANI Michele",
       "ruolo": "D",
       "squadra": "Chievo",
-      "data nascita": "7/21/96"
+      "data nascita": "7/21/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "UNTERSEE Joel",
       "ruolo": "D",
       "squadra": "Juventus",
-      "data nascita": "2/11/94"
+      "data nascita": "2/11/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VAISANEN Sauli Aapo",
       "ruolo": "D",
       "squadra": "Spal",
-      "data nascita": "6/5/94"
+      "data nascita": "6/5/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VENUTI Lorenzo",
       "ruolo": "D",
       "squadra": "Benevento",
-      "data nascita": "4/12/95"
+      "data nascita": "4/12/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VERGARA Jherson",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "5/26/94"
+      "data nascita": "5/26/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VICARI Francesco",
       "ruolo": "D",
       "squadra": "Spal",
-      "data nascita": "8/3/94"
+      "data nascita": "8/3/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VITOR HUGO Franchescoli de Souza",
       "ruolo": "D",
       "squadra": "Fiorentina",
-      "data nascita": "5/20/91"
+      "data nascita": "5/20/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "WAGUE Molla",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "2/21/91"
+      "data nascita": "2/21/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "WALLACE Fortuna dos Santos",
       "ruolo": "D",
       "squadra": "Lazio",
-      "data nascita": "10/14/94"
+      "data nascita": "10/14/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "WIDMER Silvan",
       "ruolo": "D",
       "squadra": "Udinese",
-      "data nascita": "3/5/93"
+      "data nascita": "3/5/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZAPATA Cristian Eduardo",
       "ruolo": "D",
       "squadra": "Milan",
-      "data nascita": "9/30/86"
+      "data nascita": "9/30/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZAPPACOSTA Davide",
       "ruolo": "D",
       "squadra": "Torino",
-      "data nascita": "6/11/92"
+      "data nascita": "6/11/92",
+      "proprietario": "Inazuma"
     },
     {
-
+      "": "",
       "nominativo": "ZUKANOVIC Ervin",
       "ruolo": "D",
       "squadra": "Genoa",
-      "data nascita": "2/11/87"
+      "data nascita": "2/11/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZUNIGA Juan Camilo",
       "ruolo": "D",
       "squadra": "Napoli",
-      "data nascita": "12/14/85"
+      "data nascita": "12/14/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ACQUAH Afriyie",
       "ruolo": "C",
       "squadra": "Torino",
-      "data nascita": "1/5/92"
+      "data nascita": "1/5/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ADJAPONG Claud",
       "ruolo": "C",
       "squadra": "Sassuolo",
-      "data nascita": "5/6/98"
+      "data nascita": "5/6/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "AGYEI Daniel Kofi",
       "ruolo": "C",
       "squadra": "Benevento",
-      "data nascita": "1/1/92"
+      "data nascita": "1/1/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ALLAN Marques Loureiro",
       "ruolo": "C",
       "squadra": "Napoli",
-      "data nascita": "1/8/91"
+      "data nascita": "1/8/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ALVAREZ Ricardo Gabriel",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "4/12/88"
+      "data nascita": "4/12/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ARAMU Mattia",
       "ruolo": "C",
       "squadra": "Torino",
-      "data nascita": "5/14/95"
+      "data nascita": "5/14/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BADELJ Milan",
       "ruolo": "C",
       "squadra": "Fiorentina",
-      "data nascita": "2/25/89"
+      "data nascita": "2/25/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BALIC Andrija",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "8/11/97"
+      "data nascita": "8/11/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BARAK Antonin",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "12/3/94"
+      "data nascita": "12/3/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BARBERIS Andrea",
       "ruolo": "C",
       "squadra": "Crotone",
-      "data nascita": "12/11/93"
+      "data nascita": "12/11/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BARELLA Nicolo'",
       "ruolo": "C",
       "squadra": "Cagliari",
-      "data nascita": "2/7/97"
+      "data nascita": "2/7/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BARRETO Edgar Osvaldo",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "7/15/84"
+      "data nascita": "7/15/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BASELLI Daniele",
       "ruolo": "C",
       "squadra": "Torino",
-      "data nascita": "3/12/92"
+      "data nascita": "3/12/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BASTIEN Samuel",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "9/26/96"
+      "data nascita": "9/26/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BAUMGARTNER Denis",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "2/2/98"
+      "data nascita": "2/2/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BENASSI Marco",
       "ruolo": "C",
       "squadra": "Fiorentina",
-      "data nascita": "9/8/94"
+      "data nascita": "9/8/94",
+      "proprietario": "Olimpia"
     },
     {
-
+      "": "",
       "nominativo": "BENTANCUR Rodrigo",
       "ruolo": "C",
       "squadra": "Juventus",
-      "data nascita": "6/25/97"
+      "data nascita": "6/25/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BERENGUER Alejandro",
       "ruolo": "C",
       "squadra": "Torino",
-      "data nascita": "7/4/95"
+      "data nascita": "7/4/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BERNARDESCHI Federico",
       "ruolo": "C",
       "squadra": "Juventus",
-      "data nascita": "2/16/94"
+      "data nascita": "2/16/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BERTOLACCI Andrea",
       "ruolo": "C",
       "squadra": "Genoa",
-      "data nascita": "1/11/91"
+      "data nascita": "1/11/91",
+      "proprietario": "L3"
     },
     {
-
+      "": "",
       "nominativo": "BESSA Daniel",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "1/14/93"
+      "data nascita": "1/14/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BIGLIA Lucas Rodrigo",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "1/30/86"
+      "data nascita": "1/30/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BIONDINI Davide",
       "ruolo": "C",
       "squadra": "Sassuolo",
-      "data nascita": "1/24/83"
+      "data nascita": "1/24/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BONAVENTURA Giacomo",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "8/22/89"
+      "data nascita": "8/22/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
+      "nominativo": "BORJA VALERO Iglesias",
+      "ruolo": "C",
+      "squadra": "Inter",
+      "data nascita": "1/12/85",
+      "proprietario": "Brentone"
+    },
+    {
+      "": "",
       "nominativo": "BROZOVIC Marcelo",
       "ruolo": "C",
       "squadra": "Inter",
-      "data nascita": "11/16/92"
+      "data nascita": "11/16/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BUCHEL Marcel",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "3/18/91"
+      "data nascita": "3/18/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CALHANOGLU Hakan",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "2/8/94"
+      "data nascita": "2/8/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CANDREVA Antonio",
       "ruolo": "C",
       "squadra": "Inter",
-      "data nascita": "2/28/87"
+      "data nascita": "2/28/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CAPEZZI Leonardo",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "3/29/95"
+      "data nascita": "3/29/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CASSATA Francesco",
       "ruolo": "C",
       "squadra": "Sassuolo",
-      "data nascita": "7/16/97"
+      "data nascita": "7/16/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CASTRO Lucas Nahuel",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "4/9/89"
+      "data nascita": "4/9/89",
+      "proprietario": "Olimpia"
     },
     {
-
+      "": "",
       "nominativo": "CATALDI Danilo",
       "ruolo": "C",
       "squadra": "Benevento",
-      "data nascita": "8/6/94"
+      "data nascita": "8/6/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CHIBSAH Yussif Raman",
       "ruolo": "C",
       "squadra": "Benevento",
-      "data nascita": "3/10/93"
+      "data nascita": "3/10/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CHIESA Federico",
       "ruolo": "C",
       "squadra": "Fiorentina",
-      "data nascita": "10/25/97"
+      "data nascita": "10/25/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CIGARINI Luca",
       "ruolo": "C",
       "squadra": "Cagliari",
-      "data nascita": "6/20/86"
+      "data nascita": "6/20/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CINELLI Antonio",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "12/8/89"
+      "data nascita": "12/8/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "COFIE Isaac",
       "ruolo": "C",
       "squadra": "Genoa",
-      "data nascita": "9/20/91"
+      "data nascita": "9/20/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CONTI Andrea",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "3/2/94"
+      "data nascita": "3/2/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CORLU Rezan",
       "ruolo": "C",
       "squadra": "Roma",
-      "data nascita": "8/7/97"
+      "data nascita": "8/7/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "COSSU Andrea",
       "ruolo": "C",
       "squadra": "Cagliari",
-      "data nascita": "5/3/80"
+      "data nascita": "5/3/80",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "COSTA Filippo",
       "ruolo": "C",
       "squadra": "Spal",
-      "data nascita": "5/21/95"
+      "data nascita": "5/21/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CRECCO Luca",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "9/6/95"
+      "data nascita": "9/6/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CRISETIG Lorenzo",
       "ruolo": "C",
       "squadra": "Bologna",
-      "data nascita": "1/20/93"
+      "data nascita": "1/20/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CRISTANTE Bryan",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "3/3/95"
+      "data nascita": "3/3/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CRISTOFORO Sebastian Carlos",
       "ruolo": "C",
       "squadra": "Fiorentina",
-      "data nascita": "8/23/93"
+      "data nascita": "8/23/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CROCIATA Giovanni",
       "ruolo": "C",
       "squadra": "Crotone",
-      "data nascita": "8/11/97"
+      "data nascita": "8/11/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CUADRADO Juan Guillermo",
       "ruolo": "C",
       "squadra": "Juventus",
-      "data nascita": "5/26/88"
+      "data nascita": "5/26/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DE FALCO Andrea",
       "ruolo": "C",
       "squadra": "Benevento",
-      "data nascita": "6/19/86"
+      "data nascita": "6/19/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DE PAUL Rodrigo Javier",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "5/24/94"
+      "data nascita": "5/24/94",
+      "proprietario": "Inazuma"
     },
     {
-
+      "": "",
       "nominativo": "DE ROSSI Daniele",
       "ruolo": "C",
       "squadra": "Roma",
-      "data nascita": "7/24/83"
+      "data nascita": "7/24/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DE VITIS Alessandro",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "2/15/92"
+      "data nascita": "2/15/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DEIOLA Alessandro",
       "ruolo": "C",
       "squadra": "Cagliari",
-      "data nascita": "8/1/95"
+      "data nascita": "8/1/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DEL PINTO Lorenzo",
       "ruolo": "C",
       "squadra": "Benevento",
-      "data nascita": "9/17/90"
+      "data nascita": "9/17/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DEPAOLI Fabio",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "4/24/97"
+      "data nascita": "4/24/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DESSENA Daniele",
       "ruolo": "C",
       "squadra": "Cagliari",
-      "data nascita": "5/10/87"
+      "data nascita": "5/10/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DI GENNARO Davide",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "6/16/88"
+      "data nascita": "6/16/88",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "DIAWARA Amadou",
       "ruolo": "C",
       "squadra": "Napoli",
-      "data nascita": "11/17/97"
+      "data nascita": "11/17/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DONSAH Godfred",
       "ruolo": "C",
       "squadra": "Bologna",
-      "data nascita": "6/7/96"
+      "data nascita": "6/7/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DUNCAN Joseph Alfred",
       "ruolo": "C",
       "squadra": "Sassuolo",
-      "data nascita": "3/10/93"
+      "data nascita": "3/10/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ERAMO Mirko",
       "ruolo": "C",
       "squadra": "Benevento",
-      "data nascita": "7/12/89"
+      "data nascita": "7/12/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FARAGO' Paolo Pancrazio",
       "ruolo": "C",
       "squadra": "Cagliari",
-      "data nascita": "2/12/93"
+      "data nascita": "2/12/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FELICIOLI Gian Filippo",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "9/30/97"
+      "data nascita": "9/30/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FERNANDEZ Matias Ariel",
       "ruolo": "C",
       "squadra": "Fiorentina",
-      "data nascita": "5/15/86"
+      "data nascita": "5/15/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FLORENZI Alessandro",
       "ruolo": "C",
       "squadra": "Roma",
-      "data nascita": "3/11/91"
+      "data nascita": "3/11/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FOFANA Seko Mohamed",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "5/7/95"
+      "data nascita": "5/7/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FOSSATI Marco Ezio",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "10/5/92"
+      "data nascita": "10/5/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FRATTESI Davide",
       "ruolo": "C",
       "squadra": "Sassuolo",
-      "data nascita": "9/22/99"
+      "data nascita": "9/22/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FREULER Remo",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "4/15/92"
+      "data nascita": "4/15/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GAGLIARDINI Roberto",
       "ruolo": "C",
       "squadra": "Inter",
-      "data nascita": "4/7/94"
+      "data nascita": "4/7/94",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "GARRITANO Luca",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "2/11/94"
+      "data nascita": "2/11/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GAUDINO Gianluca",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "11/11/96"
+      "data nascita": "11/11/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GERSON Santos da Silva",
       "ruolo": "C",
       "squadra": "Roma",
-      "data nascita": "5/20/97"
+      "data nascita": "5/20/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GIACCHERINI Emanuele",
       "ruolo": "C",
       "squadra": "Napoli",
-      "data nascita": "5/5/85"
+      "data nascita": "5/5/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GNOUKOURI Assane Demoya",
       "ruolo": "C",
       "squadra": "Inter",
-      "data nascita": "9/28/96"
+      "data nascita": "9/28/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GONALONS Maxime",
       "ruolo": "C",
       "squadra": "Roma",
-      "data nascita": "3/10/89"
+      "data nascita": "3/10/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GOSENS Robin",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "7/5/94"
+      "data nascita": "7/5/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GRASSI Alberto",
       "ruolo": "C",
       "squadra": "Spal",
-      "data nascita": "3/7/95"
+      "data nascita": "3/7/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GUSTAFSON Samuel",
       "ruolo": "C",
       "squadra": "Torino",
-      "data nascita": "1/11/95"
+      "data nascita": "1/11/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HAAS Nicolas",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "1/23/96"
+      "data nascita": "1/23/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HALLFREDSSON Emil",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "6/29/84"
+      "data nascita": "6/29/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HAMSIK Marek",
       "ruolo": "C",
       "squadra": "Napoli",
-      "data nascita": "7/27/87"
+      "data nascita": "7/27/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HETEMAJ Perparim",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "12/12/86"
+      "data nascita": "12/12/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HILJEMARK Oscar Karl",
       "ruolo": "C",
       "squadra": "Genoa",
-      "data nascita": "6/28/92"
+      "data nascita": "6/28/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "INGELSSON Svante Ulf",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "6/14/98"
+      "data nascita": "6/14/98",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "IÑIGUEZ Gaspar Emanuel",
+      "": "",
+      "nominativo": "INIGUEZ Gaspar Emanuel",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "3/26/94"
+      "data nascita": "3/26/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "IONITA Artur",
       "ruolo": "C",
       "squadra": "Cagliari",
-      "data nascita": "8/17/90"
+      "data nascita": "8/17/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "IVAN David",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "2/26/95"
+      "data nascita": "2/26/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "IZCO Mariano Julio",
       "ruolo": "C",
       "squadra": "Crotone",
-      "data nascita": "3/13/83"
+      "data nascita": "3/13/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "JAKIMOVSKI Nikola",
       "ruolo": "C",
       "squadra": "Benevento",
-      "data nascita": "2/26/90"
+      "data nascita": "2/26/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "JANKTO Jakub",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "1/19/96"
+      "data nascita": "1/19/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "JOAO MARIO Naval da Costa",
       "ruolo": "C",
       "squadra": "Inter",
-      "data nascita": "1/19/93"
+      "data nascita": "1/19/93",
+      "proprietario": "L3"
     },
     {
-
+      "": "",
       "nominativo": "JOAO PEDRO Geraldino",
       "ruolo": "C",
       "squadra": "Cagliari",
-      "data nascita": "3/9/92"
+      "data nascita": "3/9/92",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "JORGINHO Luiz Frello",
       "ruolo": "C",
       "squadra": "Napoli",
-      "data nascita": "12/20/91"
+      "data nascita": "12/20/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KASTANOS Grigoris",
       "ruolo": "C",
       "squadra": "Juventus",
-      "data nascita": "1/31/98"
+      "data nascita": "1/31/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KESSIE Franck Yannick",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "12/19/96"
+      "data nascita": "12/19/96",
+      "proprietario": "L3"
     },
     {
-
+      "": "",
       "nominativo": "KHEDIRA Sami",
       "ruolo": "C",
       "squadra": "Juventus",
-      "data nascita": "4/4/87"
+      "data nascita": "4/4/87",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "KIYINE Sofian",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "10/2/97"
+      "data nascita": "10/2/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KONDOGBIA Geoffrey",
       "ruolo": "C",
       "squadra": "Inter",
-      "data nascita": "2/15/93"
+      "data nascita": "2/15/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KONE Panagiotis Georgios",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "7/26/87"
+      "data nascita": "7/26/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KRAGL Oliver",
       "ruolo": "C",
       "squadra": "Crotone",
-      "data nascita": "5/12/90"
+      "data nascita": "5/12/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KURTIC Jasmin",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "1/10/89"
+      "data nascita": "1/10/89",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "LANER Simon",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "1/28/84"
+      "data nascita": "1/28/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LAXALT Diego Sebastian",
       "ruolo": "C",
       "squadra": "Genoa",
-      "data nascita": "2/7/93"
+      "data nascita": "2/7/93",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "LAZOVIC Darko",
       "ruolo": "C",
       "squadra": "Genoa",
-      "data nascita": "9/15/90"
+      "data nascita": "9/15/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LAZZARI Manuel",
       "ruolo": "C",
       "squadra": "Spal",
-      "data nascita": "11/29/93"
+      "data nascita": "11/29/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LEIVA Lucas Pezzini",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "1/9/87"
+      "data nascita": "1/9/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LINETTY Karol",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "2/2/95"
+      "data nascita": "2/2/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LOCATELLI Manuel",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "1/8/98"
+      "data nascita": "1/8/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LUKIC Sasa",
       "ruolo": "C",
       "squadra": "Torino",
-      "data nascita": "8/13/96"
+      "data nascita": "8/13/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LULIC Senad",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "1/18/86"
+      "data nascita": "1/18/86",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "MAGNANELLI Francesco",
       "ruolo": "C",
       "squadra": "Sassuolo",
-      "data nascita": "11/12/84"
+      "data nascita": "11/12/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MANDRAGORA Rolando",
       "ruolo": "C",
-      "squadra": "Juventus",
-      "data nascita": "6/29/97"
+      "squadra": "Crotone",
+      "data nascita": "6/29/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MARCHISIO Claudio",
       "ruolo": "C",
       "squadra": "Juventus",
-      "data nascita": "1/19/86"
+      "data nascita": "1/19/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MARRONE Luca",
       "ruolo": "C",
       "squadra": "Juventus",
-      "data nascita": "3/28/90"
+      "data nascita": "3/28/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MARUSIC Adam",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "10/17/92"
+      "data nascita": "10/17/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MAURI Jose' Agustin",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "5/15/96"
+      "data nascita": "5/15/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MAZZITELLI Luca",
       "ruolo": "C",
       "squadra": "Sassuolo",
-      "data nascita": "11/15/95"
+      "data nascita": "11/15/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MBAYE Malick",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "11/6/95"
+      "data nascita": "11/6/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MEDEL Gary Alexis",
       "ruolo": "C",
       "squadra": "Inter",
-      "data nascita": "8/3/87"
+      "data nascita": "8/3/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MELARA Fabrizio",
       "ruolo": "C",
       "squadra": "Benevento",
-      "data nascita": "5/6/86"
+      "data nascita": "5/6/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MELEGONI Filippo",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "2/18/99"
+      "data nascita": "2/18/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MILINKOVIC-SAVIC Sergej",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "2/27/95"
+      "data nascita": "2/27/95",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "MINALA Joseph Marie",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "8/24/96"
+      "data nascita": "8/24/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MINOTTI Nadir",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "5/16/92"
+      "data nascita": "5/16/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MISSIROLI Simone",
       "ruolo": "C",
       "squadra": "Sassuolo",
-      "data nascita": "5/23/86"
+      "data nascita": "5/23/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MONTOLIVO Riccardo",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "1/18/85"
+      "data nascita": "1/18/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MORA Luca",
       "ruolo": "C",
       "squadra": "Spal",
-      "data nascita": "5/10/88"
+      "data nascita": "5/10/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MORRISON Ravel Ryan",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "2/2/93"
+      "data nascita": "2/2/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MURGIA Alessandro",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "8/9/96"
+      "data nascita": "8/9/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "NAGY Adam",
       "ruolo": "C",
       "squadra": "Bologna",
-      "data nascita": "6/17/95"
+      "data nascita": "6/17/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "NAINGGOLAN Radja",
       "ruolo": "C",
       "squadra": "Roma",
-      "data nascita": "5/4/88"
+      "data nascita": "5/4/88",
+      "proprietario": "ElMorelo"
     },
     {
-
+      "": "",
       "nominativo": "NALINI Andrea",
       "ruolo": "C",
       "squadra": "Crotone",
-      "data nascita": "6/20/90"
+      "data nascita": "6/20/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "OBI Joel Chukwuma",
       "ruolo": "C",
       "squadra": "Torino",
-      "data nascita": "5/22/91"
+      "data nascita": "5/22/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "OIKONOMIDIS Christopher James",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "5/4/95"
+      "data nascita": "5/4/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PADOIN Simone",
       "ruolo": "C",
       "squadra": "Cagliari",
-      "data nascita": "3/18/84"
+      "data nascita": "3/18/84",
+      "proprietario": "Olimpia"
     },
     {
-
+      "": "",
       "nominativo": "PAROLO Marco",
       "ruolo": "C",
       "squadra": "Lazio",
-      "data nascita": "1/25/85"
+      "data nascita": "1/25/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PELLEGRINI Lorenzo",
       "ruolo": "C",
       "squadra": "Roma",
-      "data nascita": "6/19/96"
+      "data nascita": "6/19/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PESSINA Matteo",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "4/21/97"
+      "data nascita": "4/21/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PJANIC Miralem",
       "ruolo": "C",
       "squadra": "Juventus",
-      "data nascita": "4/2/90"
+      "data nascita": "4/2/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "POLI Andrea",
       "ruolo": "C",
       "squadra": "Bologna",
-      "data nascita": "9/29/89"
+      "data nascita": "9/29/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PONTISSO Simone",
       "ruolo": "C",
       "squadra": "Udinese",
-      "data nascita": "3/20/97"
+      "data nascita": "3/20/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PRAET Dennis",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "5/14/94"
+      "data nascita": "5/14/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PULGAR Erick Antonio",
       "ruolo": "C",
       "squadra": "Bologna",
-      "data nascita": "1/15/94"
+      "data nascita": "1/15/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RADOVANOVIC Ivan",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "8/29/88"
+      "data nascita": "8/29/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RIGONI Luca",
       "ruolo": "C",
       "squadra": "Genoa",
-      "data nascita": "12/7/84"
+      "data nascita": "12/7/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RIGONI Nicola",
       "ruolo": "C",
       "squadra": "Chievo",
-      "data nascita": "11/12/90"
+      "data nascita": "11/12/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RINCON Tomas Eduardo",
       "ruolo": "C",
-      "squadra": "Juventus",
-      "data nascita": "1/13/88"
+      "squadra": "Torino",
+      "data nascita": "1/13/88",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "RIZZO Luca",
       "ruolo": "C",
       "squadra": "Spal",
-      "data nascita": "4/24/92"
+      "data nascita": "4/24/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROCCA Michele",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "2/6/96"
+      "data nascita": "2/6/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RODRIGUEZ Thomas",
       "ruolo": "C",
       "squadra": "Genoa",
-      "data nascita": "4/5/96"
+      "data nascita": "4/5/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROG Marko",
       "ruolo": "C",
       "squadra": "Napoli",
-      "data nascita": "7/19/95"
+      "data nascita": "7/19/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROHDEN Marcus Christer",
       "ruolo": "C",
       "squadra": "Crotone",
-      "data nascita": "5/11/91"
+      "data nascita": "5/11/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROMULO Souza Orestes",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "5/22/87"
+      "data nascita": "5/22/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SANCHEZ Carlos Alberto",
       "ruolo": "C",
       "squadra": "Fiorentina",
-      "data nascita": "2/6/86"
+      "data nascita": "2/6/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SCHETINO Edgardo Andres",
       "ruolo": "C",
       "squadra": "Fiorentina",
-      "data nascita": "5/26/94"
+      "data nascita": "5/26/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SCHIATTARELLA Pasquale",
       "ruolo": "C",
       "squadra": "Spal",
-      "data nascita": "5/30/87"
+      "data nascita": "5/30/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SCHIAVON Eros",
       "ruolo": "C",
       "squadra": "Spal",
-      "data nascita": "4/24/83"
+      "data nascita": "4/24/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SCHMIDT Joao Felipe",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "5/19/93"
+      "data nascita": "5/19/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SENSI Stefano",
       "ruolo": "C",
       "squadra": "Sassuolo",
-      "data nascita": "8/5/95"
+      "data nascita": "8/5/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SOSA Jose Ernesto",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "6/19/85"
+      "data nascita": "6/19/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SPINAZZOLA Leonardo",
       "ruolo": "C",
       "squadra": "Atalanta",
-      "data nascita": "3/25/93"
+      "data nascita": "3/25/93",
+      "proprietario": "Olimpia"
     },
     {
-
+      "": "",
       "nominativo": "STOIAN Adrian",
       "ruolo": "C",
       "squadra": "Crotone",
-      "data nascita": "2/11/91"
+      "data nascita": "2/11/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "STRASSER Rodney",
       "ruolo": "C",
       "squadra": "Genoa",
-      "data nascita": "3/30/90"
+      "data nascita": "3/30/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "STROOTMAN Kevin",
       "ruolo": "C",
       "squadra": "Roma",
-      "data nascita": "2/13/90"
+      "data nascita": "2/13/90",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "STURARO Stefano",
       "ruolo": "C",
       "squadra": "Juventus",
-      "data nascita": "3/9/93"
+      "data nascita": "3/9/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SULJIC Cazim",
       "ruolo": "C",
       "squadra": "Crotone",
-      "data nascita": "10/29/96"
+      "data nascita": "10/29/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TAIDER Saphir Sliti",
       "ruolo": "C",
       "squadra": "Bologna",
-      "data nascita": "2/29/92"
+      "data nascita": "2/29/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TORREIRA Lucas",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "2/11/96"
+      "data nascita": "2/11/96",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "VAINQUEUR William-Jacques",
       "ruolo": "C",
       "squadra": "Roma",
-      "data nascita": "11/19/88"
+      "data nascita": "11/19/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VALDIFIORI Mirko",
       "ruolo": "C",
       "squadra": "Torino",
-      "data nascita": "4/21/86"
+      "data nascita": "4/21/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VALENCIA Juan Manuel",
       "ruolo": "C",
       "squadra": "Bologna",
-      "data nascita": "10/17/98"
+      "data nascita": "10/17/98",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "VALERO Borja",
-      "ruolo": "C",
-      "squadra": "Inter",
-      "data nascita": "1/12/85"
-    },
-    {
-
+      "": "",
       "nominativo": "VALOTI Mattia",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "9/6/93"
+      "data nascita": "9/6/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VECINO Matias",
       "ruolo": "C",
       "squadra": "Inter",
-      "data nascita": "8/24/91"
+      "data nascita": "8/24/91",
+      "proprietario": "ElMorelo"
     },
     {
-
+      "": "",
       "nominativo": "VELOSO Miguel Luis",
       "ruolo": "C",
       "squadra": "Genoa",
-      "data nascita": "5/11/86"
+      "data nascita": "5/11/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VERETOUT Jordan Marcel",
       "ruolo": "C",
       "squadra": "Fiorentina",
-      "data nascita": "3/1/93"
+      "data nascita": "3/1/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VERRE Valerio",
       "ruolo": "C",
       "squadra": "Sampdoria",
-      "data nascita": "1/11/94"
+      "data nascita": "1/11/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VIOLA Benito Nicolas",
       "ruolo": "C",
       "squadra": "Benevento",
-      "data nascita": "10/12/89"
+      "data nascita": "10/12/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VIVIANI Federico",
       "ruolo": "C",
       "squadra": "Spal",
-      "data nascita": "3/24/92"
+      "data nascita": "3/24/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZACCAGNI Mattia",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "6/16/95"
+      "data nascita": "6/16/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZANELLATO Niccolo'",
       "ruolo": "C",
       "squadra": "Milan",
-      "data nascita": "6/24/98"
+      "data nascita": "6/24/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZIELINSKI Piotr Sebastian",
       "ruolo": "C",
       "squadra": "Napoli",
-      "data nascita": "5/20/94"
+      "data nascita": "5/20/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZUCULINI Bruno",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "4/2/93"
+      "data nascita": "4/2/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZUCULINI Franco",
       "ruolo": "C",
       "squadra": "Verona",
-      "data nascita": "9/5/90"
+      "data nascita": "9/5/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ACOSTY Boadu Maxwell",
       "ruolo": "A",
       "squadra": "Crotone",
-      "data nascita": "9/10/91"
+      "data nascita": "9/10/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ANDERSON Felipe",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "4/15/93"
+      "data nascita": "4/15/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ANDRE' SILVA Miguel Valente",
       "ruolo": "A",
       "squadra": "Milan",
-      "data nascita": "11/6/95"
+      "data nascita": "11/6/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ANTENUCCI Mirco",
       "ruolo": "A",
       "squadra": "Spal",
-      "data nascita": "9/8/84"
+      "data nascita": "9/8/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BABACAR Khouma El Hadji",
       "ruolo": "A",
       "squadra": "Fiorentina",
-      "data nascita": "3/17/93"
+      "data nascita": "3/17/93",
+      "proprietario": "ElMorelo"
     },
     {
-
+      "": "",
       "nominativo": "BACCA Carlos Arturo",
       "ruolo": "A",
       "squadra": "Milan",
-      "data nascita": "9/8/86"
+      "data nascita": "9/8/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BAEZ Jaime",
       "ruolo": "A",
       "squadra": "Fiorentina",
-      "data nascita": "4/25/95"
+      "data nascita": "4/25/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BAJIC Riad",
       "ruolo": "A",
       "squadra": "Udinese",
-      "data nascita": "5/6/94"
+      "data nascita": "5/6/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BALDE Ibourahima",
       "ruolo": "A",
       "squadra": "Sampdoria",
-      "data nascita": "9/23/99"
+      "data nascita": "9/23/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BELOTTI Andrea",
       "ruolo": "A",
       "squadra": "Torino",
-      "data nascita": "12/20/93"
+      "data nascita": "12/20/93",
+      "proprietario": "L3"
     },
     {
-
+      "": "",
       "nominativo": "BERARDI Domenico",
       "ruolo": "A",
       "squadra": "Sassuolo",
-      "data nascita": "8/1/94"
+      "data nascita": "8/1/94",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "BIRSA Valter",
       "ruolo": "A",
       "squadra": "Chievo",
-      "data nascita": "8/7/86"
+      "data nascita": "8/7/86",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BONAZZOLI Federico",
       "ruolo": "A",
       "squadra": "Sampdoria",
-      "data nascita": "5/21/97"
+      "data nascita": "5/21/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BORINI Fabio",
       "ruolo": "A",
       "squadra": "Milan",
-      "data nascita": "3/29/91"
+      "data nascita": "3/29/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BORRIELLO Marco",
       "ruolo": "A",
       "squadra": "Cagliari",
-      "data nascita": "6/18/82"
+      "data nascita": "6/18/82",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BOYE' Lucas",
       "ruolo": "A",
       "squadra": "Torino",
-      "data nascita": "2/28/96"
+      "data nascita": "2/28/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "BUDIMIR Ante",
       "ruolo": "A",
       "squadra": "Crotone",
-      "data nascita": "7/22/91"
+      "data nascita": "7/22/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CAICEDO Felipe Salvador",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "9/5/88"
+      "data nascita": "9/5/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CALLEJON Jose Maria",
       "ruolo": "A",
       "squadra": "Napoli",
-      "data nascita": "2/11/87"
+      "data nascita": "2/11/87",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "CAPRARI Gianluca",
       "ruolo": "A",
       "squadra": "Sampdoria",
-      "data nascita": "7/30/93"
+      "data nascita": "7/30/93",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "CENTURION Ricardo Adrian",
+      "": "",
+      "nominativo": "CENTURION Adrian Ricardo",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "1/19/93"
+      "data nascita": "1/19/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CERAVOLO Giovanni Fabio",
       "ruolo": "A",
       "squadra": "Benevento",
-      "data nascita": "3/5/87"
+      "data nascita": "3/5/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CERCI Alessio",
       "ruolo": "A",
       "squadra": "Verona",
-      "data nascita": "7/23/87"
+      "data nascita": "7/23/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CICIRETTI Amato",
       "ruolo": "A",
       "squadra": "Benevento",
-      "data nascita": "12/31/93"
+      "data nascita": "12/31/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CISSE' Karamoko",
       "ruolo": "A",
       "squadra": "Benevento",
-      "data nascita": "11/14/88"
+      "data nascita": "11/14/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CLEMENZA Luca",
       "ruolo": "A",
       "squadra": "Juventus",
-      "data nascita": "9/9/97"
+      "data nascita": "9/9/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CODA Massimo",
       "ruolo": "A",
       "squadra": "Benevento",
-      "data nascita": "12/10/88"
+      "data nascita": "12/10/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "COP Duje",
       "ruolo": "A",
       "squadra": "Cagliari",
-      "data nascita": "2/1/90"
+      "data nascita": "2/1/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CORNELIUS Andreas",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "3/16/93"
+      "data nascita": "3/16/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "CUTRONE Patrick",
       "ruolo": "A",
       "squadra": "Milan",
-      "data nascita": "1/3/98"
+      "data nascita": "1/3/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "D'ALESSANDRO Marco",
       "ruolo": "A",
       "squadra": "Benevento",
-      "data nascita": "2/17/91"
+      "data nascita": "2/17/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DEFREL Gregoire",
       "ruolo": "A",
       "squadra": "Roma",
-      "data nascita": "6/17/91"
+      "data nascita": "6/17/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DESTRO Mattia",
       "ruolo": "A",
       "squadra": "Bologna",
-      "data nascita": "3/20/91"
+      "data nascita": "3/20/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DI FRANCESCO Federico",
       "ruolo": "A",
       "squadra": "Bologna",
-      "data nascita": "6/14/94"
+      "data nascita": "6/14/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DJORDJEVIC Filip",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "9/28/87"
+      "data nascita": "9/28/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DJURICIC Filip",
       "ruolo": "A",
       "squadra": "Sampdoria",
-      "data nascita": "1/30/92"
+      "data nascita": "1/30/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DOUGLAS COSTA de Souza",
       "ruolo": "A",
       "squadra": "Juventus",
-      "data nascita": "9/14/90"
+      "data nascita": "9/14/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DYBALA Paulo Bruno",
       "ruolo": "A",
       "squadra": "Juventus",
-      "data nascita": "11/15/93"
+      "data nascita": "11/15/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "DZEKO Edin",
       "ruolo": "A",
       "squadra": "Roma",
-      "data nascita": "3/17/86"
+      "data nascita": "3/17/86",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "EDER Martins Citadin",
       "ruolo": "A",
       "squadra": "Inter",
-      "data nascita": "11/15/86"
+      "data nascita": "11/15/86",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "EDERA Simone",
-      "ruolo": "A",
-      "squadra": "Torino",
-      "data nascita": "1/9/97"
-    },
-    {
-
+      "": "",
       "nominativo": "EL SHAARAWY Stephan",
       "ruolo": "A",
       "squadra": "Roma",
-      "data nascita": "10/27/92"
+      "data nascita": "10/27/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "EWANDRO Felipe de Lima",
       "ruolo": "A",
       "squadra": "Udinese",
-      "data nascita": "3/15/96"
+      "data nascita": "3/15/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "EYSSERIC Valentin",
       "ruolo": "A",
       "squadra": "Fiorentina",
-      "data nascita": "3/25/92"
+      "data nascita": "3/25/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FALCINELLI Diego",
       "ruolo": "A",
       "squadra": "Sassuolo",
-      "data nascita": "6/26/91"
+      "data nascita": "6/26/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FALCO Filippo",
       "ruolo": "A",
       "squadra": "Bologna",
-      "data nascita": "2/11/92"
+      "data nascita": "2/11/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FALLETTI Cesar Alejandro",
       "ruolo": "A",
       "squadra": "Bologna",
-      "data nascita": "12/20/92"
+      "data nascita": "12/20/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FARES Mohamed Salim",
       "ruolo": "A",
       "squadra": "Verona",
-      "data nascita": "2/15/96"
+      "data nascita": "2/15/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FARIAS Diego da Silva",
       "ruolo": "A",
       "squadra": "Cagliari",
-      "data nascita": "5/10/90"
+      "data nascita": "5/10/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "FLOCCARI Sergio",
       "ruolo": "A",
       "squadra": "Spal",
-      "data nascita": "11/12/81"
+      "data nascita": "11/12/81",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GABIGOL Barbosa Almeida",
       "ruolo": "A",
       "squadra": "Inter",
-      "data nascita": "8/30/96"
+      "data nascita": "8/30/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GAKPE' Serge",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "5/7/87"
+      "data nascita": "5/7/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GALABINOV Andrey Asenov",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "11/27/88"
+      "data nascita": "11/27/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GATTO Leonardo",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "4/28/92"
+      "data nascita": "4/28/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GIANNETTI Niccolo'",
       "ruolo": "A",
       "squadra": "Cagliari",
-      "data nascita": "5/12/91"
+      "data nascita": "5/12/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "GOMEZ Alejandro Dario",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "2/15/88"
+      "data nascita": "2/15/88",
+      "proprietario": "Polisportiva"
     },
     {
-
+      "": "",
       "nominativo": "HAGI Ianis",
       "ruolo": "A",
       "squadra": "Fiorentina",
-      "data nascita": "10/22/98"
+      "data nascita": "10/22/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "HIGUAIN Gonzalo Gerardo",
       "ruolo": "A",
       "squadra": "Juventus",
-      "data nascita": "12/10/87"
+      "data nascita": "12/10/87",
+      "proprietario": "L3"
     },
     {
-
+      "": "",
       "nominativo": "IAGO FALQUE Silva",
       "ruolo": "A",
       "squadra": "Torino",
-      "data nascita": "1/4/90"
+      "data nascita": "1/4/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ICARDI Mauro Emanuel",
       "ruolo": "A",
       "squadra": "Inter",
-      "data nascita": "2/19/93"
+      "data nascita": "2/19/93",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "IEMMELLO Pietro",
       "ruolo": "A",
       "squadra": "Sassuolo",
-      "data nascita": "3/6/92"
+      "data nascita": "3/6/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ILICIC Josip",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "1/29/88"
+      "data nascita": "1/29/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "IMMOBILE Ciro",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "2/20/90"
+      "data nascita": "2/20/90",
+      "proprietario": "Olimpia"
     },
     {
-
+      "": "",
       "nominativo": "INGLESE Roberto",
       "ruolo": "A",
       "squadra": "Chievo",
-      "data nascita": "11/12/91"
+      "data nascita": "11/12/91",
+      "proprietario": "Pippero"
     },
     {
-
+      "": "",
       "nominativo": "INSIGNE Lorenzo",
       "ruolo": "A",
       "squadra": "Napoli",
-      "data nascita": "6/4/91"
+      "data nascita": "6/4/91",
+      "proprietario": "ElMorelo"
     },
     {
-
+      "": "",
       "nominativo": "ITURBE Juan Manuel",
       "ruolo": "A",
       "squadra": "Roma",
-      "data nascita": "6/4/93"
+      "data nascita": "6/4/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "JOVETIC Stevan",
       "ruolo": "A",
       "squadra": "Inter",
-      "data nascita": "11/2/89"
+      "data nascita": "11/2/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KALINIC Nikola",
       "ruolo": "A",
       "squadra": "Fiorentina",
-      "data nascita": "1/5/88"
+      "data nascita": "1/5/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KEAN Moise Bioty",
       "ruolo": "A",
       "squadra": "Juventus",
-      "data nascita": "2/28/00"
+      "data nascita": "2/28/00",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KEITA Balde Diao",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "3/8/95"
+      "data nascita": "3/8/95",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "KISHNA Ricardo",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "1/4/95"
+      "data nascita": "1/4/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KOTNIK Andrej",
       "ruolo": "A",
       "squadra": "Crotone",
-      "data nascita": "8/4/95"
+      "data nascita": "8/4/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KOWNACKI Dawid",
       "ruolo": "A",
       "squadra": "Sampdoria",
-      "data nascita": "3/14/97"
+      "data nascita": "3/14/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "KREJCI Ladislav",
       "ruolo": "A",
       "squadra": "Bologna",
-      "data nascita": "7/5/92"
+      "data nascita": "7/5/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LAPADULA Gianluca",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "2/7/90"
+      "data nascita": "2/7/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LASAGNA Kevin",
       "ruolo": "A",
       "squadra": "Udinese",
-      "data nascita": "8/10/92"
+      "data nascita": "8/10/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LEANDRINHO Henrique do Nascimento",
       "ruolo": "A",
       "squadra": "Napoli",
-      "data nascita": "10/11/98"
+      "data nascita": "10/11/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LERIS Mehdi",
       "ruolo": "A",
       "squadra": "Chievo",
-      "data nascita": "5/23/98"
+      "data nascita": "5/23/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LJAJIC Adem",
       "ruolo": "A",
       "squadra": "Torino",
-      "data nascita": "9/29/91"
+      "data nascita": "9/29/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LOMBARDI Cristiano",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "8/19/95"
+      "data nascita": "8/19/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LONGO Samuele",
       "ruolo": "A",
       "squadra": "Inter",
-      "data nascita": "1/12/92"
+      "data nascita": "1/12/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LOPEZ Maximiliano Gaston",
       "ruolo": "A",
       "squadra": "Torino",
-      "data nascita": "4/3/84"
+      "data nascita": "4/3/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "LUIS ALBERTO Romero Alconchel",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "9/28/92"
+      "data nascita": "9/28/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MALLE' Aly",
       "ruolo": "A",
       "squadra": "Udinese",
-      "data nascita": "4/3/98"
+      "data nascita": "4/3/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MANAJ Rey",
       "ruolo": "A",
       "squadra": "Inter",
-      "data nascita": "2/24/97"
+      "data nascita": "2/24/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MANDZUKIC Mario",
       "ruolo": "A",
       "squadra": "Juventus",
-      "data nascita": "5/21/86"
+      "data nascita": "5/21/86",
+      "proprietario": "ElMorelo"
     },
     {
-
+      "": "",
       "nominativo": "MANGNI Doudou Ursul",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "3/29/93"
+      "data nascita": "3/29/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MARILUNGO Guido",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "8/9/89"
+      "data nascita": "8/9/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MATOS Ryder",
       "ruolo": "A",
       "squadra": "Udinese",
-      "data nascita": "2/27/93"
+      "data nascita": "2/27/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MATRI Alessandro",
       "ruolo": "A",
       "squadra": "Sassuolo",
-      "data nascita": "8/19/84"
+      "data nascita": "8/19/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MEGGIORINI Riccardo",
       "ruolo": "A",
       "squadra": "Chievo",
-      "data nascita": "9/4/85"
+      "data nascita": "9/4/85",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MELCHIORRI Federico",
       "ruolo": "A",
       "squadra": "Cagliari",
-      "data nascita": "1/6/87"
+      "data nascita": "1/6/87",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "MENDEZ Alan Kevin",
-      "ruolo": "A",
-      "squadra": "Roma",
-      "data nascita": "1/10/96"
-    },
-    {
-
+      "": "",
       "nominativo": "MERTENS Dries",
       "ruolo": "A",
       "squadra": "Napoli",
-      "data nascita": "5/6/87"
+      "data nascita": "5/6/87",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "MILIK Arkadiusz",
       "ruolo": "A",
       "squadra": "Napoli",
-      "data nascita": "2/28/94"
+      "data nascita": "2/28/94",
+      "proprietario": "Olimpia"
     },
     {
-
+      "": "",
       "nominativo": "MONACHELLO Gaetano",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "3/3/94"
+      "data nascita": "3/3/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MOROSINI Leonardo",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "10/13/95"
+      "data nascita": "10/13/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "MOUNIER Anthony",
       "ruolo": "A",
       "squadra": "Bologna",
-      "data nascita": "9/27/87"
+      "data nascita": "9/27/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "NIANG M'baye",
       "ruolo": "A",
       "squadra": "Milan",
-      "data nascita": "12/19/94"
+      "data nascita": "12/19/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "NINKOVIC Nikola",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "12/19/94"
+      "data nascita": "12/19/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "OKWONKWO Orji",
       "ruolo": "A",
       "squadra": "Bologna",
-      "data nascita": "1/19/98"
+      "data nascita": "1/19/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ORSOLINI Riccardo",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "1/24/97"
+      "data nascita": "1/24/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "OUNAS Adam",
       "ruolo": "A",
       "squadra": "Napoli",
-      "data nascita": "11/11/96"
+      "data nascita": "11/11/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PALLADINO Raffaele",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "4/17/84"
+      "data nascita": "4/17/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PALOMBI Simone",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "4/23/96"
+      "data nascita": "4/23/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PALOSCHI Alberto",
       "ruolo": "A",
       "squadra": "Spal",
-      "data nascita": "1/4/90"
+      "data nascita": "1/4/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PANDEV Goran",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "7/27/83"
+      "data nascita": "7/27/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PARIGINI Vittorio",
       "ruolo": "A",
       "squadra": "Torino",
-      "data nascita": "3/25/96"
+      "data nascita": "3/25/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PAVOLETTI Leonardo",
       "ruolo": "A",
       "squadra": "Napoli",
-      "data nascita": "11/26/88"
+      "data nascita": "11/26/88",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PAZZINI Giampaolo",
       "ruolo": "A",
       "squadra": "Verona",
-      "data nascita": "8/2/84"
+      "data nascita": "8/2/84",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PELLEGRI Pietro",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "3/17/01"
+      "data nascita": "3/17/01",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PELLISSIER Sergio",
       "ruolo": "A",
       "squadra": "Chievo",
-      "data nascita": "4/12/79"
+      "data nascita": "4/12/79",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PEREA Brayan Andres",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "2/25/93"
+      "data nascita": "2/25/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PEREZ Joshua",
       "ruolo": "A",
       "squadra": "Fiorentina",
-      "data nascita": "1/21/98"
+      "data nascita": "1/21/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PERICA Stipe",
       "ruolo": "A",
       "squadra": "Udinese",
-      "data nascita": "7/7/95"
+      "data nascita": "7/7/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PERISIC Ivan",
       "ruolo": "A",
       "squadra": "Inter",
-      "data nascita": "2/2/89"
+      "data nascita": "2/2/89",
+      "proprietario": "L3"
     },
     {
-
+      "": "",
       "nominativo": "PEROTTI Diego",
       "ruolo": "A",
       "squadra": "Roma",
-      "data nascita": "7/26/88"
+      "data nascita": "7/26/88",
+      "proprietario": "Lupin"
     },
     {
-
+      "": "",
       "nominativo": "PETAGNA Andrea",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "6/30/95"
+      "data nascita": "6/30/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PETKOVIC Bruno",
       "ruolo": "A",
       "squadra": "Bologna",
-      "data nascita": "9/16/94"
+      "data nascita": "9/16/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PINAMONTI Andrea",
       "ruolo": "A",
       "squadra": "Inter",
-      "data nascita": "5/19/99"
+      "data nascita": "5/19/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PJACA Marko",
       "ruolo": "A",
       "squadra": "Juventus",
-      "data nascita": "5/6/95"
+      "data nascita": "5/6/95",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "POLITANO Matteo",
       "ruolo": "A",
       "squadra": "Sassuolo",
-      "data nascita": "8/3/93"
+      "data nascita": "8/3/93",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "PUCCIARELLI Manuel",
       "ruolo": "A",
       "squadra": "Chievo",
-      "data nascita": "6/17/91"
+      "data nascita": "6/17/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "PUSCAS George Alexandru",
       "ruolo": "A",
       "squadra": "Benevento",
-      "data nascita": "4/8/96"
+      "data nascita": "4/8/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "QUAGLIARELLA Fabio",
       "ruolo": "A",
       "squadra": "Sampdoria",
-      "data nascita": "1/31/83"
+      "data nascita": "1/31/83",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RAGUSA Antonino",
       "ruolo": "A",
       "squadra": "Sassuolo",
-      "data nascita": "3/27/90"
+      "data nascita": "3/27/90",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "RAMIREZ Exequiel Gaston",
+      "": "",
+      "nominativo": "RAMIREZ Gaston Exequiel",
       "ruolo": "A",
       "squadra": "Sampdoria",
-      "data nascita": "12/2/90"
+      "data nascita": "12/2/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "REBIC Ante",
       "ruolo": "A",
       "squadra": "Fiorentina",
-      "data nascita": "9/21/93"
+      "data nascita": "9/21/93",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RICCI Federico",
       "ruolo": "A",
       "squadra": "Sassuolo",
-      "data nascita": "5/27/94"
+      "data nascita": "5/27/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "RODRIGUEZ Alejandro",
       "ruolo": "A",
       "squadra": "Chievo",
-      "data nascita": "7/3/91"
+      "data nascita": "7/3/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROSSETI Lorenzo",
       "ruolo": "A",
       "squadra": "Juventus",
-      "data nascita": "8/5/94"
+      "data nascita": "8/5/94",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ROSSI Alessandro",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "1/3/97"
+      "data nascita": "1/3/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SADIQ Umar",
       "ruolo": "A",
       "squadra": "Roma",
-      "data nascita": "2/2/97"
+      "data nascita": "2/2/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SAPONARA Riccardo",
       "ruolo": "A",
       "squadra": "Fiorentina",
-      "data nascita": "12/21/91"
+      "data nascita": "12/21/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SAU Marco",
       "ruolo": "A",
       "squadra": "Cagliari",
-      "data nascita": "11/3/87"
+      "data nascita": "11/3/87",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SCHICK Patrik",
       "ruolo": "A",
       "squadra": "Sampdoria",
-      "data nascita": "1/24/96"
+      "data nascita": "1/24/96",
+      "proprietario": "Brentone"
     },
     {
-
+      "": "",
       "nominativo": "SIMEONE Giovanni Pablo",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "7/5/95"
+      "data nascita": "7/5/95",
+      "proprietario": "Olimpia"
     },
     {
-
+      "": "",
       "nominativo": "SIMY Tochukwu Nwankwo",
       "ruolo": "A",
       "squadra": "Crotone",
-      "data nascita": "5/7/92"
+      "data nascita": "5/7/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "STEFANEC Simon",
       "ruolo": "A",
       "squadra": "Verona",
-      "data nascita": "9/5/98"
+      "data nascita": "9/5/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "SUSO Jesus Fernandez",
       "ruolo": "A",
       "squadra": "Milan",
-      "data nascita": "11/19/93"
+      "data nascita": "11/19/93",
+      "proprietario": "L3"
     },
     {
-
+      "": "",
       "nominativo": "TAARABT Adel",
       "ruolo": "A",
       "squadra": "Genoa",
-      "data nascita": "5/24/89"
+      "data nascita": "5/24/89",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "THEREAU Cyril",
       "ruolo": "A",
       "squadra": "Udinese",
-      "data nascita": "4/24/83"
+      "data nascita": "4/24/83",
+      "proprietario": "Inazuma"
     },
     {
-
+      "": "",
       "nominativo": "THIAM Mame Baba",
       "ruolo": "A",
       "squadra": "Juventus",
-      "data nascita": "10/9/92"
+      "data nascita": "10/9/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TONEV Aleksandar",
       "ruolo": "A",
       "squadra": "Crotone",
-      "data nascita": "2/3/90"
+      "data nascita": "2/3/90",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TOUNKARA Mamadou",
       "ruolo": "A",
       "squadra": "Lazio",
-      "data nascita": "1/19/96"
+      "data nascita": "1/19/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "TROTTA Marcello",
       "ruolo": "A",
       "squadra": "Crotone",
-      "data nascita": "9/29/92"
+      "data nascita": "9/29/92",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "TUMMINELLO Andrea",
-      "ruolo": "A",
-      "squadra": "Roma",
-      "data nascita": "11/6/98"
-    },
-    {
-
+      "": "",
       "nominativo": "TUPTA Lubomir",
       "ruolo": "A",
       "squadra": "Verona",
-      "data nascita": "3/27/98"
+      "data nascita": "3/27/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "UNDER Cengiz",
       "ruolo": "A",
       "squadra": "Roma",
-      "data nascita": "7/14/97"
+      "data nascita": "7/14/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VERDE Daniele",
       "ruolo": "A",
       "squadra": "Verona",
-      "data nascita": "6/20/96"
+      "data nascita": "6/20/96",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VERDI Simone",
       "ruolo": "A",
       "squadra": "Bologna",
-      "data nascita": "7/12/92"
+      "data nascita": "7/12/92",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VIDO Luca",
       "ruolo": "A",
       "squadra": "Atalanta",
-      "data nascita": "2/3/97"
+      "data nascita": "2/3/97",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "VIGNATO Emanuel",
       "ruolo": "A",
       "squadra": "Chievo",
-      "data nascita": "4/28/00"
+      "data nascita": "4/28/00",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "YAMGA Kevin Arthur",
+      "": "",
+      "nominativo": "YAMGA Arthur Kevin",
       "ruolo": "A",
       "squadra": "Chievo",
-      "data nascita": "9/7/96"
+      "data nascita": "9/7/96",
+      "proprietario": ""
     },
     {
-
-      "nominativo": "ZAPATA Alexis",
-      "ruolo": "A",
-      "squadra": "Udinese",
-      "data nascita": "5/10/95"
-    },
-    {
-
+      "": "",
       "nominativo": "ZAPATA Duvan Esteban",
       "ruolo": "A",
       "squadra": "Napoli",
-      "data nascita": "4/1/91"
+      "data nascita": "4/1/91",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZEKHNINI Rafik",
       "ruolo": "A",
       "squadra": "Fiorentina",
-      "data nascita": "1/12/98"
+      "data nascita": "1/12/98",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZERBIN Alessio",
       "ruolo": "A",
       "squadra": "Napoli",
-      "data nascita": "3/3/99"
+      "data nascita": "3/3/99",
+      "proprietario": ""
     },
     {
-
+      "": "",
       "nominativo": "ZIGONI Gianmarco",
       "ruolo": "A",
       "squadra": "Milan",
-      "data nascita": "5/10/91"
+      "data nascita": "5/10/91",
+      "proprietario": ""
     }
   ]
 }
