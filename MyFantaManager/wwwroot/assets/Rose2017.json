@@ -394,14 +394,6 @@
     },
     {
       "": "",
-      "nominativo": "SATALINO Giacomo",
-      "ruolo": "P",
-      "squadra": "Fiorentina",
-      "data nascita": "5/20/99",
-      "proprietario": ""
-    },
-    {
-      "": "",
       "nominativo": "SCUFFET Simone",
       "ruolo": "P",
       "squadra": "Udinese",
@@ -606,6 +598,14 @@
       "ruolo": "D",
       "squadra": "Udinese",
       "data nascita": "4/28/89",
+      "proprietario": ""
+    },
+    {
+      "": "",
+      "nominativo": "ANOCIC Silvio",
+      "ruolo": "D",
+      "squadra": "Roma",
+      "data nascita": "10/09/1997",
       "proprietario": ""
     },
     {
@@ -999,15 +999,7 @@
       "squadra": "Udinese",
       "data nascita": "5/10/84",
       "proprietario": ""
-    },
-    {
-      "": "",
-      "nominativo": "DAPRELA' Fabio",
-      "ruolo": "D",
-      "squadra": "Chievo",
-      "data nascita": "2/19/91",
-      "proprietario": ""
-    },
+    },    
     {
       "": "",
       "nominativo": "DE MAIO Sebastien",
@@ -1102,6 +1094,14 @@
       "ruolo": "D",
       "squadra": "Roma",
       "data nascita": "8/3/94",
+      "proprietario": ""
+    },
+    {
+      "": "",
+      "nominativo": "ERLIC Martin",
+      "ruolo": "D",
+      "squadra": "Sassuolo",
+      "data nascita": "01/24/98",
       "proprietario": ""
     },
     {
@@ -1430,14 +1430,6 @@
       "ruolo": "D",
       "squadra": "Sassuolo",
       "data nascita": "8/13/97",
-      "proprietario": ""
-    },
-    {
-      "": "",
-      "nominativo": "LOPEZ Walter Alberto",
-      "ruolo": "D",
-      "squadra": "Benevento",
-      "data nascita": "10/15/85",
       "proprietario": ""
     },
     {
@@ -2218,14 +2210,6 @@
     },
     {
       "": "",
-      "nominativo": "BAUMGARTNER Denis",
-      "ruolo": "C",
-      "squadra": "Sampdoria",
-      "data nascita": "2/2/98",
-      "proprietario": ""
-    },
-    {
-      "": "",
       "nominativo": "BENASSI Marco",
       "ruolo": "C",
       "squadra": "Fiorentina",
@@ -2506,10 +2490,26 @@
     },
     {
       "": "",
+      "nominativo": "DE ROON Marteen",
+      "ruolo": "C",
+      "squadra": "Atalanta",
+      "data nascita": "03/29/91",
+      "proprietario": ""
+    },
+    {
+      "": "",
       "nominativo": "DE ROSSI Daniele",
       "ruolo": "C",
       "squadra": "Roma",
       "data nascita": "7/24/83",
+      "proprietario": ""
+    },
+    {
+      "": "",
+      "nominativo": "DE SIMONE Gennaro",
+      "ruolo": "C",
+      "squadra": "Napoli",
+      "data nascita": "05/22/97",
       "proprietario": ""
     },
     {
@@ -3050,22 +3050,6 @@
     },
     {
       "": "",
-      "nominativo": "MBAYE Malick",
-      "ruolo": "C",
-      "squadra": "Chievo",
-      "data nascita": "11/6/95",
-      "proprietario": ""
-    },
-    {
-      "": "",
-      "nominativo": "MEDEL Gary Alexis",
-      "ruolo": "C",
-      "squadra": "Inter",
-      "data nascita": "8/3/87",
-      "proprietario": ""
-    },
-    {
-      "": "",
       "nominativo": "MELARA Fabrizio",
       "ruolo": "C",
       "squadra": "Benevento",
@@ -3087,14 +3071,6 @@
       "squadra": "Lazio",
       "data nascita": "2/27/95",
       "proprietario": "Brentone"
-    },
-    {
-      "": "",
-      "nominativo": "MINALA Joseph Marie",
-      "ruolo": "C",
-      "squadra": "Lazio",
-      "data nascita": "8/24/96",
-      "proprietario": ""
     },
     {
       "": "",
@@ -3182,6 +3158,14 @@
       "ruolo": "C",
       "squadra": "Lazio",
       "data nascita": "5/4/95",
+      "proprietario": ""
+    },
+    {
+      "": "",
+      "nominativo": "OMEONGA Stephane",
+      "ruolo": "C",
+      "squadra": "Genoa",
+      "data nascita": "03/27/96",
       "proprietario": ""
     },
     {
@@ -3642,10 +3626,10 @@
     },
     {
       "": "",
-      "nominativo": "BALDE Ibourahima",
+      "nominativo": "BEARZOTTI Enrico",
       "ruolo": "A",
-      "squadra": "Sampdoria",
-      "data nascita": "9/23/99",
+      "squadra": "Verona",
+      "data nascita": "29/10/1996",
       "proprietario": ""
     },
     {
@@ -3778,14 +3762,6 @@
     },
     {
       "": "",
-      "nominativo": "CLEMENZA Luca",
-      "ruolo": "A",
-      "squadra": "Juventus",
-      "data nascita": "9/9/97",
-      "proprietario": ""
-    },
-    {
-      "": "",
       "nominativo": "CODA Massimo",
       "ruolo": "A",
       "squadra": "Benevento",
@@ -3894,6 +3870,14 @@
       "ruolo": "A",
       "squadra": "Inter",
       "data nascita": "11/15/86",
+      "proprietario": ""
+    },
+    {
+      "": "",
+      "nominativo": "EDERA Simone",
+      "ruolo": "A",
+      "squadra": "Torino",
+      "data nascita": "01/09/97",
       "proprietario": ""
     },
     {
@@ -4514,6 +4498,14 @@
     },
     {
       "": "",
+      "nominativo": "PIERINI Nicholas",
+      "ruolo": "A",
+      "squadra": "Sassuolo",
+      "data nascita": "8/6/98",
+      "proprietario": ""
+    },
+    {
+      "": "",
       "nominativo": "PINAMONTI Andrea",
       "ruolo": "A",
       "squadra": "Inter",
@@ -4638,6 +4630,14 @@
       "ruolo": "A",
       "squadra": "Cagliari",
       "data nascita": "11/3/87",
+      "proprietario": ""
+    },
+    {
+      "": "",
+      "nominativo": "SCAMACCA Gianluca",
+      "ruolo": "A",
+      "squadra": "Sassuolo",
+      "data nascita": "1/1/99",
       "proprietario": ""
     },
     {
@@ -4806,14 +4806,6 @@
       "ruolo": "A",
       "squadra": "Napoli",
       "data nascita": "3/3/99",
-      "proprietario": ""
-    },
-    {
-      "": "",
-      "nominativo": "ZIGONI Gianmarco",
-      "ruolo": "A",
-      "squadra": "Milan",
-      "data nascita": "5/10/91",
       "proprietario": ""
     }
   ]
