@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="wwwroot\app\app.js" />
     <Content Include="wwwroot\app\Controllers\playersListController.js" />
     <Content Include="wwwroot\app\main.js" />
   </ItemGroup>
