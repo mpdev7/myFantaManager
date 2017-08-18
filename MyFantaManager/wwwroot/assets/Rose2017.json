@@ -338,14 +338,6 @@
     },
     {
       "": "",
-      "nominativo": "RADUNOVIC Boris",
-      "ruolo": "P",
-      "squadra": "Atalanta",
-      "data nascita": "5/26/96",
-      "proprietario": ""
-    },
-    {
-      "": "",
       "nominativo": "RAFAEL Cabral Barbosa",
       "ruolo": "P",
       "squadra": "Napoli",
@@ -738,6 +730,14 @@
     },
     {
       "": "",
+      "nominativo": "BIRAGHI Cristiano",
+      "ruolo": "D",
+      "squadra": "Fiorentina",
+      "data nascita": "9/1/92",
+      "proprietario": ""
+    },
+    {
+      "": "",
       "nominativo": "BIRASCHI Davide",
       "ruolo": "D",
       "squadra": "Genoa",
@@ -999,7 +999,7 @@
       "squadra": "Udinese",
       "data nascita": "5/10/84",
       "proprietario": ""
-    },    
+    },
     {
       "": "",
       "nominativo": "DE MAIO Sebastien",
@@ -1706,14 +1706,6 @@
     },
     {
       "": "",
-      "nominativo": "PADELLA Emanuele",
-      "ruolo": "D",
-      "squadra": "Benevento",
-      "data nascita": "9/24/88",
-      "proprietario": ""
-    },
-    {
-      "": "",
       "nominativo": "PALETTA Gabriel Alejandro",
       "ruolo": "D",
       "squadra": "Milan",
@@ -1750,6 +1742,14 @@
       "ruolo": "D",
       "squadra": "Sassuolo",
       "data nascita": "1/20/84",
+      "proprietario": ""
+    },
+    {
+      "": "",
+      "nominativo": "PEZZELLA German",
+      "ruolo": "D",
+      "squadra": "Fiorentina",
+      "data nascita": "6/27/91",
       "proprietario": ""
     },
     {
@@ -1844,7 +1844,7 @@
       "": "",
       "nominativo": "ROSSETTINI Luca",
       "ruolo": "D",
-      "squadra": "Torino",
+      "squadra": "Genoa",
       "data nascita": "5/9/85",
       "proprietario": ""
     },
@@ -1903,14 +1903,6 @@
       "squadra": "Sampdoria",
       "data nascita": "9/25/84",
       "proprietario": "Polisportiva"
-    },
-    {
-      "": "",
-      "nominativo": "SIMIC Lorenco",
-      "ruolo": "D",
-      "squadra": "Sampdoria",
-      "data nascita": "7/15/96",
-      "proprietario": ""
     },
     {
       "": "",
@@ -1982,14 +1974,6 @@
       "ruolo": "D",
       "squadra": "Bologna",
       "data nascita": "6/10/85",
-      "proprietario": ""
-    },
-    {
-      "": "",
-      "nominativo": "TROIANI Michele",
-      "ruolo": "D",
-      "squadra": "Chievo",
-      "data nascita": "7/21/96",
       "proprietario": ""
     },
     {
@@ -2206,6 +2190,14 @@
       "ruolo": "C",
       "squadra": "Chievo",
       "data nascita": "9/26/96",
+      "proprietario": ""
+    },
+    {
+      "": "",
+      "nominativo": "BEHRAMI Valon",
+      "ruolo": "C",
+      "squadra": "Udinese",
+      "data nascita": "4/19/85",
       "proprietario": ""
     },
     {
@@ -2954,7 +2946,7 @@
     },
     {
       "": "",
-      "nominativo": "LEIVA Lucas Pezzini",
+      "nominativo": "LUCAS Leiva Pezzini",
       "ruolo": "C",
       "squadra": "Lazio",
       "data nascita": "1/9/87",
@@ -2974,14 +2966,6 @@
       "ruolo": "C",
       "squadra": "Milan",
       "data nascita": "1/8/98",
-      "proprietario": ""
-    },
-    {
-      "": "",
-      "nominativo": "LUKIC Sasa",
-      "ruolo": "C",
-      "squadra": "Torino",
-      "data nascita": "8/13/96",
       "proprietario": ""
     },
     {
@@ -3602,14 +3586,6 @@
     },
     {
       "": "",
-      "nominativo": "BACCA Carlos Arturo",
-      "ruolo": "A",
-      "squadra": "Milan",
-      "data nascita": "9/8/86",
-      "proprietario": ""
-    },
-    {
-      "": "",
       "nominativo": "BAEZ Jaime",
       "ruolo": "A",
       "squadra": "Fiorentina",
@@ -3826,6 +3802,14 @@
     },
     {
       "": "",
+      "nominativo": "DIAS Gil Bastiao",
+      "ruolo": "A",
+      "squadra": "Fiorentina",
+      "data nascita": "9/28/96",
+      "proprietario": ""
+    },
+    {
+      "": "",
       "nominativo": "DJORDJEVIC Filip",
       "ruolo": "A",
       "squadra": "Lazio",
@@ -3974,14 +3958,6 @@
       "ruolo": "A",
       "squadra": "Genoa",
       "data nascita": "11/27/88",
-      "proprietario": ""
-    },
-    {
-      "": "",
-      "nominativo": "GATTO Leonardo",
-      "ruolo": "A",
-      "squadra": "Atalanta",
-      "data nascita": "4/28/92",
       "proprietario": ""
     },
     {
@@ -4314,14 +4290,6 @@
     },
     {
       "": "",
-      "nominativo": "MOROSINI Leonardo",
-      "ruolo": "A",
-      "squadra": "Genoa",
-      "data nascita": "10/13/95",
-      "proprietario": ""
-    },
-    {
-      "": "",
       "nominativo": "MOUNIER Anthony",
       "ruolo": "A",
       "squadra": "Bologna",
@@ -4366,6 +4334,14 @@
       "ruolo": "A",
       "squadra": "Napoli",
       "data nascita": "11/11/96",
+      "proprietario": ""
+    },
+    {
+      "": "",
+      "nominativo": "PALACIO Rodrigo Sebastian",
+      "ruolo": "A",
+      "squadra": "Bologna",
+      "data nascita": "2/5/82",
       "proprietario": ""
     },
     {
@@ -4612,7 +4588,7 @@
       "": "",
       "nominativo": "SADIQ Umar",
       "ruolo": "A",
-      "squadra": "Roma",
+      "squadra": "Torino",
       "data nascita": "2/2/97",
       "proprietario": ""
     },
@@ -4652,7 +4628,7 @@
       "": "",
       "nominativo": "SIMEONE Giovanni Pablo",
       "ruolo": "A",
-      "squadra": "Genoa",
+      "squadra": "Fiorentina",
       "data nascita": "7/5/95",
       "proprietario": "Olimpia"
     },
